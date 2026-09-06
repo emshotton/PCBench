@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/zhiayang",
+  "source": "https://github.com/zhiayang/mikoto",
+  "author": "zhiayang",
+  "retrieved at": "2026-09-06 12:38:44.192466",
+  "raw": "../../PCBs/mikoto_mikoto-flashbed/raw.kicad_pcb",
+  "cleaned": "../../PCBs/mikoto_mikoto-flashbed/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/mikoto_mikoto-flashbed/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "86318f6c69495b8308354b6393d85229177b26ae",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "flashbed/mikoto-flashbed.kicad_pcb",
+  "source_commit": "86318f6c69495b8308354b6393d85229177b26ae"
+}

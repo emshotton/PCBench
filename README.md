@@ -102,3 +102,11 @@ Boards marked `unlicensed` are held for research and evaluation only. Their auth
 all rights, and they must not be redistributed; [`LICENSES.md`](LICENSES.md) lists them
 along with counts per license. `Scripts/Licensing/resolve_licenses.py` regenerates all of
 the above from the source repositories.
+
+### Boards added after the original collection
+
+Boards added with `Scripts/Data_collection/add_boards.py` (their `metadata.json` carries
+`source_path` and `source_commit`) differ from the original 1182 in two ways:
+`processed.kicad_pcb` is the raw board with zone fills removed and routing kept, rather than
+the re-routed board of the original cleaning pipeline; and `final.json`/`visual.png` are not
+present, because the PCB-RDL extractor handles the KiCad 5 file format only.

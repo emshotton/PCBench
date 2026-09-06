@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/adafruit",
+  "source": "https://github.com/adafruit/Feather-ICE40-PCB",
+  "author": "adafruit",
+  "retrieved at": "2026-09-06 12:39:06.693620",
+  "raw": "../../PCBs/Feather-ICE40-PCB_feather_ice40/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Feather-ICE40-PCB_feather_ice40/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "d2a4cf7ad1d9c1139535624bacd64d180dd3e111",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20170123",
+  "kicad_version": "5",
+  "source_path": "feather_ice40.kicad_pcb",
+  "source_commit": "d2a4cf7ad1d9c1139535624bacd64d180dd3e111"
+}

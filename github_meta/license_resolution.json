@@ -1175,6 +1175,31 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "Gekkio/gb-hardware": {
+    "boards": [
+      "gb-hardware_GB-BRK-CART",
+      "gb-hardware_GB-BRK-M-XS",
+      "gb-hardware_GB-BRK-SLOT-A",
+      "gb-hardware_GB-BRK-SLOT-B",
+      "gb-hardware_GB-BRK-TR-A",
+      "gb-hardware_GB-CART256K-A",
+      "gb-hardware_GB-CART32K-A",
+      "gb-hardware_GB-CARTPP-DIY",
+      "gb-hardware_GB-CARTPP-XC",
+      "gb-hardware_GB-LIVE32",
+      "gb-hardware_GB-MBCTEST"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+    "spdx_id": "CC-BY-4.0",
+    "status": "licensed"
+  },
   "GenericLab/GOSH-Board_UGM": {
     "boards": [
       "kitspace_CocoMixtape_UGM_Kicad"
@@ -1273,6 +1298,26 @@
     "source_commit": "93092aca243353ddf662a0d1d138481efd4cb546",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "Hanqaqa/Easyduino": {
+    "boards": [
+      "Easyduino_Easyduino_Atmega",
+      "Easyduino_Easyduino_Atmega_Nano",
+      "Easyduino_Easyduino_ESP32",
+      "Easyduino_Easyduino_ESP32S3",
+      "Easyduino_Easyduino_RP2040",
+      "Easyduino_Easyduino_STM32F103"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "License.txt",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
   },
   "HarborZhang/pcbproject_opensda": {
     "boards": [
@@ -2304,6 +2349,39 @@
     "spdx_id": "Apache-2.0",
     "status": "licensed"
   },
+  "Miceuz/i2c-moisture-sensor": {
+    "boards": [
+      "i2c-moisture-sensor_i2c-moist-sensor"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "c687328d2fdbe45b1b6c9d6b92627460e9f3167d",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
+  "Miceuz/rs485-moist-sensor": {
+    "boards": [
+      "rs485-moist-sensor_adapter",
+      "rs485-moist-sensor_adapter-por",
+      "rs485-moist-sensor_interconnect",
+      "rs485-moist-sensor_rs485-moist-sensor"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
   "Miceuz/soil-moisture-sensor-analog": {
     "boards": [
       "soil-moisture-sensor-analog_analog-moist-sensor"
@@ -2578,6 +2656,26 @@
     "spdx_id": "CERN-OHL-1.2",
     "status": "licensed"
   },
+  "OpenLightingProject/rp2040-dmxsun": {
+    "boards": [
+      "rp2040-dmxsun_baseboard_2slots",
+      "rp2040-dmxsun_baseboard_4slots",
+      "rp2040-dmxsun_ioboard_2ports_rdm_isolated",
+      "rp2040-dmxsun_ioboard_2ports_unisolated",
+      "rp2040-dmxsun_ioboard_4ports_isolated",
+      "rp2040-dmxsun_ioboard_4ports_unisolated"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
   "Opendigitalradio/lea-m8f-board": {
     "boards": [
       "lea-m8f-board_lea-m8f"
@@ -2744,6 +2842,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "Protocentral/protocentral_fdc2214_hardware": {
+    "boards": [
+      "protocentral_fdc2214_hardware_brk_fdc2214_v2"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "fa7d920b12e2d583bde3b135f1471377d15f1b4b",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "PymZoR/L6235-PCB": {
     "boards": [
       "L6235-PCB_L6235"
@@ -2829,6 +2942,27 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "RespiraWorks/Ventilator": {
+    "boards": [
+      "Ventilator_indicator-board",
+      "Ventilator_pressure_XGZP6897A",
+      "Ventilator_pressure_mpx5700ap_gp",
+      "Ventilator_pressure_mpxv5004_10dp",
+      "Ventilator_pressure_mpxv5004dp",
+      "Ventilator_pressure_mpxv5010dp",
+      "Ventilator_pressure_ms4525do"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
   "RobertBaruch/4_digit_hex_display": {
     "boards": [
       "4_digit_hex_display_4_digit_display"
@@ -2910,6 +3044,21 @@
     "path": "LICENCE",
     "source_commit": "6ccd88501c99e2339571de744d003d571be47fad",
     "spdx_id": "CERN-OHL-W-2.0",
+    "status": "licensed"
+  },
+  "Seeed-Studio/OSHW-reCamera-Series": {
+    "boards": [
+      "OSHW-reCamera-Series_reCamera_Basically_Board"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "b2de0db0f342badfb59d672750a9d7ab21450d81",
+    "spdx_id": "Apache-2.0",
     "status": "licensed"
   },
   "Sembazuru/SPI-shift-register-CS": {
@@ -3531,6 +3680,21 @@
     "spdx_id": null,
     "status": "licensed-unclassified"
   },
+  "adafruit/Feather-ICE40-PCB": {
+    "boards": [
+      "Feather-ICE40-PCB_feather_ice40"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "d2a4cf7ad1d9c1139535624bacd64d180dd3e111",
+    "spdx_id": "CC-BY-4.0",
+    "status": "licensed"
+  },
   "adamgreig/bikedar": {
     "boards": [
       "bikedar_bikedar"
@@ -3598,6 +3762,21 @@
     "source_commit": "5cedd9e6debb29a8ee0c0720d3c44243a9fd37cc",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "aderusha/HASwitchPlate": {
+    "boards": [
+      "HASwitchPlate_HASwitchPlate"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "8d086bcc3545c85f6193ab016deee03608b11a94",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "adnbr/OpenBot": {
     "boards": [
@@ -7384,6 +7563,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "k0swe/mountaineer": {
+    "boards": [
+      "mountaineer_mountaineer"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "0555552a2d3ea741fc4acc02a837dffa03b8e9bb",
+    "spdx_id": "CC-BY-4.0",
+    "status": "licensed"
+  },
   "kadamski/dust_sensor": {
     "boards": [
       "dust_sensor_dust_sensor"
@@ -8269,6 +8463,21 @@
     "source_commit": "1c48464e517ce12f0a1c7636046c4b49ce48010e",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "maxlab-io/tokay-lite-pcb": {
+    "boards": [
+      "tokay-lite-pcb_ai-camera-rev3.2"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.txt",
+    "source_commit": "fd04d94a332d745ad4c09e4e2da0fbb61fde3218",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
   },
   "mbialon/esp8266_wi07_3_adapter": {
     "boards": [
@@ -10593,6 +10802,53 @@
     "spdx_id": "GPL-2.0",
     "status": "licensed"
   },
+  "siderakb/ergo-snm-keyboard": {
+    "boards": [
+      "ergo-snm-keyboard_receiver"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "20e9e51e9f52749140369968b2bf5e741bf063b0",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
+  "siderakb/pmw3360-pcb": {
+    "boards": [
+      "pmw3360-pcb_pmw3360_pcb_ffc",
+      "pmw3360-pcb_pmw3360_pcb_jst",
+      "pmw3360-pcb_pmw3360_pcb_pinheader"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE-CERN-OHL-P",
+    "source_commit": "cd8874d863a454403262b8525a7f16351b66f0b8",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
+  "siderakb/rp-micro": {
+    "boards": [
+      "rp-micro_rp-micro"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "a7baf36025b974ed55b4676ad1e9f7e79f16bba1",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "simonantonio/flip32plus": {
     "boards": [
       "flip32plus_flip32"
@@ -11831,6 +12087,30 @@
     "spdx_id": "GPL-3.0",
     "status": "source-missing"
   },
+  "wntrblm/Hubble": {
+    "boards": [
+      "Hubble_12_bit_analog_out",
+      "Hubble_16_bit_analog_out",
+      "Hubble_analog_in_buffers",
+      "Hubble_jacks",
+      "Hubble_leds",
+      "Hubble_mcu",
+      "Hubble_mux",
+      "Hubble_power"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT",
+      "CERN-OHL-P-2.0",
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "wolfeidau/basic_esp_board": {
     "boards": [
       "basic_esp_board_basic_esp_board"
@@ -12097,6 +12377,22 @@
     "source_commit": "d79780bb1688320634c50a10777169c7549243bc",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "zhiayang/mikoto": {
+    "boards": [
+      "mikoto_mikoto",
+      "mikoto_mikoto-flashbed"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "86318f6c69495b8308354b6393d85229177b26ae",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
   },
   "zigastegu/Dekada": {
     "boards": [

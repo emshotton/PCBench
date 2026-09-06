@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/RespiraWorks",
+  "source": "https://github.com/RespiraWorks/Ventilator",
+  "author": "RespiraWorks",
+  "retrieved at": "2026-09-06 12:38:56.645769",
+  "raw": "../../PCBs/Ventilator_pressure_mpxv5004_10dp/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Ventilator_pressure_mpxv5004_10dp/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "pcb/sensor-daughterboards/pressure_mpxv5004,10dp_common/pressure_mpxv5004,10dp.kicad_pcb",
+  "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+}

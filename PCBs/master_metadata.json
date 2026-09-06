@@ -1,13 +1,13 @@
 {
   "Global Info": {
-    "Num. Unique pcb designs": 1182,
-    "Num. Unique repos": 841,
-    "Kicad source files": 1182,
+    "Num. Unique pcb designs": 1238,
+    "Num. Unique repos": 858,
+    "Kicad source files": 1238,
     "Eagle source files": 0,
-    "From Adafruit": 0,
+    "From Adafruit": 1,
     "From Sparkfun": 0,
     "From Kitspace": 133,
-    "Licensed": 601,
+    "Licensed": 657,
     "Licensed (unclassified)": 16,
     "Unlicensed": 519,
     "Source missing": 46,
@@ -92,6 +92,7 @@
       "https://github.com/Gacathon/LeeChee",
       "https://github.com/GaudiLabs/ChaosLooper",
       "https://github.com/GaudiLabs/OpenTheremin_V3_Shield",
+      "https://github.com/Gekkio/gb-hardware",
       "https://github.com/GenericLab/GOSH-Board_UGM/",
       "https://github.com/GenericLab/TurbiGnUSB",
       "https://github.com/GlasgowEmbedded/glasgow",
@@ -99,6 +100,7 @@
       "https://github.com/HackerSchool/HES-V2",
       "https://github.com/HackerspaceVLC/navelino",
       "https://github.com/HackerspaceVLC/navelino-leaf",
+      "https://github.com/Hanqaqa/Easyduino",
       "https://github.com/HarborZhang/pcbproject_opensda",
       "https://github.com/HubertD/mdbwerk",
       "https://github.com/HydroPWNics/SunLeaf",
@@ -170,6 +172,8 @@
       "https://github.com/MaxZimmer/Spikeling-V2",
       "https://github.com/Miceuz/ciurlys",
       "https://github.com/Miceuz/drawduino",
+      "https://github.com/Miceuz/i2c-moisture-sensor",
+      "https://github.com/Miceuz/rs485-moist-sensor",
       "https://github.com/Miceuz/soil-moisture-sensor-analog",
       "https://github.com/MickMad/HACK",
       "https://github.com/MickMad/HiFiAudioCodecModule",
@@ -189,6 +193,7 @@
       "https://github.com/OlliL/P8000_WDC_Emulator",
       "https://github.com/OpenElectronicsLab/OpenHardwareExG_ActiveElectrode",
       "https://github.com/OpenElectronicsLab/OpenHardwareExG_Shield",
+      "https://github.com/OpenLightingProject/rp2040-dmxsun",
       "https://github.com/Opendigitalradio/lea-m8f-board",
       "https://github.com/Ottercast/OtterCastAmp",
       "https://github.com/Ottercast/OtterCastAudioV2",
@@ -200,18 +205,21 @@
       "https://github.com/PrabhuSammandam/digital_clock",
       "https://github.com/PreferLinux/open-source-multimeter",
       "https://github.com/Project-Aurora/RainbowFox",
+      "https://github.com/Protocentral/protocentral_fdc2214_hardware",
       "https://github.com/PymZoR/L6235-PCB",
       "https://github.com/Ralim/OpenMPPT",
       "https://github.com/Ralim/Pi-Zero-SD-and-Audio-Out",
       "https://github.com/Ralim/PiPlay",
       "https://github.com/Ratfink/sonic3_feram_adapter",
       "https://github.com/ReclaimerLabs/RGBMatrixPanelCPLD-PhotonBackpack",
+      "https://github.com/RespiraWorks/Ventilator",
       "https://github.com/RobertBaruch/4_digit_hex_display",
       "https://github.com/Roboteurs/slushengine-modelx",
       "https://github.com/Sakura-IT/akuhei",
       "https://github.com/Sakura-IT/decelerator4030",
       "https://github.com/Scottapotamas/typec-charger",
       "https://github.com/SdtElectronics/Xassette-Asterisk",
+      "https://github.com/Seeed-Studio/OSHW-reCamera-Series",
       "https://github.com/Sembazuru/SPI-shift-register-CS",
       "https://github.com/SheshkoKonstantin/clunet-switch1",
       "https://github.com/SindormirNet/S4A-Mini-board",
@@ -256,11 +264,13 @@
       "https://github.com/Zidit/Usb_dac",
       "https://github.com/a-wai/nanoTracer",
       "https://github.com/acolomitchi/cap-soil-moisture-v2",
+      "https://github.com/adafruit/Feather-ICE40-PCB",
       "https://github.com/adamgreig/bikedar",
       "https://github.com/adamjvr/Aria",
       "https://github.com/adamjvr/S1G-Mod",
       "https://github.com/adamjvr/Solare-BQ24210",
       "https://github.com/adamjvr/Vento",
+      "https://github.com/aderusha/HASwitchPlate",
       "https://github.com/adnbr/OpenBot",
       "https://github.com/aeracoop/PixyWirelessShield",
       "https://github.com/aeracoop/cjmcu2",
@@ -524,6 +534,7 @@
       "https://github.com/jstodberg/Hardware-done-with-kicad",
       "https://github.com/julbouln/stm32_mech_keyboard",
       "https://github.com/julien8/PoEPi-hardware",
+      "https://github.com/k0swe/mountaineer",
       "https://github.com/kadamski/dust_sensor",
       "https://github.com/kasbah/push-on-hold-off",
       "https://github.com/kb-consulting/pt101a",
@@ -588,6 +599,7 @@
       "https://github.com/mattvenn/esp8266-breakout",
       "https://github.com/mattvenn/solar-lora",
       "https://github.com/mattvenn/teensy-audio-fx",
+      "https://github.com/maxlab-io/tokay-lite-pcb",
       "https://github.com/mbialon/esp8266_wi07_3_adapter",
       "https://github.com/meerstern/STM32F303_LQFP48",
       "https://github.com/meerstern/STM32F373_LQFP48",
@@ -746,6 +758,9 @@
       "https://github.com/sgreg/atmegax8-protoboard",
       "https://github.com/sgust/Amiga-A1012-PCB",
       "https://github.com/sharebrained/medusa",
+      "https://github.com/siderakb/ergo-snm-keyboard",
+      "https://github.com/siderakb/pmw3360-pcb",
+      "https://github.com/siderakb/rp-micro",
       "https://github.com/simonantonio/flip32plus",
       "https://github.com/sisuware/esp-leipa",
       "https://github.com/skopjehacklab/kika-in-space",
@@ -832,6 +847,7 @@
       "https://github.com/wickerbox/Teensy-Hats",
       "https://github.com/wiggleport/wiggle-spine",
       "https://github.com/windsorschmidt/cdi-tach",
+      "https://github.com/wntrblm/Hubble",
       "https://github.com/wolfeidau/basic_esp_board",
       "https://github.com/wolffjj/Atreus_54percent",
       "https://github.com/wvat/Radar-System",
@@ -851,6 +867,7 @@
       "https://github.com/zeldin/gdrom_adapter_board",
       "https://github.com/zerberros/Class_D_Amp",
       "https://github.com/zetsu42/type5",
+      "https://github.com/zhiayang/mikoto",
       "https://github.com/zigastegu/Dekada",
       "https://github.com/zwb800/RASPMINI"
     ]
@@ -3781,6 +3798,168 @@
     "layers": 4,
     "CAD version": "KiCad 20171130"
   },
+  "Easyduino_Easyduino_Atmega": {
+    "org": "https://github.com/Hanqaqa",
+    "source": "https://github.com/Hanqaqa/Easyduino",
+    "author": "Hanqaqa",
+    "retrieved at": "2026-09-06 12:38:30.618627",
+    "raw": "../../PCBs/Easyduino_Easyduino_Atmega/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Easyduino_Easyduino_Atmega/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/Easyduino_Easyduino_Atmega/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "License.txt",
+      "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20260206",
+    "kicad_version": "10.0",
+    "source_path": "Atmega328p Arduino Uno/Easyduino_Atmega.kicad_pcb",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30"
+  },
+  "Easyduino_Easyduino_Atmega_Nano": {
+    "org": "https://github.com/Hanqaqa",
+    "source": "https://github.com/Hanqaqa/Easyduino",
+    "author": "Hanqaqa",
+    "retrieved at": "2026-09-06 12:38:30.110961",
+    "raw": "../../PCBs/Easyduino_Easyduino_Atmega_Nano/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Easyduino_Easyduino_Atmega_Nano/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/Easyduino_Easyduino_Atmega_Nano/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "License.txt",
+      "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20260206",
+    "kicad_version": "10.0",
+    "source_path": "Atmega328p Arduino Nano/Easyduino_Atmega_Nano.kicad_pcb",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30"
+  },
+  "Easyduino_Easyduino_ESP32": {
+    "org": "https://github.com/Hanqaqa",
+    "source": "https://github.com/Hanqaqa/Easyduino",
+    "author": "Hanqaqa",
+    "retrieved at": "2026-09-06 12:38:31.091768",
+    "raw": "../../PCBs/Easyduino_Easyduino_ESP32/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Easyduino_Easyduino_ESP32/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/Easyduino_Easyduino_ESP32/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "License.txt",
+      "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20260206",
+    "kicad_version": "10.0",
+    "source_path": "ESP32/Easyduino_ESP32.kicad_pcb",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30"
+  },
+  "Easyduino_Easyduino_ESP32S3": {
+    "org": "https://github.com/Hanqaqa",
+    "source": "https://github.com/Hanqaqa/Easyduino",
+    "author": "Hanqaqa",
+    "retrieved at": "2026-09-06 12:38:31.613160",
+    "raw": "../../PCBs/Easyduino_Easyduino_ESP32S3/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Easyduino_Easyduino_ESP32S3/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/Easyduino_Easyduino_ESP32S3/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "License.txt",
+      "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20260206",
+    "kicad_version": "10.0",
+    "source_path": "ESP32S3/Easyduino_ESP32S3.kicad_pcb",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30"
+  },
+  "Easyduino_Easyduino_RP2040": {
+    "org": "https://github.com/Hanqaqa",
+    "source": "https://github.com/Hanqaqa/Easyduino",
+    "author": "Hanqaqa",
+    "retrieved at": "2026-09-06 12:38:32.178638",
+    "raw": "../../PCBs/Easyduino_Easyduino_RP2040/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Easyduino_Easyduino_RP2040/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/Easyduino_Easyduino_RP2040/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "License.txt",
+      "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20260206",
+    "kicad_version": "10.0",
+    "source_path": "Raspberry Pi Pico 2040/Easyduino_RP2040.kicad_pcb",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30"
+  },
+  "Easyduino_Easyduino_STM32F103": {
+    "org": "https://github.com/Hanqaqa",
+    "source": "https://github.com/Hanqaqa/Easyduino",
+    "author": "Hanqaqa",
+    "retrieved at": "2026-09-06 12:38:32.732941",
+    "raw": "../../PCBs/Easyduino_Easyduino_STM32F103/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Easyduino_Easyduino_STM32F103/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/Easyduino_Easyduino_STM32F103/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "License.txt",
+      "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20260206",
+    "kicad_version": "10.0",
+    "source_path": "STM32F103 Bluepill/Easyduino_STM32F103.kicad_pcb",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30"
+  },
   "Eggbot-Spherebot-polargraph-Controller_eggbot-spherebot-polargraph-controller": {
     "org": "https://github.com/MarkJB",
     "source": "https://github.com/MarkJB/Eggbot-Spherebot-polargraph-Controller",
@@ -4061,6 +4240,33 @@
     "layers": 4,
     "CAD version": "KiCad 20171130"
   },
+  "Feather-ICE40-PCB_feather_ice40": {
+    "org": "https://github.com/adafruit",
+    "source": "https://github.com/adafruit/Feather-ICE40-PCB",
+    "author": "adafruit",
+    "retrieved at": "2026-09-06 12:39:06.693620",
+    "raw": "../../PCBs/Feather-ICE40-PCB_feather_ice40/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Feather-ICE40-PCB_feather_ice40/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "d2a4cf7ad1d9c1139535624bacd64d180dd3e111",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20170123",
+    "kicad_version": "5",
+    "source_path": "feather_ice40.kicad_pcb",
+    "source_commit": "d2a4cf7ad1d9c1139535624bacd64d180dd3e111"
+  },
   "FireMC_rados": {
     "org": "https://github.com/otheruse",
     "source": "https://github.com/otheruse/FireMC",
@@ -4250,6 +4456,33 @@
     },
     "layers": 2,
     "CAD version": "KiCad 4"
+  },
+  "HASwitchPlate_HASwitchPlate": {
+    "org": "https://github.com/aderusha",
+    "source": "https://github.com/aderusha/HASwitchPlate",
+    "author": "aderusha",
+    "retrieved at": "2026-09-06 12:38:59.069833",
+    "raw": "../../PCBs/HASwitchPlate_HASwitchPlate/raw.kicad_pcb",
+    "cleaned": "../../PCBs/HASwitchPlate_HASwitchPlate/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "MIT",
+      "name": "MIT License",
+      "path": "LICENSE",
+      "source_commit": "8d086bcc3545c85f6193ab016deee03608b11a94",
+      "detected_by": "github",
+      "detected_ids": [
+        "MIT"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "PCB/HASwitchPlate.kicad_pcb",
+    "source_commit": "8d086bcc3545c85f6193ab016deee03608b11a94"
   },
   "HES-V2__autosave-hes": {
     "org": "https://github.com/HackerSchool",
@@ -5456,6 +5689,238 @@
     },
     "layers": 2,
     "CAD version": "KiCad 20171130"
+  },
+  "Hubble_12_bit_analog_out": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:40.884371",
+    "raw": "../../PCBs/Hubble_12_bit_analog_out/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_12_bit_analog_out/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/12_bit_analog_out/12_bit_analog_out.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+  },
+  "Hubble_16_bit_analog_out": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:42.486024",
+    "raw": "../../PCBs/Hubble_16_bit_analog_out/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_16_bit_analog_out/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/16_bit_analog_out/16_bit_analog_out.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+  },
+  "Hubble_analog_in_buffers": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:42.914505",
+    "raw": "../../PCBs/Hubble_analog_in_buffers/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_analog_in_buffers/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/analog_in_buffers/analog_in_buffers.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+  },
+  "Hubble_jacks": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:43.274646",
+    "raw": "../../PCBs/Hubble_jacks/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_jacks/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/jacks/jacks.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+  },
+  "Hubble_leds": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:39.583001",
+    "raw": "../../PCBs/Hubble_leds/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_leds/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/leds/leds.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+  },
+  "Hubble_mcu": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:39.137375",
+    "raw": "../../PCBs/Hubble_mcu/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_mcu/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/mcu/mcu.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+  },
+  "Hubble_mux": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:40.501952",
+    "raw": "../../PCBs/Hubble_mux/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_mux/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/mux/mux.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+  },
+  "Hubble_power": {
+    "org": "https://github.com/wntrblm",
+    "source": "https://github.com/wntrblm/Hubble",
+    "author": "wntrblm",
+    "retrieved at": "2026-09-06 12:38:40.068730",
+    "raw": "../../PCBs/Hubble_power/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Hubble_power/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.md",
+      "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "MIT",
+        "CERN-OHL-P-2.0",
+        "CC-BY-SA-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "hardware/breakouts/power/power.kicad_pcb",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
   },
   "Hypfer-RGB-W-LED-Controller_led_strip_controller": {
     "org": "https://github.com/Duckle29",
@@ -7938,6 +8403,33 @@
     },
     "layers": 2,
     "CAD version": "KiCad 20171130"
+  },
+  "OSHW-reCamera-Series_reCamera_Basically_Board": {
+    "org": "https://github.com/Seeed-Studio",
+    "source": "https://github.com/Seeed-Studio/OSHW-reCamera-Series",
+    "author": "Seeed-Studio",
+    "retrieved at": "2026-09-06 12:38:57.127969",
+    "raw": "../../PCBs/OSHW-reCamera-Series_reCamera_Basically_Board/raw.kicad_pcb",
+    "cleaned": "../../PCBs/OSHW-reCamera-Series_reCamera_Basically_Board/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/OSHW-reCamera-Series_reCamera_Basically_Board/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "b2de0db0f342badfb59d672750a9d7ab21450d81",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "hardware/recamera-2002/products/gimbal/power-board/PCB/reCamera_Gimbal_Power_Supply_v1.0_SCH&PCB_250109/reCamera Basically Board.kicad_pcb",
+    "source_commit": "b2de0db0f342badfb59d672750a9d7ab21450d81"
   },
   "Omega2-Berrydock_berrydock-mini": {
     "org": "https://github.com/berryelectronics",
@@ -12165,6 +12657,195 @@
     "layers": 2,
     "CAD version": "KiCad 20171130"
   },
+  "Ventilator_indicator-board": {
+    "org": "https://github.com/RespiraWorks",
+    "source": "https://github.com/RespiraWorks/Ventilator",
+    "author": "RespiraWorks",
+    "retrieved at": "2026-09-06 12:38:54.102454",
+    "raw": "../../PCBs/Ventilator_indicator-board/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Ventilator_indicator-board/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "pcb/indicator-board/indicator-board.kicad_pcb",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+  },
+  "Ventilator_pressure_XGZP6897A": {
+    "org": "https://github.com/RespiraWorks",
+    "source": "https://github.com/RespiraWorks/Ventilator",
+    "author": "RespiraWorks",
+    "retrieved at": "2026-09-06 12:38:54.929083",
+    "raw": "../../PCBs/Ventilator_pressure_XGZP6897A/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Ventilator_pressure_XGZP6897A/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "pcb/sensor-daughterboards/pressure_XGZP6897A/pressure_XGZP6897A.kicad_pcb",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+  },
+  "Ventilator_pressure_mpx5700ap_gp": {
+    "org": "https://github.com/RespiraWorks",
+    "source": "https://github.com/RespiraWorks/Ventilator",
+    "author": "RespiraWorks",
+    "retrieved at": "2026-09-06 12:38:56.219147",
+    "raw": "../../PCBs/Ventilator_pressure_mpx5700ap_gp/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Ventilator_pressure_mpx5700ap_gp/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "pcb/sensor-daughterboards/pressure_mpx5700ap,gp/pressure_mpx5700ap,gp.kicad_pcb",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+  },
+  "Ventilator_pressure_mpxv5004_10dp": {
+    "org": "https://github.com/RespiraWorks",
+    "source": "https://github.com/RespiraWorks/Ventilator",
+    "author": "RespiraWorks",
+    "retrieved at": "2026-09-06 12:38:56.645769",
+    "raw": "../../PCBs/Ventilator_pressure_mpxv5004_10dp/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Ventilator_pressure_mpxv5004_10dp/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "pcb/sensor-daughterboards/pressure_mpxv5004,10dp_common/pressure_mpxv5004,10dp.kicad_pcb",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+  },
+  "Ventilator_pressure_mpxv5004dp": {
+    "org": "https://github.com/RespiraWorks",
+    "source": "https://github.com/RespiraWorks/Ventilator",
+    "author": "RespiraWorks",
+    "retrieved at": "2026-09-06 12:38:55.397824",
+    "raw": "../../PCBs/Ventilator_pressure_mpxv5004dp/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Ventilator_pressure_mpxv5004dp/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "pcb/sensor-daughterboards/pressure_mpxv5004dp/pressure_mpxv5004dp.kicad_pcb",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+  },
+  "Ventilator_pressure_mpxv5010dp": {
+    "org": "https://github.com/RespiraWorks",
+    "source": "https://github.com/RespiraWorks/Ventilator",
+    "author": "RespiraWorks",
+    "retrieved at": "2026-09-06 12:38:55.826403",
+    "raw": "../../PCBs/Ventilator_pressure_mpxv5010dp/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Ventilator_pressure_mpxv5010dp/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "pcb/sensor-daughterboards/pressure_mpxv5010dp/pressure_mpxv5010dp.kicad_pcb",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+  },
+  "Ventilator_pressure_ms4525do": {
+    "org": "https://github.com/RespiraWorks",
+    "source": "https://github.com/RespiraWorks/Ventilator",
+    "author": "RespiraWorks",
+    "retrieved at": "2026-09-06 12:38:54.537023",
+    "raw": "../../PCBs/Ventilator_pressure_ms4525do/raw.kicad_pcb",
+    "cleaned": "../../PCBs/Ventilator_pressure_ms4525do/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20171130",
+    "kicad_version": "5",
+    "source_path": "pcb/sensor-daughterboards/pressure_ms4525do/pressure_ms4525do.kicad_pcb",
+    "source_commit": "6165c82de293d66b71f43040a2f145ab70bb49c0"
+  },
   "Vento_Vento": {
     "org": "https://github.com/adamjvr",
     "source": "https://github.com/adamjvr/Vento",
@@ -15546,6 +16227,33 @@
     "layers": 2,
     "CAD version": "KiCad 4"
   },
+  "ergo-snm-keyboard_receiver": {
+    "org": "https://github.com/siderakb",
+    "source": "https://github.com/siderakb/ergo-snm-keyboard",
+    "author": "siderakb",
+    "retrieved at": "2026-09-06 12:38:37.032964",
+    "raw": "../../PCBs/ergo-snm-keyboard_receiver/raw.kicad_pcb",
+    "cleaned": "../../PCBs/ergo-snm-keyboard_receiver/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/ergo-snm-keyboard_receiver/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE",
+      "source_commit": "20e9e51e9f52749140369968b2bf5e741bf063b0",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "ErgoSNM_Keyboard/rev3/receiver/receiver.kicad_pcb",
+    "source_commit": "20e9e51e9f52749140369968b2bf5e741bf063b0"
+  },
   "esp-leipa_esp-12": {
     "org": "https://github.com/sisuware",
     "source": "https://github.com/sisuware/esp-leipa",
@@ -16670,6 +17378,303 @@
     "layers": 2,
     "CAD version": "KiCad 4"
   },
+  "gb-hardware_GB-BRK-CART": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:38:59.893099",
+    "raw": "../../PCBs/gb-hardware_GB-BRK-CART/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-BRK-CART/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-BRK-CART/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-BRK-CART/GB-BRK-CART.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-BRK-M-XS": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:38:59.461031",
+    "raw": "../../PCBs/gb-hardware_GB-BRK-M-XS/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-BRK-M-XS/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-BRK-M-XS/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-BRK-M-XS/GB-BRK-M-XS.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-BRK-SLOT-A": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:02.091179",
+    "raw": "../../PCBs/gb-hardware_GB-BRK-SLOT-A/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-BRK-SLOT-A/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-BRK-SLOT-A/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-BRK-SLOT-A/GB-BRK-SLOT-A.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-BRK-SLOT-B": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:02.587698",
+    "raw": "../../PCBs/gb-hardware_GB-BRK-SLOT-B/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-BRK-SLOT-B/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-BRK-SLOT-B/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-BRK-SLOT-B/GB-BRK-SLOT-B.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-BRK-TR-A": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:00.371670",
+    "raw": "../../PCBs/gb-hardware_GB-BRK-TR-A/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-BRK-TR-A/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-BRK-TR-A/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-BRK-TR-A/GB-BRK-TR-A.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-CART256K-A": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:03.549539",
+    "raw": "../../PCBs/gb-hardware_GB-CART256K-A/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-CART256K-A/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-CART256K-A/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-CART256K-A/GB-CART256K-A.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-CART32K-A": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:03.102534",
+    "raw": "../../PCBs/gb-hardware_GB-CART32K-A/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-CART32K-A/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-CART32K-A/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-CART32K-A/GB-CART32K-A.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-CARTPP-DIY": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:04.021124",
+    "raw": "../../PCBs/gb-hardware_GB-CARTPP-DIY/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-CARTPP-DIY/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-CARTPP-DIY/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-CARTPP-DIY/GB-CARTPP-DIY.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-CARTPP-XC": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:04.552826",
+    "raw": "../../PCBs/gb-hardware_GB-CARTPP-XC/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-CARTPP-XC/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-CARTPP-XC/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-CARTPP-XC/GB-CARTPP-XC.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-LIVE32": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:05.089550",
+    "raw": "../../PCBs/gb-hardware_GB-LIVE32/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-LIVE32/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-LIVE32/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-LIVE32/GB-LIVE32.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
+  "gb-hardware_GB-MBCTEST": {
+    "org": "https://github.com/Gekkio",
+    "source": "https://github.com/Gekkio/gb-hardware",
+    "author": "Gekkio",
+    "retrieved at": "2026-09-06 12:39:05.583711",
+    "raw": "../../PCBs/gb-hardware_GB-MBCTEST/raw.kicad_pcb",
+    "cleaned": "../../PCBs/gb-hardware_GB-MBCTEST/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/gb-hardware_GB-MBCTEST/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "GB-MBCTEST/GB-MBCTEST.kicad_pcb",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+  },
   "gdrom_adapter_board_adapter": {
     "org": "https://github.com/zeldin",
     "source": "https://github.com/zeldin/gdrom_adapter_board",
@@ -17299,6 +18304,33 @@
     },
     "layers": 2,
     "CAD version": "KiCad 4"
+  },
+  "i2c-moisture-sensor_i2c-moist-sensor": {
+    "org": "https://github.com/Miceuz",
+    "source": "https://github.com/Miceuz/i2c-moisture-sensor",
+    "author": "Miceuz",
+    "retrieved at": "2026-09-06 12:38:50.846691",
+    "raw": "../../PCBs/i2c-moisture-sensor_i2c-moist-sensor/raw.kicad_pcb",
+    "cleaned": "../../PCBs/i2c-moisture-sensor_i2c-moist-sensor/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/i2c-moisture-sensor_i2c-moist-sensor/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "c687328d2fdbe45b1b6c9d6b92627460e9f3167d",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20200724",
+    "kicad_version": "5",
+    "source_path": "i2c-moist-sensor.kicad_pcb",
+    "source_commit": "c687328d2fdbe45b1b6c9d6b92627460e9f3167d"
   },
   "i2lcd__autosave-i2lcd": {
     "org": "https://github.com/lucidm",
@@ -22409,6 +23441,60 @@
     "layers": 2,
     "CAD version": "KiCad 4"
   },
+  "mikoto_mikoto": {
+    "org": "https://github.com/zhiayang",
+    "source": "https://github.com/zhiayang/mikoto",
+    "author": "zhiayang",
+    "retrieved at": "2026-09-06 12:38:43.684110",
+    "raw": "../../PCBs/mikoto_mikoto/raw.kicad_pcb",
+    "cleaned": "../../PCBs/mikoto_mikoto/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/mikoto_mikoto/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "86318f6c69495b8308354b6393d85229177b26ae",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "mikoto.kicad_pcb",
+    "source_commit": "86318f6c69495b8308354b6393d85229177b26ae"
+  },
+  "mikoto_mikoto-flashbed": {
+    "org": "https://github.com/zhiayang",
+    "source": "https://github.com/zhiayang/mikoto",
+    "author": "zhiayang",
+    "retrieved at": "2026-09-06 12:38:44.192466",
+    "raw": "../../PCBs/mikoto_mikoto-flashbed/raw.kicad_pcb",
+    "cleaned": "../../PCBs/mikoto_mikoto-flashbed/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/mikoto_mikoto-flashbed/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "86318f6c69495b8308354b6393d85229177b26ae",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20211014",
+    "kicad_version": "6",
+    "source_path": "flashbed/mikoto-flashbed.kicad_pcb",
+    "source_commit": "86318f6c69495b8308354b6393d85229177b26ae"
+  },
   "mini-whip_mini-whip": {
     "org": "https://github.com/vlad-ivanov-name",
     "source": "https://github.com/vlad-ivanov-name/mini-whip",
@@ -22842,6 +23928,33 @@
     },
     "layers": 2,
     "CAD version": "KiCad 20171130"
+  },
+  "mountaineer_mountaineer": {
+    "org": "https://github.com/k0swe",
+    "source": "https://github.com/k0swe/mountaineer",
+    "author": "k0swe",
+    "retrieved at": "2026-09-06 12:39:06.120518",
+    "raw": "../../PCBs/mountaineer_mountaineer/raw.kicad_pcb",
+    "cleaned": "../../PCBs/mountaineer_mountaineer/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/mountaineer_mountaineer/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CC-BY-4.0",
+      "name": "Creative Commons Attribution 4.0 International",
+      "path": "LICENSE",
+      "source_commit": "0555552a2d3ea741fc4acc02a837dffa03b8e9bb",
+      "detected_by": "github",
+      "detected_ids": [
+        "CC-BY-4.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "mountaineer.kicad_pcb",
+    "source_commit": "0555552a2d3ea741fc4acc02a837dffa03b8e9bb"
   },
   "mppt-2420-hc_mppt-2420-hc": {
     "org": "https://github.com/LibreSolar",
@@ -24181,6 +25294,87 @@
     "layers": 2,
     "CAD version": "KiCad 4"
   },
+  "pmw3360-pcb_pmw3360_pcb_ffc": {
+    "org": "https://github.com/siderakb",
+    "source": "https://github.com/siderakb/pmw3360-pcb",
+    "author": "siderakb",
+    "retrieved at": "2026-09-06 12:38:35.947448",
+    "raw": "../../PCBs/pmw3360-pcb_pmw3360_pcb_ffc/raw.kicad_pcb",
+    "cleaned": "../../PCBs/pmw3360-pcb_pmw3360_pcb_ffc/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/pmw3360-pcb_pmw3360_pcb_ffc/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE-CERN-OHL-P",
+      "source_commit": "cd8874d863a454403262b8525a7f16351b66f0b8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "pmw3360_pcb_ffc/pmw3360_pcb_ffc.kicad_pcb",
+    "source_commit": "cd8874d863a454403262b8525a7f16351b66f0b8"
+  },
+  "pmw3360-pcb_pmw3360_pcb_jst": {
+    "org": "https://github.com/siderakb",
+    "source": "https://github.com/siderakb/pmw3360-pcb",
+    "author": "siderakb",
+    "retrieved at": "2026-09-06 12:38:34.430202",
+    "raw": "../../PCBs/pmw3360-pcb_pmw3360_pcb_jst/raw.kicad_pcb",
+    "cleaned": "../../PCBs/pmw3360-pcb_pmw3360_pcb_jst/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/pmw3360-pcb_pmw3360_pcb_jst/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE-CERN-OHL-P",
+      "source_commit": "cd8874d863a454403262b8525a7f16351b66f0b8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "pmw3360_pcb_jst/pmw3360_pcb_jst.kicad_pcb",
+    "source_commit": "cd8874d863a454403262b8525a7f16351b66f0b8"
+  },
+  "pmw3360-pcb_pmw3360_pcb_pinheader": {
+    "org": "https://github.com/siderakb",
+    "source": "https://github.com/siderakb/pmw3360-pcb",
+    "author": "siderakb",
+    "retrieved at": "2026-09-06 12:38:36.445055",
+    "raw": "../../PCBs/pmw3360-pcb_pmw3360_pcb_pinheader/raw.kicad_pcb",
+    "cleaned": "../../PCBs/pmw3360-pcb_pmw3360_pcb_pinheader/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/pmw3360-pcb_pmw3360_pcb_pinheader/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE-CERN-OHL-P",
+      "source_commit": "cd8874d863a454403262b8525a7f16351b66f0b8",
+      "detected_by": "text-match",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20221018",
+    "kicad_version": "7",
+    "source_path": "pmw3360_pcb_pinheader/pmw3360_pcb_pinheader.kicad_pcb",
+    "source_commit": "cd8874d863a454403262b8525a7f16351b66f0b8"
+  },
   "pocketbone-kicad_pocketbone-kicad": {
     "org": "https://github.com/mwelling",
     "source": "https://github.com/mwelling/pocketbone-kicad",
@@ -24390,6 +25584,33 @@
     },
     "layers": 2,
     "CAD version": "KiCad 4"
+  },
+  "protocentral_fdc2214_hardware_brk_fdc2214_v2": {
+    "org": "https://github.com/Protocentral",
+    "source": "https://github.com/Protocentral/protocentral_fdc2214_hardware",
+    "author": "Protocentral",
+    "retrieved at": "2026-09-06 12:38:38.653600",
+    "raw": "../../PCBs/protocentral_fdc2214_hardware_brk_fdc2214_v2/raw.kicad_pcb",
+    "cleaned": "../../PCBs/protocentral_fdc2214_hardware_brk_fdc2214_v2/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/protocentral_fdc2214_hardware_brk_fdc2214_v2/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE",
+      "source_commit": "fa7d920b12e2d583bde3b135f1471377d15f1b4b",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20260206",
+    "kicad_version": "10.0",
+    "source_path": "hardware/brk_fdc2214_v2.kicad_pcb",
+    "source_commit": "fa7d920b12e2d583bde3b135f1471377d15f1b4b"
   },
   "psx2vectrex_vectrexmando": {
     "org": "https://github.com/svofski",
@@ -25342,6 +26563,303 @@
     },
     "layers": 2,
     "CAD version": "KiCad 4"
+  },
+  "rp-micro_rp-micro": {
+    "org": "https://github.com/siderakb",
+    "source": "https://github.com/siderakb/rp-micro",
+    "author": "siderakb",
+    "retrieved at": "2026-09-06 12:38:33.983201",
+    "raw": "../../PCBs/rp-micro_rp-micro/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rp-micro_rp-micro/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/rp-micro_rp-micro/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE",
+      "source_commit": "a7baf36025b974ed55b4676ad1e9f7e79f16bba1",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20211014",
+    "kicad_version": "6",
+    "source_path": "hardware/rp-micro.kicad_pcb",
+    "source_commit": "a7baf36025b974ed55b4676ad1e9f7e79f16bba1"
+  },
+  "rp2040-dmxsun_baseboard_2slots": {
+    "org": "https://github.com/OpenLightingProject",
+    "source": "https://github.com/OpenLightingProject/rp2040-dmxsun",
+    "author": "OpenLightingProject",
+    "retrieved at": "2026-09-06 12:38:44.710788",
+    "raw": "../../PCBs/rp2040-dmxsun_baseboard_2slots/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rp2040-dmxsun_baseboard_2slots/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/rp2040-dmxsun_baseboard_2slots/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "hardware/baseboard_2slots/baseboard_2slots.kicad_pcb",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d"
+  },
+  "rp2040-dmxsun_baseboard_4slots": {
+    "org": "https://github.com/OpenLightingProject",
+    "source": "https://github.com/OpenLightingProject/rp2040-dmxsun",
+    "author": "OpenLightingProject",
+    "retrieved at": "2026-09-06 12:38:45.242728",
+    "raw": "../../PCBs/rp2040-dmxsun_baseboard_4slots/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rp2040-dmxsun_baseboard_4slots/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/rp2040-dmxsun_baseboard_4slots/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "hardware/baseboard_4slots/baseboard_4slots.kicad_pcb",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d"
+  },
+  "rp2040-dmxsun_ioboard_2ports_rdm_isolated": {
+    "org": "https://github.com/OpenLightingProject",
+    "source": "https://github.com/OpenLightingProject/rp2040-dmxsun",
+    "author": "OpenLightingProject",
+    "retrieved at": "2026-09-06 12:38:46.863183",
+    "raw": "../../PCBs/rp2040-dmxsun_ioboard_2ports_rdm_isolated/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rp2040-dmxsun_ioboard_2ports_rdm_isolated/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/rp2040-dmxsun_ioboard_2ports_rdm_isolated/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "hardware/ioboard_2ports_rdm_isolated/ioboard_2ports_rdm_isolated.kicad_pcb",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d"
+  },
+  "rp2040-dmxsun_ioboard_2ports_unisolated": {
+    "org": "https://github.com/OpenLightingProject",
+    "source": "https://github.com/OpenLightingProject/rp2040-dmxsun",
+    "author": "OpenLightingProject",
+    "retrieved at": "2026-09-06 12:38:47.373160",
+    "raw": "../../PCBs/rp2040-dmxsun_ioboard_2ports_unisolated/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rp2040-dmxsun_ioboard_2ports_unisolated/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/rp2040-dmxsun_ioboard_2ports_unisolated/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "hardware/ioboard_2ports_rdm_unisolated/ioboard_2ports_unisolated.kicad_pcb",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d"
+  },
+  "rp2040-dmxsun_ioboard_4ports_isolated": {
+    "org": "https://github.com/OpenLightingProject",
+    "source": "https://github.com/OpenLightingProject/rp2040-dmxsun",
+    "author": "OpenLightingProject",
+    "retrieved at": "2026-09-06 12:38:48.974138",
+    "raw": "../../PCBs/rp2040-dmxsun_ioboard_4ports_isolated/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rp2040-dmxsun_ioboard_4ports_isolated/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/rp2040-dmxsun_ioboard_4ports_isolated/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "hardware/ioboard_4ports_isolated/ioboard_4ports_isolated.kicad_pcb",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d"
+  },
+  "rp2040-dmxsun_ioboard_4ports_unisolated": {
+    "org": "https://github.com/OpenLightingProject",
+    "source": "https://github.com/OpenLightingProject/rp2040-dmxsun",
+    "author": "OpenLightingProject",
+    "retrieved at": "2026-09-06 12:38:50.352689",
+    "raw": "../../PCBs/rp2040-dmxsun_ioboard_4ports_unisolated/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rp2040-dmxsun_ioboard_4ports_unisolated/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/rp2040-dmxsun_ioboard_4ports_unisolated/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "hardware/ioboard_4ports_unisolated/ioboard_4ports_unisolated.kicad_pcb",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d"
+  },
+  "rs485-moist-sensor_adapter": {
+    "org": "https://github.com/Miceuz",
+    "source": "https://github.com/Miceuz/rs485-moist-sensor",
+    "author": "Miceuz",
+    "retrieved at": "2026-09-06 12:38:52.720695",
+    "raw": "../../PCBs/rs485-moist-sensor_adapter/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rs485-moist-sensor_adapter/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20200104",
+    "kicad_version": "5",
+    "source_path": "adapter/adapter.kicad_pcb",
+    "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69"
+  },
+  "rs485-moist-sensor_adapter-por": {
+    "org": "https://github.com/Miceuz",
+    "source": "https://github.com/Miceuz/rs485-moist-sensor",
+    "author": "Miceuz",
+    "retrieved at": "2026-09-06 12:38:53.241671",
+    "raw": "../../PCBs/rs485-moist-sensor_adapter-por/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rs485-moist-sensor_adapter-por/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20200119",
+    "kicad_version": "5",
+    "source_path": "adapter-por/adapter-por.kicad_pcb",
+    "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69"
+  },
+  "rs485-moist-sensor_interconnect": {
+    "org": "https://github.com/Miceuz",
+    "source": "https://github.com/Miceuz/rs485-moist-sensor",
+    "author": "Miceuz",
+    "retrieved at": "2026-09-06 12:38:53.666042",
+    "raw": "../../PCBs/rs485-moist-sensor_interconnect/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rs485-moist-sensor_interconnect/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 2,
+    "CAD version": "KiCad 20201002",
+    "kicad_version": "5",
+    "source_path": "interconnect/interconnect.kicad_pcb",
+    "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69"
+  },
+  "rs485-moist-sensor_rs485-moist-sensor": {
+    "org": "https://github.com/Miceuz",
+    "source": "https://github.com/Miceuz/rs485-moist-sensor",
+    "author": "Miceuz",
+    "retrieved at": "2026-09-06 12:38:52.332276",
+    "raw": "../../PCBs/rs485-moist-sensor_rs485-moist-sensor/raw.kicad_pcb",
+    "cleaned": "../../PCBs/rs485-moist-sensor_rs485-moist-sensor/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "",
+    "licenses": {
+      "spdx_id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "path": "LICENSE",
+      "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69",
+      "detected_by": "github",
+      "detected_ids": [
+        "Apache-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20190905",
+    "kicad_version": "5",
+    "source_path": "rs485-moist-sensor.kicad_pcb",
+    "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69"
   },
   "rufs__autosave-simple_kicad_schema_and_pcb_v1": {
     "org": "https://github.com/mik4el",
@@ -27106,6 +28624,33 @@
     },
     "layers": 2,
     "CAD version": "KiCad 20170123"
+  },
+  "tokay-lite-pcb_ai-camera-rev3.2": {
+    "org": "https://github.com/maxlab-io",
+    "source": "https://github.com/maxlab-io/tokay-lite-pcb",
+    "author": "maxlab-io",
+    "retrieved at": "2026-09-06 12:38:33.408303",
+    "raw": "../../PCBs/tokay-lite-pcb_ai-camera-rev3.2/raw.kicad_pcb",
+    "cleaned": "../../PCBs/tokay-lite-pcb_ai-camera-rev3.2/processed.kicad_pcb",
+    "json": "",
+    "supplementary files": "../../PCBs/tokay-lite-pcb_ai-camera-rev3.2/raw.kicad_pro",
+    "licenses": {
+      "spdx_id": "CERN-OHL-P-2.0",
+      "name": "CERN Open Hardware Licence Version 2 - Permissive",
+      "path": "LICENSE.txt",
+      "source_commit": "fd04d94a332d745ad4c09e4e2da0fbb61fde3218",
+      "detected_by": "github",
+      "detected_ids": [
+        "CERN-OHL-P-2.0"
+      ],
+      "status": "licensed",
+      "file": "LICENSE"
+    },
+    "layers": 4,
+    "CAD version": "KiCad 20240108",
+    "kicad_version": "8.0",
+    "source_path": "ai-camera-rev3.2/ai-camera-rev3.2.kicad_pcb",
+    "source_commit": "fd04d94a332d745ad4c09e4e2da0fbb61fde3218"
   },
   "two-daisy-chained-shift-registers_two-shift-registers": {
     "org": "https://github.com/MarginallyClever",

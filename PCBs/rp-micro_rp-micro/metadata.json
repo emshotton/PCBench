@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/siderakb",
+  "source": "https://github.com/siderakb/rp-micro",
+  "author": "siderakb",
+  "retrieved at": "2026-09-06 12:38:33.983201",
+  "raw": "../../PCBs/rp-micro_rp-micro/raw.kicad_pcb",
+  "cleaned": "../../PCBs/rp-micro_rp-micro/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/rp-micro_rp-micro/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "a7baf36025b974ed55b4676ad1e9f7e79f16bba1",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "hardware/rp-micro.kicad_pcb",
+  "source_commit": "a7baf36025b974ed55b4676ad1e9f7e79f16bba1"
+}

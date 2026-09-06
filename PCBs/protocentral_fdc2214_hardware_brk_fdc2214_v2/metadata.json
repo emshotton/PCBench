@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Protocentral",
+  "source": "https://github.com/Protocentral/protocentral_fdc2214_hardware",
+  "author": "Protocentral",
+  "retrieved at": "2026-09-06 12:38:38.653600",
+  "raw": "../../PCBs/protocentral_fdc2214_hardware_brk_fdc2214_v2/raw.kicad_pcb",
+  "cleaned": "../../PCBs/protocentral_fdc2214_hardware_brk_fdc2214_v2/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/protocentral_fdc2214_hardware_brk_fdc2214_v2/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "fa7d920b12e2d583bde3b135f1471377d15f1b4b",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "hardware/brk_fdc2214_v2.kicad_pcb",
+  "source_commit": "fa7d920b12e2d583bde3b135f1471377d15f1b4b"
+}

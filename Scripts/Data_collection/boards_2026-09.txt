@@ -1,0 +1,58 @@
+# repository<TAB>path of the .kicad_pcb inside it. Lines starting with # are ignored.
+Hanqaqa/Easyduino	Atmega328p Arduino Nano/Easyduino_Atmega_Nano.kicad_pcb
+Hanqaqa/Easyduino	Atmega328p Arduino Uno/Easyduino_Atmega.kicad_pcb
+Hanqaqa/Easyduino	ESP32/Easyduino_ESP32.kicad_pcb
+Hanqaqa/Easyduino	ESP32S3/Easyduino_ESP32S3.kicad_pcb
+Hanqaqa/Easyduino	Raspberry Pi Pico 2040/Easyduino_RP2040.kicad_pcb
+Hanqaqa/Easyduino	STM32F103 Bluepill/Easyduino_STM32F103.kicad_pcb
+maxlab-io/tokay-lite-pcb	ai-camera-rev3.2/ai-camera-rev3.2.kicad_pcb
+siderakb/rp-micro	hardware/rp-micro.kicad_pcb
+siderakb/pmw3360-pcb	pmw3360_pcb_jst/pmw3360_pcb_jst.kicad_pcb
+siderakb/pmw3360-pcb	pmw3360_pcb_ffc/pmw3360_pcb_ffc.kicad_pcb
+siderakb/pmw3360-pcb	pmw3360_pcb_pinheader/pmw3360_pcb_pinheader.kicad_pcb
+siderakb/ergo-snm-keyboard	ErgoSNM_Keyboard/rev3/receiver/receiver.kicad_pcb
+Protocentral/protocentral_fdc2214_hardware	hardware/brk_fdc2214_v2.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/mcu/mcu.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/leds/leds.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/power/power.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/mux/mux.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/12_bit_analog_out/12_bit_analog_out.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/16_bit_analog_out/16_bit_analog_out.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/analog_in_buffers/analog_in_buffers.kicad_pcb
+wntrblm/Hubble	hardware/breakouts/jacks/jacks.kicad_pcb
+zhiayang/mikoto	mikoto.kicad_pcb
+zhiayang/mikoto	flashbed/mikoto-flashbed.kicad_pcb
+OpenLightingProject/rp2040-dmxsun	hardware/baseboard_2slots/baseboard_2slots.kicad_pcb
+OpenLightingProject/rp2040-dmxsun	hardware/baseboard_4slots/baseboard_4slots.kicad_pcb
+OpenLightingProject/rp2040-dmxsun	hardware/ioboard_2ports_rdm_isolated/ioboard_2ports_rdm_isolated.kicad_pcb
+OpenLightingProject/rp2040-dmxsun	hardware/ioboard_2ports_rdm_unisolated/ioboard_2ports_unisolated.kicad_pcb
+OpenLightingProject/rp2040-dmxsun	hardware/ioboard_4ports_isolated/ioboard_4ports_isolated.kicad_pcb
+OpenLightingProject/rp2040-dmxsun	hardware/ioboard_4ports_unisolated/ioboard_4ports_unisolated.kicad_pcb
+Miceuz/i2c-moisture-sensor	i2c-moist-sensor.kicad_pcb
+Miceuz/rs485-moist-sensor	rs485-moist-sensor.kicad_pcb
+Miceuz/rs485-moist-sensor	adapter/adapter.kicad_pcb
+Miceuz/rs485-moist-sensor	adapter-por/adapter-por.kicad_pcb
+Miceuz/rs485-moist-sensor	interconnect/interconnect.kicad_pcb
+RespiraWorks/Ventilator	pcb/indicator-board/indicator-board.kicad_pcb
+RespiraWorks/Ventilator	pcb/sensor-daughterboards/pressure_ms4525do/pressure_ms4525do.kicad_pcb
+RespiraWorks/Ventilator	pcb/sensor-daughterboards/pressure_XGZP6897A/pressure_XGZP6897A.kicad_pcb
+RespiraWorks/Ventilator	pcb/sensor-daughterboards/pressure_mpxv5004dp/pressure_mpxv5004dp.kicad_pcb
+RespiraWorks/Ventilator	pcb/sensor-daughterboards/pressure_mpxv5010dp/pressure_mpxv5010dp.kicad_pcb
+RespiraWorks/Ventilator	pcb/sensor-daughterboards/pressure_mpx5700ap,gp/pressure_mpx5700ap,gp.kicad_pcb
+RespiraWorks/Ventilator	pcb/sensor-daughterboards/pressure_mpxv5004,10dp_common/pressure_mpxv5004,10dp.kicad_pcb
+Seeed-Studio/OSHW-reCamera-Series	hardware/recamera-2002/products/gimbal/power-board/PCB/reCamera_Gimbal_Power_Supply_v1.0_SCH&PCB_250109/reCamera Basically Board.kicad_pcb
+Ottercast/OtterCastAudioV2	Edgerails/Edgerails.kicad_pcb
+aderusha/HASwitchPlate	PCB/HASwitchPlate.kicad_pcb
+Gekkio/gb-hardware	GB-BRK-M-XS/GB-BRK-M-XS.kicad_pcb
+Gekkio/gb-hardware	GB-BRK-CART/GB-BRK-CART.kicad_pcb
+Gekkio/gb-hardware	GB-BRK-TR-A/GB-BRK-TR-A.kicad_pcb
+Gekkio/gb-hardware	GB-BRK-SLOT-A/GB-BRK-SLOT-A.kicad_pcb
+Gekkio/gb-hardware	GB-BRK-SLOT-B/GB-BRK-SLOT-B.kicad_pcb
+Gekkio/gb-hardware	GB-CART32K-A/GB-CART32K-A.kicad_pcb
+Gekkio/gb-hardware	GB-CART256K-A/GB-CART256K-A.kicad_pcb
+Gekkio/gb-hardware	GB-CARTPP-DIY/GB-CARTPP-DIY.kicad_pcb
+Gekkio/gb-hardware	GB-CARTPP-XC/GB-CARTPP-XC.kicad_pcb
+Gekkio/gb-hardware	GB-LIVE32/GB-LIVE32.kicad_pcb
+Gekkio/gb-hardware	GB-MBCTEST/GB-MBCTEST.kicad_pcb
+k0swe/mountaineer	mountaineer.kicad_pcb
+adafruit/Feather-ICE40-PCB	feather_ice40.kicad_pcb

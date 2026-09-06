@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/aderusha",
+  "source": "https://github.com/aderusha/HASwitchPlate",
+  "author": "aderusha",
+  "retrieved at": "2026-09-06 12:38:59.069833",
+  "raw": "../../PCBs/HASwitchPlate_HASwitchPlate/raw.kicad_pcb",
+  "cleaned": "../../PCBs/HASwitchPlate_HASwitchPlate/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "8d086bcc3545c85f6193ab016deee03608b11a94",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "PCB/HASwitchPlate.kicad_pcb",
+  "source_commit": "8d086bcc3545c85f6193ab016deee03608b11a94"
+}

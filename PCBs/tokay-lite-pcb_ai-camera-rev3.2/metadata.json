@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/maxlab-io",
+  "source": "https://github.com/maxlab-io/tokay-lite-pcb",
+  "author": "maxlab-io",
+  "retrieved at": "2026-09-06 12:38:33.408303",
+  "raw": "../../PCBs/tokay-lite-pcb_ai-camera-rev3.2/raw.kicad_pcb",
+  "cleaned": "../../PCBs/tokay-lite-pcb_ai-camera-rev3.2/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/tokay-lite-pcb_ai-camera-rev3.2/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.txt",
+    "source_commit": "fd04d94a332d745ad4c09e4e2da0fbb61fde3218",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "ai-camera-rev3.2/ai-camera-rev3.2.kicad_pcb",
+  "source_commit": "fd04d94a332d745ad4c09e4e2da0fbb61fde3218"
+}
