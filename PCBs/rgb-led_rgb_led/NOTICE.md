@@ -4,9 +4,8 @@
 - Source commit: c190bd2a1a87e0dffb57c853fdb6b780aea9d983
 - Author: coredump-ch
 - Retrieved: 2023-08-17 17:22:28.669777
-- License: not classified
+- License: TAPR-OHL-1.0 (TAPR Open Hardware License v1.0)
 - License text: `LICENSE` in this directory, copied verbatim from `LICENSE.md` in the source repository
-- The license file could not be reduced to a single SPDX identifier (wording found: TAPR-OHL-1.0, CC-BY-NC-SA-3.0, MIT); read `LICENSE` for the actual terms.
 
 ## Modifications
 

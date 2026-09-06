@@ -4,9 +4,8 @@
 - Source commit: deeaad857fa22a96935c679633f2695029e5d013
 - Author: CCHS-Melbourne
 - Retrieved: 2023-08-17 17:22:21.849696
-- License: not classified
+- License: TAPR-OHL-1.0 (TAPR Open Hardware License v1.0)
 - License text: `LICENSE` in this directory, copied verbatim from `LICENSE` in the source repository
-- The license file could not be reduced to a single SPDX identifier (wording found: TAPR-OHL-1.0, CC-BY-SA-3.0); read `LICENSE` for the actual terms.
 
 ## Modifications
 

@@ -8,8 +8,8 @@
   "json": "../../PCBs/rgb-led_rgb-led-v2/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "spdx_id": null,
-    "name": null,
+    "spdx_id": "TAPR-OHL-1.0",
+    "name": "TAPR Open Hardware License v1.0",
     "path": "LICENSE.md",
     "source_commit": "c190bd2a1a87e0dffb57c853fdb6b780aea9d983",
     "detected_by": "text-match",
@@ -18,7 +18,7 @@
       "CC-BY-NC-SA-3.0",
       "MIT"
     ],
-    "status": "licensed-unclassified",
+    "status": "licensed",
     "file": "LICENSE"
   },
   "layers": 2,
