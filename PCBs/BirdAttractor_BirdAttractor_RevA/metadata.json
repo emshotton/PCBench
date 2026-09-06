@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/BirdAttractor_BirdAttractor_RevA/processed.kicad_pcb",
   "json": "../../PCBs/BirdAttractor_BirdAttractor_RevA/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "35a6759930102a062330296ddb215e49c609367c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

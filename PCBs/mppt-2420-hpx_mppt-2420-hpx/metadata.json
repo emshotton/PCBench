@@ -8,11 +8,16 @@
   "json": "../../PCBs/mppt-2420-hpx_mppt-2420-hpx/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "cc-by-sa-4.0",
-    "name": "Creative Commons Attribution Share Alike 4.0 International",
     "spdx_id": "CC-BY-SA-4.0",
-    "url": "https://api.github.com/licenses/cc-by-sa-4.0",
-    "node_id": "MDc6TGljZW5zZTI2"
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "312c75d8aa141ef3eebfe930583f6ea838a8e25d",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 20171130"

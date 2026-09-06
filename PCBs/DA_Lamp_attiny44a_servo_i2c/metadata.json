@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/DA_Lamp_attiny44a_servo_i2c/processed.kicad_pcb",
   "json": "../../PCBs/DA_Lamp_attiny44a_servo_i2c/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "150161171e02e46437d50facf868de1c2332dad8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/nixie-clock_ab18x5-breakout/processed.kicad_pcb",
   "json": "../../PCBs/nixie-clock_ab18x5-breakout/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "pwm-test/license.txt",
+    "source_commit": "c9e8cbd3e29b459f3b4d5857ec09cc213edd3ca3",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

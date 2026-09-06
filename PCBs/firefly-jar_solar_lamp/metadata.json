@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/firefly-jar_solar_lamp/processed.kicad_pcb",
   "json": "../../PCBs/firefly-jar_solar_lamp/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "31b8eab372999f8a73155caff4559bd35b45401c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

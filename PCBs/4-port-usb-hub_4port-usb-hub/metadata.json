@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/4-port-usb-hub_4port-usb-hub/processed.kicad_pcb",
   "json": "../../PCBs/4-port-usb-hub_4port-usb-hub/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "807e71f643ba3d545e1a6290415ac533a4c464f5",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

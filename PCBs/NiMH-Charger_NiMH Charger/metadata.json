@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/NiMH-Charger_NiMH Charger/processed.kicad_pcb",
   "json": "../../PCBs/NiMH-Charger_NiMH Charger/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b8e6e83a5daba08a80e7171b8b7eebe17d1a5fa8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

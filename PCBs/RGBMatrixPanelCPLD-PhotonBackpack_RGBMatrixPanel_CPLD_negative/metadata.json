@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/RGBMatrixPanelCPLD-PhotonBackpack_RGBMatrixPanel_CPLD_negative/processed.kicad_pcb",
   "json": "../../PCBs/RGBMatrixPanelCPLD-PhotonBackpack_RGBMatrixPanel_CPLD_negative/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "2235616d9a131402f54204625d305875491ff669",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

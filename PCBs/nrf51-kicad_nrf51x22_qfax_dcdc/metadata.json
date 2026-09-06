@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/nrf51-kicad_nrf51x22_qfax_dcdc/processed.kicad_pcb",
   "json": "../../PCBs/nrf51-kicad_nrf51x22_qfax_dcdc/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8fc46fe483e062a8f426c10c71bf2f8a75348e47",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

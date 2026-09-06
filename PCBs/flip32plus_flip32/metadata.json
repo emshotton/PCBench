@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/flip32plus_flip32/processed.kicad_pcb",
   "json": "../../PCBs/flip32plus_flip32/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "1a2f77f5d5dbea20dd0f0b99a67e6300b71a606e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

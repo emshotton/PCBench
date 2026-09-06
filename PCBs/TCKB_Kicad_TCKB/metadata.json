@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/TCKB_Kicad_TCKB/processed.kicad_pcb",
   "json": "../../PCBs/TCKB_Kicad_TCKB/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "90dd2d9a2c5c04955202701fe2ebe6838d3e2794",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

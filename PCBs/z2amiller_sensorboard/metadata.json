@@ -7,12 +7,18 @@
   "cleaned": "../../PCBs/z2amiller_sensorboard/processed.kicad_pcb",
   "json": "../../PCBs/z2amiller_sensorboard/metadata.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "MIT License",
-      "link": "https://api.github.com/licenses/mit"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE.md",
+    "source_commit": "1cc4190ea89385d12b81b523408ae3b3c466286c",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

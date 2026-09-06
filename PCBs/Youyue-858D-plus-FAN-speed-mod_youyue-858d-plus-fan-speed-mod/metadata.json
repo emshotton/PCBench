@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Youyue-858D-plus-FAN-speed-mod_youyue-858d-plus-fan-speed-mod/processed.kicad_pcb",
   "json": "../../PCBs/Youyue-858D-plus-FAN-speed-mod_youyue-858d-plus-fan-speed-mod/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "3c8e9c789a59d634754f46f6a8a91772954c283e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/DC25_DC25/processed.kicad_pcb",
   "json": "../../PCBs/DC25_DC25/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "de40ee8e525d6a24abe59aea860bdfc5750b341b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

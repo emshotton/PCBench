@@ -8,11 +8,16 @@
   "json": "../../PCBs/6N137-TTL-Serial-Optoisolator_6N137-TTL-Serial-Optoisolator/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "mit",
-    "name": "MIT License",
     "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3a58755ca99e730937c210c558bbcde128aa940a",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 3"

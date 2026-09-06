@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/SPI-shift-register-CS_SPI shift register CS/processed.kicad_pcb",
   "json": "../../PCBs/SPI-shift-register-CS_SPI shift register CS/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "82f4425739acf44f7e2fe5b438a3f1321a822a97",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

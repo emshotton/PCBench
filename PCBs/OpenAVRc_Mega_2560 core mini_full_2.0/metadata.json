@@ -8,11 +8,16 @@
   "json": "../../PCBs/OpenAVRc_Mega_2560 core mini_full_2.0/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "84bb47f6c04e4dcf6c56048925edc2f8acbf8a6f",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

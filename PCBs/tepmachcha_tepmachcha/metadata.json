@@ -8,11 +8,16 @@
   "json": "../../PCBs/tepmachcha_tepmachcha/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "mit",
-    "name": "MIT License",
     "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9ce47c966cfa85b8d7770035daef202ba74361dd",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

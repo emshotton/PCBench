@@ -8,11 +8,16 @@
   "json": "../../PCBs/FT231X_breakout_FTDI_FT231XS-U_Breakout/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CC-BY-SA-3.0",
+    "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+    "path": "LICENSE",
+    "source_commit": "ec8d00eddf6e298513e48c50cd12194359c4b261",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

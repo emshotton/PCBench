@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Shift-out-32-HC595_Shift-out/processed.kicad_pcb",
   "json": "../../PCBs/Shift-out-32-HC595_Shift-out/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a842485d45298291b608ca7f6ba66ac7185bbdb7",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

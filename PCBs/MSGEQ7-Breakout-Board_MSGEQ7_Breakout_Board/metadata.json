@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MSGEQ7-Breakout-Board_MSGEQ7_Breakout_Board/processed.kicad_pcb",
   "json": "../../PCBs/MSGEQ7-Breakout-Board_MSGEQ7_Breakout_Board/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a63bb412ebd85d638978b6d3670e41775ba0ac5f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Own-Mailbox-Hardware_pierre/processed.kicad_pcb",
   "json": "../../PCBs/Own-Mailbox-Hardware_pierre/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "4b81e271a029581e893be6a273120a6124103d65",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

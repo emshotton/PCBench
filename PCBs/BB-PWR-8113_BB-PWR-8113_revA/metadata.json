@@ -8,11 +8,16 @@
   "json": "../../PCBs/BB-PWR-8113_BB-PWR-8113_revA/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
     "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "60a06fa5f1a5af99f0ab4949a8bc9a0536634ed6",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20171130"

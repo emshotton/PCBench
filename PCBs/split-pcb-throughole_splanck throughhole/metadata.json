@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/split-pcb-throughole_splanck throughhole/processed.kicad_pcb",
   "json": "../../PCBs/split-pcb-throughole_splanck throughhole/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f83d656bc4bf2cb6a76d38555c3b8e915af332e7",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

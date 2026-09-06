@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/RoBoC_CameraAdaptor/processed.kicad_pcb",
   "json": "../../PCBs/RoBoC_CameraAdaptor/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bd63154744f9171d7c75a6a485285344773a10b2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

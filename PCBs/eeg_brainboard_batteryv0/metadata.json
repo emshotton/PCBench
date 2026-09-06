@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/eeg_brainboard_batteryv0/processed.kicad_pcb",
   "json": "../../PCBs/eeg_brainboard_batteryv0/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "CC-BY-SA-3.0",
+    "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+    "path": "hardware/brainboard/FlyingBone-master/LICENSE",
+    "source_commit": "31f6389791f4c2969223313d45f7c223c1ecb8ea",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

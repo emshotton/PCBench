@@ -7,16 +7,18 @@
   "cleaned": "kitspace_tomu/processed.kicad_pcb",
   "json": "kitspace_tomu/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Creative Commons",
-      "link": "https://raw.githubusercontent.com/im-tomu/tomu-hardware/master/LICENSE"
-    },
-    {
-      "name": "TAPR",
-      "link": "https://raw.githubusercontent.com/im-tomu/tomu-hardware/master/LICENSE.TAPR"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "82dee8e32ebf79712f4e99fa3542675b8a289a3f",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

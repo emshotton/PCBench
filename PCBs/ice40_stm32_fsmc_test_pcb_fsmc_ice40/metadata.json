@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ice40_stm32_fsmc_test_pcb_fsmc_ice40/processed.kicad_pcb",
   "json": "../../PCBs/ice40_stm32_fsmc_test_pcb_fsmc_ice40/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "3db7e99052d7b94852ab91f4ae246f1d2c428b14",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

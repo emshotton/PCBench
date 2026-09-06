@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ElectronutLabs-ZeroDriver__autosave-zeroDriver/processed.kicad_pcb",
   "json": "../../PCBs/ElectronutLabs-ZeroDriver__autosave-zeroDriver/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "03fb6b12c60998f5a5f885effc150341d83f7d48",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

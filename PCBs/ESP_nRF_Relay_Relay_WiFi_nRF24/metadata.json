@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ESP_nRF_Relay_Relay_WiFi_nRF24/processed.kicad_pcb",
   "json": "../../PCBs/ESP_nRF_Relay_Relay_WiFi_nRF24/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "afe046c5a3a6679966cb51730a4ef647fb23a6aa",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

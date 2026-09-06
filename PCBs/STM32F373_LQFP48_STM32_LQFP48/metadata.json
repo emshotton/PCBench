@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/STM32F373_LQFP48_STM32_LQFP48/processed.kicad_pcb",
   "json": "../../PCBs/STM32F373_LQFP48_STM32_LQFP48/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "7fa42b4f7a854a7deda1e681357e3d9e85f5385b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

@@ -8,11 +8,16 @@
   "json": "../../PCBs/nanoTracer_nanoTracer/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CERN-OHL-1.2",
+    "name": "CERN Open Hardware Licence v1.2",
+    "path": "COPYING.hardware",
+    "source_commit": "725d0bef1bc3246166f5acde7ccf715f0f5f0b24",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-1.2"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

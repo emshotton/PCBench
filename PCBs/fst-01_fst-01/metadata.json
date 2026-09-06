@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/fst-01_fst-01/processed.kicad_pcb",
   "json": "../../PCBs/fst-01_fst-01/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f84b5ca72a499f485daf82af19f1d8c5e0152ab4",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

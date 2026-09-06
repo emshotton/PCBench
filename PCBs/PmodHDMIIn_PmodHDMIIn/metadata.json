@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/PmodHDMIIn_PmodHDMIIn/processed.kicad_pcb",
   "json": "../../PCBs/PmodHDMIIn_PmodHDMIIn/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "92f0fdf36be5a693b6cf28d99f565665965a735c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

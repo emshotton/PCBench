@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LadybugLiteBlue_HW_LadybugBlueLite/processed.kicad_pcb",
   "json": "../../PCBs/LadybugLiteBlue_HW_LadybugBlueLite/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d47b768c871de975a9e01a1605a9e19e6cbe0459",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

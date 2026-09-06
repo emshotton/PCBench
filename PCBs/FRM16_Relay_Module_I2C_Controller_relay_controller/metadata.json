@@ -8,11 +8,16 @@
   "json": "../../PCBs/FRM16_Relay_Module_I2C_Controller_relay_controller/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "mit",
-    "name": "MIT License",
     "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9c03e530ef15e278a81ed61e933104be5f609ed7",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

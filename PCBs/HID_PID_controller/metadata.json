@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/HID_PID_controller/processed.kicad_pcb",
   "json": "../../PCBs/HID_PID_controller/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "AVR_Code/usbdrv/License.txt",
+    "source_commit": "ab1240e556cec3efe2e05e87385fbff1428b89ee",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

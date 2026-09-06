@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MonApollo_digital-board/processed.kicad_pcb",
   "json": "../../PCBs/MonApollo_digital-board/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "eb17760e560998f44dffeaf80a32ddf2951dfa7f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

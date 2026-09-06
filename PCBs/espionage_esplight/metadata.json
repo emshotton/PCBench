@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/espionage_esplight/processed.kicad_pcb",
   "json": "../../PCBs/espionage_esplight/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8491a201c136862138a69acf6ef278b7b3d15e9d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

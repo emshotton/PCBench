@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Radio-FM-TEA5767_radio tea5767/processed.kicad_pcb",
   "json": "../../PCBs/Radio-FM-TEA5767_radio tea5767/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "0e43be9e51c8038daa505f3ef545e6d36086d875",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

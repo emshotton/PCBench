@@ -8,11 +8,16 @@
   "json": "../../PCBs/gdrom_adapter_board_adapter/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
     "spdx_id": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "node_id": "MDc6TGljZW5zZTk="
+    "name": "GNU General Public License v3.0",
+    "path": "COPYING",
+    "source_commit": "b9fb9422fc160ed8bca32f99de7b71137e0246ce",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20171130"

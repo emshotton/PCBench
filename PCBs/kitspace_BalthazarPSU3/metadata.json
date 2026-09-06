@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_BalthazarPSU3/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "CERN",
-      "link": "https://raw.githubusercontent.com/balthazar-space/balthazarPSU3/main/LICENSE.md"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE.md",
+    "source_commit": "9ed1e08ce605e81a3664488fca7e3b55cdf80d22",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20220914"
 }

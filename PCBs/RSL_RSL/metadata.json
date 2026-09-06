@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/RSL_RSL/processed.kicad_pcb",
   "json": "../../PCBs/RSL_RSL/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bce3c4348643cb7e9de444f35de2372a7c4304af",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

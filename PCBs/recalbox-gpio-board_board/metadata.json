@@ -8,11 +8,16 @@
   "json": "../../PCBs/recalbox-gpio-board_board/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "mit",
-    "name": "MIT License",
     "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "cb78edf2641b77733f121dc579a851c88d4771eb",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

@@ -8,11 +8,16 @@
   "json": "../../PCBs/starsynctrackers_reset_switch/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "lgpl-2.1",
-    "name": "GNU Lesser General Public License v2.1",
     "spdx_id": "LGPL-2.1",
-    "url": "https://api.github.com/licenses/lgpl-2.1",
-    "node_id": "MDc6TGljZW5zZTEx"
+    "name": "GNU Lesser General Public License v2.1",
+    "path": "LICENSE",
+    "source_commit": "941915a14fb011ce8c501553548c4732433bc29d",
+    "detected_by": "github",
+    "detected_ids": [
+      "LGPL-2.1"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

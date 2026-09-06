@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/apa102lantern_apa102-lantern-esp8266/processed.kicad_pcb",
   "json": "../../PCBs/apa102lantern_apa102-lantern-esp8266/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "517fe5ffcf578f2fc5b9dc4051a62d54b8c94b92",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

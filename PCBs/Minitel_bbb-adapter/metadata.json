@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Minitel_bbb-adapter/processed.kicad_pcb",
   "json": "../../PCBs/Minitel_bbb-adapter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "dff1929eb2245e489b79ea4b8beafbd162082d91",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

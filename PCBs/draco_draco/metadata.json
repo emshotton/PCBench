@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/draco_draco/processed.kicad_pcb",
   "json": "../../PCBs/draco_draco/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f0eb12cc35c5877e61f0a649f134829da9af0daf",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

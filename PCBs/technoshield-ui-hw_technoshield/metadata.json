@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/technoshield-ui-hw_technoshield/processed.kicad_pcb",
   "json": "../../PCBs/technoshield-ui-hw_technoshield/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "hw/lib-kicad/KiCad-Libraries/LICENSE.txt",
+    "source_commit": "71e3f0c9d25974b45aadaf74f428b289da136c99",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

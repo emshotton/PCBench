@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_OtterPill/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "CERN",
-      "link": "https://raw.githubusercontent.com/Jana-Marie/OtterPill/main/LICENSE.md"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE.md",
+    "source_commit": "b0a1bddc82115da5ce8a5d16a366701f648f6a39",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20211014"
 }

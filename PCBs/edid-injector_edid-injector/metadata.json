@@ -8,11 +8,16 @@
   "json": "../../PCBs/edid-injector_edid-injector/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "cc-by-sa-4.0",
-    "name": "Creative Commons Attribution Share Alike 4.0 International",
     "spdx_id": "CC-BY-SA-4.0",
-    "url": "https://api.github.com/licenses/cc-by-sa-4.0",
-    "node_id": "MDc6TGljZW5zZTI2"
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "58a9ff71d6a5b1dcf966a0ea1d540232c3d1ed90",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

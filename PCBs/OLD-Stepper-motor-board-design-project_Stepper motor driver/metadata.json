@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/OLD-Stepper-motor-board-design-project_Stepper motor driver/processed.kicad_pcb",
   "json": "../../PCBs/OLD-Stepper-motor-board-design-project_Stepper motor driver/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bf903e40a5ae0fbf538df4036338a7c9d7fceb23",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

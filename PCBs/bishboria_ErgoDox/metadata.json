@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/bishboria_ErgoDox/processed.kicad_pcb",
   "json": "../../PCBs/bishboria_ErgoDox/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "60c488b7639ec4d404e79d595c6df932ddede2d8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

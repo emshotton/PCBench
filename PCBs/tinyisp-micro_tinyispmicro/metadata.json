@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/tinyisp-micro_tinyispmicro/processed.kicad_pcb",
   "json": "../../PCBs/tinyisp-micro_tinyispmicro/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "firmware/COPYING",
+    "source_commit": "53b49cbef02885aa7db138ce970e62505d0ed135",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

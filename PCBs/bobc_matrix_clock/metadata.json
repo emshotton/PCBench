@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/bobc_matrix_clock/processed.kicad_pcb",
   "json": "../../PCBs/bobc_matrix_clock/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": "CC-BY-3.0",
+    "name": "Creative Commons Attribution 3.0 Unported",
+    "path": "MicropendousX-1343/License.txt",
+    "source_commit": "36429d164197f5937c53a1bcedd15a59d6c833a2",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_OtterCastAudioV2/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "MIT",
-      "link": "https://raw.githubusercontent.com/Ottercast/OtterCastAudioV2/main/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "e36c1d91c9bd77782af394b9da7df8ee880a793f",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20211014"
 }

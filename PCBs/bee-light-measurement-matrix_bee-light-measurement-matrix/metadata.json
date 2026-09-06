@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/bee-light-measurement-matrix_bee-light-measurement-matrix/processed.kicad_pcb",
   "json": "../../PCBs/bee-light-measurement-matrix_bee-light-measurement-matrix/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6fa66f0593dbdc77a7065c15f9bd4c85722a3e2c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

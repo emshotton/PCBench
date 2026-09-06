@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/bt-tnc_tnc/processed.kicad_pcb",
   "json": "../../PCBs/bt-tnc_tnc/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f5d886d1b6fa12185100a366afeabefcc795927d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

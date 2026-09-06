@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/SmartLaserCO2-PCB_SmartLaserShield/processed.kicad_pcb",
   "json": "../../PCBs/SmartLaserCO2-PCB_SmartLaserShield/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "24d1ed717d0f9346c67bf25f1b6801d16811bf4b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

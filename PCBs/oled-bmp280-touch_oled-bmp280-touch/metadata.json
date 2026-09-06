@@ -8,11 +8,16 @@
   "json": "../../PCBs/oled-bmp280-touch_oled-bmp280-touch/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
     "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "8df46f440e287b7c701fd3251c1ce8cc76597832",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

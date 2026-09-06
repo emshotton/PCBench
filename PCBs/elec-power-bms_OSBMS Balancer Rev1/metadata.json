@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/elec-power-bms_OSBMS Balancer Rev1/processed.kicad_pcb",
   "json": "../../PCBs/elec-power-bms_OSBMS Balancer Rev1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "20b82cc776cceeda0f9ce2fe11b5d7624c3dafde",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

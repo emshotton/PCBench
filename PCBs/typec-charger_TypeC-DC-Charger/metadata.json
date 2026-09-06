@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/typec-charger_TypeC-DC-Charger/processed.kicad_pcb",
   "json": "../../PCBs/typec-charger_TypeC-DC-Charger/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "75c8b7180c49dc05d7093ce64e29910deed2fade",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20160815"
 }

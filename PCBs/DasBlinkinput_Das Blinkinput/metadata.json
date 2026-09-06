@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/DasBlinkinput_Das Blinkinput/processed.kicad_pcb",
   "json": "../../PCBs/DasBlinkinput_Das Blinkinput/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a2be7f4e615af5d81ef865ce55232b8fa67f1a9a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

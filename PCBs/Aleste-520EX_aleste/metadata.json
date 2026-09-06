@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Aleste-520EX_aleste/processed.kicad_pcb",
   "json": "../../PCBs/Aleste-520EX_aleste/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a562d366a28e15362c2f489bb505b3c61524a724",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

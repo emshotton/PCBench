@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Omega2-Berrydock_berrydock-mini/processed.kicad_pcb",
   "json": "../../PCBs/Omega2-Berrydock_berrydock-mini/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "fa4eda616ac21689be235cdc3ef0be418e07f46c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

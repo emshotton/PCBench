@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/everled_everled/processed.kicad_pcb",
   "json": "../../PCBs/everled_everled/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "57be3210a89f469c980ae2aedd64f13efe7df5ba",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

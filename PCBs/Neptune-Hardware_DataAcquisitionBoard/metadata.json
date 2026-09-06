@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Neptune-Hardware_DataAcquisitionBoard/processed.kicad_pcb",
   "json": "../../PCBs/Neptune-Hardware_DataAcquisitionBoard/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e9e0f3c1a0f1b3fa4fa30385295c1bd84ec86f6c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

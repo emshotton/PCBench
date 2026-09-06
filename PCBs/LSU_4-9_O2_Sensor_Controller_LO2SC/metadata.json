@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/LSU_4-9_O2_Sensor_Controller_LO2SC/processed.kicad_pcb",
   "json": "../../PCBs/LSU_4-9_O2_Sensor_Controller_LO2SC/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "Orig/LICENSE",
+    "source_commit": "b7b24858a550259bff29b118b880f133b3ebf195",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

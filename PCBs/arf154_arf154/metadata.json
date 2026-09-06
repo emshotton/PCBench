@@ -8,11 +8,16 @@
   "json": "../../PCBs/arf154_arf154/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "mit",
-    "name": "MIT License",
     "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "2be4698ac71b07ed238c3345b0820bd99349bd1e",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 4"

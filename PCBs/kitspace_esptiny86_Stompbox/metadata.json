@@ -7,12 +7,18 @@
   "cleaned": "kitspace_esptiny86_Stompbox/processed.kicad_pcb",
   "json": "kitspace_esptiny86_Stompbox/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Apache",
-      "link": "https://raw.githubusercontent.com/dusjagr/ESPTINY86_Stompbox/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "7570272d165bc5b99edb48228117eb42bd3bb302",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

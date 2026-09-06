@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/USB-Adapter_USB Adapter/processed.kicad_pcb",
   "json": "../../PCBs/USB-Adapter_USB Adapter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bbea3a002d1f1252d6efdd036485490a8f1e3abd",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,12 +7,18 @@
   "cleaned": "kitspace_dynamixel_shield/processed.kicad_pcb",
   "json": "kitspace_dynamixel_shield/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Creative Commons",
-      "link": "https://raw.githubusercontent.com/descampsa/DynamixelShield/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "db88b0d38da6d8e0d6a9795e888b87b78f5a5d1c",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

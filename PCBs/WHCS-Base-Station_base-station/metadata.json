@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/WHCS-Base-Station_base-station/processed.kicad_pcb",
   "json": "../../PCBs/WHCS-Base-Station_base-station/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "114407cbc1bc5ad7a4812cd4ac2a6c14f6502c59",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

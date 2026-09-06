@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ThinkerShield_ThinkerShield/processed.kicad_pcb",
   "json": "../../PCBs/ThinkerShield_ThinkerShield/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "704df3d2f44216e3ea0b1f37dba91ffe3aea179e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

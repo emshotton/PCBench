@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/esp32-iot-uno_esp32-iot-uno-hw/processed.kicad_pcb",
   "json": "../../PCBs/esp32-iot-uno_esp32-iot-uno-hw/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "54709f130f64c480a4f6f2e17063075dcd214826",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

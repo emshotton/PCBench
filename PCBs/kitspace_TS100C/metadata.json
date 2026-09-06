@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_TS100C/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "GNU",
-      "link": "https://raw.githubusercontent.com/Jana-Marie/Otter-Iron/main/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "30869804de5b9dcf258fdd8d01b7f5dc086b3656",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20211014"
 }

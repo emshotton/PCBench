@@ -8,11 +8,16 @@
   "json": "../../PCBs/battmanpi_battmanpi/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
     "spdx_id": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "node_id": "MDc6TGljZW5zZTk="
+    "name": "GNU General Public License v3.0",
+    "path": "LICENCE",
+    "source_commit": "2a8272bb38fdaca85790db561d92583a52cd46da",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 3"

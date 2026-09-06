@@ -7,12 +7,18 @@
   "cleaned": "../../PCBs/LibreSolar_MPPT_charger_20A/processed.kicad_pcb",
   "json": "../../PCBs/LibreSolar_MPPT_charger_20A/metadata.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Creative Commons Attribution Share Alike 4.0 International",
-      "link": "https://api.github.com/licenses/cc-by-sa-4.0"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "c2211beb366b2b2f91e949e676a9cac4f9a408d9",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/16x12-bits-I2C_I2C_Servo/processed.kicad_pcb",
   "json": "../../PCBs/16x12-bits-I2C_I2C_Servo/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": null,
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "source-missing",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

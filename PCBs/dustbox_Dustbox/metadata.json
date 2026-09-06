@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/dustbox_Dustbox/processed.kicad_pcb",
   "json": "../../PCBs/dustbox_Dustbox/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6888a7187731aa32c4ae6ba9abb7b8c32e171745",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

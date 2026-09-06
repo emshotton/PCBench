@@ -7,12 +7,18 @@
   "cleaned": "kitspace_sympetrum-v2%20NFF1/processed.kicad_pcb",
   "json": "kitspace_sympetrum-v2%20NFF1/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "MIT",
-      "link": "https://raw.githubusercontent.com/borgel/sympetrum-v2/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "adb39f72cde3bd12c6f9a885d8f3a2cded4c36ad",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

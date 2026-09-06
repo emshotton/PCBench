@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/blinky-badge_blinky/processed.kicad_pcb",
   "json": "../../PCBs/blinky-badge_blinky/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "262f41d321bfbb99da73d2eb7aab61a4a7455e1f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

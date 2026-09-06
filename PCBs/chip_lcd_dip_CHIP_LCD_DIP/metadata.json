@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/chip_lcd_dip_CHIP_LCD_DIP/processed.kicad_pcb",
   "json": "../../PCBs/chip_lcd_dip_CHIP_LCD_DIP/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a5baf2b5c5dd461eedb46007af242414dd95ea40",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

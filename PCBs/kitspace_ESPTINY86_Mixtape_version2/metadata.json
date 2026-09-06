@@ -7,12 +7,16 @@
   "cleaned": "kitspace_ESPTINY86_Mixtape_version2/processed.kicad_pcb",
   "json": "kitspace_ESPTINY86_Mixtape_version2/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "5cc07a4e75615d2ac462850c15b1cc831ba609fc",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

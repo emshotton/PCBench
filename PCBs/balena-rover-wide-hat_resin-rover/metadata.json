@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/balena-rover-wide-hat_resin-rover/processed.kicad_pcb",
   "json": "../../PCBs/balena-rover-wide-hat_resin-rover/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "89e0ecba1a1992837b4873bbfbf7130e210896cb",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20170123"
 }

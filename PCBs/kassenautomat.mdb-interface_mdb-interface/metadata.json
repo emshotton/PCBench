@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/kassenautomat.mdb-interface_mdb-interface/processed.kicad_pcb",
   "json": "../../PCBs/kassenautomat.mdb-interface_mdb-interface/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "firmware/LICENSE",
+    "source_commit": "dfd1f56b27f7ee70b764175c72d3be8096fc359b",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

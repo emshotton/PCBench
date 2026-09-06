@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/linklayer_contact/processed.kicad_pcb",
   "json": "../../PCBs/linklayer_contact/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.md",
+    "source_commit": "470252258a3967e7cebbb9538b848d505ace40fe",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

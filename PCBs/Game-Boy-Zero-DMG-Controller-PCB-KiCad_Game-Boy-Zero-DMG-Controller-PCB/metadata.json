@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Game-Boy-Zero-DMG-Controller-PCB-KiCad_Game-Boy-Zero-DMG-Controller-PCB/processed.kicad_pcb",
   "json": "../../PCBs/Game-Boy-Zero-DMG-Controller-PCB-KiCad_Game-Boy-Zero-DMG-Controller-PCB/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "1e51d7d2b77d058e87b8c2a69f34260ba8c7c3f3",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

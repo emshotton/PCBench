@@ -8,11 +8,16 @@
   "json": "../../PCBs/Curryboard_Curryboard/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "3d653ed6bc958cee2cea85c946b52228a3c54a4b",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 3"

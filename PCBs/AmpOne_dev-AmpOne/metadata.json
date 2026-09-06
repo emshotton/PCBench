@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/AmpOne_dev-AmpOne/processed.kicad_pcb",
   "json": "../../PCBs/AmpOne_dev-AmpOne/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "4753c798c2450758c21413c8b0c4d686b2e2d3d6",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

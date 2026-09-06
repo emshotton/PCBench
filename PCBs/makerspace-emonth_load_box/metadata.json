@@ -8,11 +8,16 @@
   "json": "../../PCBs/makerspace-emonth_load_box/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "cc-by-4.0",
-    "name": "Creative Commons Attribution 4.0 International",
     "spdx_id": "CC-BY-4.0",
-    "url": "https://api.github.com/licenses/cc-by-4.0",
-    "node_id": "MDc6TGljZW5zZTI1"
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "00b30bdae498dc6baed8e8268483376d611a0346",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20171130"

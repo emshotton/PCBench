@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/gpsclock_clock/processed.kicad_pcb",
   "json": "../../PCBs/gpsclock_clock/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "BSD-3-Clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "arduino/gps_clock/license.txt",
+    "source_commit": "be9406fff8bbc6a6a71985bdf04ca25d9db11ac6",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

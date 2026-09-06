@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_BalthazarKeyboard3-keycaps/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "CERN",
-      "link": "https://raw.githubusercontent.com/balthazar-space/balthazarKeyboard3/main/LICENSE.md"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE.md",
+    "source_commit": "2d006fdf872701933ea7ff27c7c84164830b71dd",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

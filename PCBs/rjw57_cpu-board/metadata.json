@@ -7,12 +7,18 @@
   "cleaned": "../../PCBs/rjw57_cpu-board/processed.kicad_pcb",
   "json": "../../PCBs/rjw57_cpu-board/metadata.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "MIT License",
-      "link": "https://api.github.com/licenses/mit"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "COPYING.txt",
+    "source_commit": "b10f63f7aa304034666ab807ba224ab25e258b90",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

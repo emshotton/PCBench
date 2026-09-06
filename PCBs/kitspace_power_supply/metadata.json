@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_power_supply/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "MIT",
-      "link": "https://raw.githubusercontent.com/BeeHive-org/BeeHive/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "a9593ddfaab13fe6cdb6130e59ea1d64d4a3d51c",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20211014"
 }

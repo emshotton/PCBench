@@ -8,11 +8,16 @@
   "json": "../../PCBs/dc25_spqr_badge_badge-kicad/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
     "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "f91c9c92deeb12a77ce5d121a572d5a031f1d8f1",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20160815"

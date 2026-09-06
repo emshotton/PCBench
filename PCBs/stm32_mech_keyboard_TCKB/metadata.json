@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/stm32_mech_keyboard_TCKB/processed.kicad_pcb",
   "json": "../../PCBs/stm32_mech_keyboard_TCKB/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "07db49621de8ec7d6522e95109865e6319547367",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

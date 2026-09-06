@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/OricMouse_OricMouse/processed.kicad_pcb",
   "json": "../../PCBs/OricMouse_OricMouse/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "9a3aeecd17d718544455a01158d927d06497ad79",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

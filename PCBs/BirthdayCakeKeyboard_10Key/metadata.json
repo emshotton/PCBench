@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/BirthdayCakeKeyboard_10Key/processed.kicad_pcb",
   "json": "../../PCBs/BirthdayCakeKeyboard_10Key/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "1e6b2d27d7d1146a06b972d67a3f7a0fc1179a36",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

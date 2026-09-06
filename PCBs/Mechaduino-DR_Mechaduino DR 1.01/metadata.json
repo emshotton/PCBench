@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Mechaduino-DR_Mechaduino DR 1.01/processed.kicad_pcb",
   "json": "../../PCBs/Mechaduino-DR_Mechaduino DR 1.01/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "9ccdff728578c2f51dd6b27e0cb0afa331fdca1a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

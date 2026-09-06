@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LPC2148_Stick__autosave-LPC2148_stick/processed.kicad_pcb",
   "json": "../../PCBs/LPC2148_Stick__autosave-LPC2148_stick/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "4fcfae966c66dab1709fc0f9950c68610ed9b80d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

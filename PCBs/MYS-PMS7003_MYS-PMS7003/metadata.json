@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MYS-PMS7003_MYS-PMS7003/processed.kicad_pcb",
   "json": "../../PCBs/MYS-PMS7003_MYS-PMS7003/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "058d9d38e95a5eb0a67f51293eea30fd49f7cd63",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

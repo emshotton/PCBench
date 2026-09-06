@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/pi-zero-stepper-board_pi-zero-stepper-board/processed.kicad_pcb",
   "json": "../../PCBs/pi-zero-stepper-board_pi-zero-stepper-board/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "5d40b6f5af11a2dc4affbdf560f8fc7d4bc5e351",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_OSO-BOOK-C1/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "Creative Commons",
-      "link": "https://raw.githubusercontent.com/joeycastillo/The-Open-Book/main/LICENSE.md"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.md",
+    "source_commit": "bc75ceed9107d42273d60bd842cda7f49a1d3c41",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20211014"
 }

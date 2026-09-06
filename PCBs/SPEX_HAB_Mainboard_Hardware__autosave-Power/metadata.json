@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/SPEX_HAB_Mainboard_Hardware__autosave-Power/processed.kicad_pcb",
   "json": "../../PCBs/SPEX_HAB_Mainboard_Hardware__autosave-Power/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "MainBoard Software/adxl345/License.txt",
+    "source_commit": "21cae8f2ef17016d32a98d7bf71bf8d043b95c12",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

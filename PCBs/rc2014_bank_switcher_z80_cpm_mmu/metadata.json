@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/rc2014_bank_switcher_z80_cpm_mmu/processed.kicad_pcb",
   "json": "../../PCBs/rc2014_bank_switcher_z80_cpm_mmu/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "9949ded814ac0217c3a1f4beb00864d64921cb3f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

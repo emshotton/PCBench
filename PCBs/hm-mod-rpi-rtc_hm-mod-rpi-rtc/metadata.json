@@ -8,11 +8,16 @@
   "json": "../../PCBs/hm-mod-rpi-rtc_hm-mod-rpi-rtc/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CC-BY-NC-SA-4.0",
+    "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "78adf65b0159877fa06a270fad1829d9c5b0ed4a",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-NC-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

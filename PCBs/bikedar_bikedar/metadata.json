@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/bikedar_bikedar/processed.kicad_pcb",
   "json": "../../PCBs/bikedar_bikedar/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "firmware/nucleof7/LICENSE-APACHE",
+    "source_commit": "58b39ed1c13f5a21ab881deb90ee2a64883233b0",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

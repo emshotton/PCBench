@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/DerKnopf_digi-pot/processed.kicad_pcb",
   "json": "../../PCBs/DerKnopf_digi-pot/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "db2cccb66dc096ba0111e1211c1089b729143fd0",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

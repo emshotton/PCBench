@@ -8,11 +8,16 @@
   "json": "../../PCBs/C-BISCUIT_crowbar/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "gpl-2.0",
-    "name": "GNU General Public License v2.0",
     "spdx_id": "GPL-2.0",
-    "url": "https://api.github.com/licenses/gpl-2.0",
-    "node_id": "MDc6TGljZW5zZTg="
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "9bb205924191c4365fbfb83973f3b0fd6a7e5aa6",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

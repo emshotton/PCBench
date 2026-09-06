@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/raspican_raspican/processed.kicad_pcb",
   "json": "../../PCBs/raspican_raspican/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6b99f2609f2b9d0d4673219562c9992e991818a2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

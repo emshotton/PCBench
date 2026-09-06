@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Radar-System_fmcw_radar/processed.kicad_pcb",
   "json": "../../PCBs/Radar-System_fmcw_radar/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8ac5c8163bc42c07e37ac3f1e6c76e38a2c75bff",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

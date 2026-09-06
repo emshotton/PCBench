@@ -7,16 +7,18 @@
   "cleaned": "kitspace_mppt-1210-hus/processed.kicad_pcb",
   "json": "kitspace_mppt-1210-hus/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "CERN",
-      "link": "https://raw.githubusercontent.com/LibreSolar/mppt-1210-hus/main/LICENCE"
-    },
-    {
-      "name": "GPL",
-      "link": "https://raw.githubusercontent.com/LibreSolar/mppt-1210-hus/main/manual/template/fontawesome/LICENSE.txt"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CERN-OHL-W-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENCE",
+    "source_commit": "a0c386ace7cef04c25985b522b478e124d3d936f",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

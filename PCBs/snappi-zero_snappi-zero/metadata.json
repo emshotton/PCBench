@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/snappi-zero_snappi-zero/processed.kicad_pcb",
   "json": "../../PCBs/snappi-zero_snappi-zero/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b0fefc66c1f7e756be1eb77dfcb43adc18c9f36a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

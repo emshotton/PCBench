@@ -8,11 +8,16 @@
   "json": "../../PCBs/AnalogThermometer_AnalogThermometer/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "unlicense",
-    "name": "The Unlicense",
     "spdx_id": "Unlicense",
-    "url": "https://api.github.com/licenses/unlicense",
-    "node_id": "MDc6TGljZW5zZTE1"
+    "name": "The Unlicense",
+    "path": "LICENSE",
+    "source_commit": "d3cfa0b93ebe94815005bf067e59f15e115450eb",
+    "detected_by": "github",
+    "detected_ids": [
+      "Unlicense"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

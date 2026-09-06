@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/kicad-projects_BatCharge/processed.kicad_pcb",
   "json": "../../PCBs/kicad-projects_BatCharge/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "83d970ae76a59c6f09c8e0e7f4280c3022548fbf",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,12 +7,16 @@
   "cleaned": "kitspace_push-on-hold-off/processed.kicad_pcb",
   "json": "kitspace_push-on-hold-off/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "0b374574464d2b3b896f696e2ad06fa84ffe9944",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

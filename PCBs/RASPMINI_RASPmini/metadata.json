@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/RASPMINI_RASPmini/processed.kicad_pcb",
   "json": "../../PCBs/RASPMINI_RASPmini/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "140e71d33a3785ccedd82ccbc594d2e10500f885",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/stm32_nucleo-64_proto_shield_nucleo_pb/processed.kicad_pcb",
   "json": "../../PCBs/stm32_nucleo-64_proto_shield_nucleo_pb/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "5e4af0ac28a7a632c5fe01c8894260882a2f3976",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

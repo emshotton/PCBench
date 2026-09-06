@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Omega2-mini-dock_Omega2 mini-dock/processed.kicad_pcb",
   "json": "../../PCBs/Omega2-mini-dock_Omega2 mini-dock/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "1d633c21aa608d9621afdeb9a4f2bd28cc9cf10a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

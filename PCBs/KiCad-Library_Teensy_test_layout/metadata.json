@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/KiCad-Library_Teensy_test_layout/processed.kicad_pcb",
   "json": "../../PCBs/KiCad-Library_Teensy_test_layout/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "92cc3b68fe7de45829efb766f7678a390f2a03ee",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

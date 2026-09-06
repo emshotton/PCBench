@@ -7,12 +7,16 @@
   "cleaned": "kitspace_CocoMixtape_UGM_Kicad/processed.kicad_pcb",
   "json": "kitspace_CocoMixtape_UGM_Kicad/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bbd6fa9e8fded2dd820c5c36a7a48184f988c0df",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

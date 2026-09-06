@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/TB6600StepperDriver_DEW_TB6600-V1/processed.kicad_pcb",
   "json": "../../PCBs/TB6600StepperDriver_DEW_TB6600-V1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "20a43c7c282d62ce6e80125800746897b223d3cc",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

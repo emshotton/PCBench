@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/decelerator4030_decelerator4030/processed.kicad_pcb",
   "json": "../../PCBs/decelerator4030_decelerator4030/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6349a9f55b45bbfa55c0f21134cea7274f4daa0b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

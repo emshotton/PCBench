@@ -8,11 +8,16 @@
   "json": "../../PCBs/TinySimon_TinySimon/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "bsd-3-clause",
-    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
     "spdx_id": "BSD-3-Clause",
-    "url": "https://api.github.com/licenses/bsd-3-clause",
-    "node_id": "MDc6TGljZW5zZTU="
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "LICENSE",
+    "source_commit": "69865401236d22e16f0981947135539a5f5ccc68",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

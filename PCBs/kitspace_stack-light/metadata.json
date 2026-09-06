@@ -7,12 +7,18 @@
   "cleaned": "kitspace_stack-light/processed.kicad_pcb",
   "json": "kitspace_stack-light/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Creative Commons",
-      "link": "https://raw.githubusercontent.com/Tyler-Ward/stacklight-hardware/master/LICENSE.txt"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "c5c3d2da9106aef4018e4df2063931d22044ef7c",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

@@ -1,0 +1,19 @@
+# rgb-strip-controller__autosave-rgb-strip
+
+- Source: https://github.com/LuisDiazUgena/rgb-strip-controller
+- Source commit: 8073c04672ed3eece4f2d03666a16e8e149b01e0
+- Author: LuisDiazUgena
+- Retrieved: 2023-08-17 17:23:00.246148
+- License: none
+
+No license was found in the source repository. The author retains all rights to
+these files. They are held in this dataset for research and evaluation only and are
+**not redistributable**; do not copy them elsewhere or publish results that include
+the board files themselves.
+
+## Modifications
+
+`raw.kicad_pcb` is the board as retrieved from the source. `processed.kicad_pcb` and
+`final.json` are modified versions of it produced on 2023-08-17 by the PCBench cleaning
+scripts under `Scripts/Data_cleaning` and `Scripts/Data_extraction`. The modified files
+carry the same restriction as the source: all rights reserved.

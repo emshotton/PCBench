@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Sensory_Adaptation_Bot_sa_bot/processed.kicad_pcb",
   "json": "../../PCBs/Sensory_Adaptation_Bot_sa_bot/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8e4a34aae9ced1f82106491f4668a972901b1cad",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

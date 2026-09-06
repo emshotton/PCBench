@@ -8,11 +8,16 @@
   "json": "../../PCBs/Paperino_HW_paperino_breakout/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "cc-by-4.0",
-    "name": "Creative Commons Attribution 4.0 International",
     "spdx_id": "CC-BY-4.0",
-    "url": "https://api.github.com/licenses/cc-by-4.0",
-    "node_id": "MDc6TGljZW5zZTI1"
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "license.txt",
+    "source_commit": "52fcf8ef47f42dfd0aef1376b63a4cd6b4d2e665",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20171130"

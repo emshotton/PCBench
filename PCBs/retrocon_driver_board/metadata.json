@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/retrocon_driver_board/processed.kicad_pcb",
   "json": "../../PCBs/retrocon_driver_board/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f5cb2115b0c1330cc3e31c4d8eef219088de31e2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

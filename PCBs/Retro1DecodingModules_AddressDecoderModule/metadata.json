@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Retro1DecodingModules_AddressDecoderModule/processed.kicad_pcb",
   "json": "../../PCBs/Retro1DecodingModules_AddressDecoderModule/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e774057c988847e58f61ea5411b6590ee221be4f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

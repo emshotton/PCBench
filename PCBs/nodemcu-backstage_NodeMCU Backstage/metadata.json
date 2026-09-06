@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/nodemcu-backstage_NodeMCU Backstage/processed.kicad_pcb",
   "json": "../../PCBs/nodemcu-backstage_NodeMCU Backstage/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "087c6d67a41b1ea5dc3280d6c01037887c40322d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

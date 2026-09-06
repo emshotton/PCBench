@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/KiCad-LTC6802-2_main/processed.kicad_pcb",
   "json": "../../PCBs/KiCad-LTC6802-2_main/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "69713cabccc156e70709274e6405aba5ce81ae42",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

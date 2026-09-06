@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/sonic3_feram_adapter_sonic3_feram_adapter/processed.kicad_pcb",
   "json": "../../PCBs/sonic3_feram_adapter_sonic3_feram_adapter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "15398d5dc2f43ac9b5918705bc28bbdc2436ccbb",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

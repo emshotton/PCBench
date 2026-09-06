@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/OpenBot_openbot/processed.kicad_pcb",
   "json": "../../PCBs/OpenBot_openbot/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "4ee1c450212decd4b101a8895b155f1ca32198e4",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

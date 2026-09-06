@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MoonLander_MoonLander/processed.kicad_pcb",
   "json": "../../PCBs/MoonLander_MoonLander/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a0bfb31218d4d4fba86d2c2213105d9b9eb7bef3",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

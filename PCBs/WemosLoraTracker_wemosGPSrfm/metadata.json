@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/WemosLoraTracker_wemosGPSrfm/processed.kicad_pcb",
   "json": "../../PCBs/WemosLoraTracker_wemosGPSrfm/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "92048c6aed6e5c7c4fc32e373ecf513525c774a1",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

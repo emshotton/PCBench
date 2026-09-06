@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/lattice-ice40-hx8kevb-sdram_hx8kevb-sdram/processed.kicad_pcb",
   "json": "../../PCBs/lattice-ice40-hx8kevb-sdram_hx8kevb-sdram/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "9eff31cc993a7709c5c656b4c4b0d610f4fda4ed",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

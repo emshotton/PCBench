@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/light-painting-wand_light-wand/processed.kicad_pcb",
   "json": "../../PCBs/light-painting-wand_light-wand/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d0d94e336cbbea02a5cebcc354169d4024feef37",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

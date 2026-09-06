@@ -7,12 +7,18 @@
   "cleaned": "../../PCBs/hamityanik_ULP-Weather-Logger/processed.kicad_pcb",
   "json": "../../PCBs/hamityanik_ULP-Weather-Logger/metadata.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "MIT License",
-      "link": "https://api.github.com/licenses/mit"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "033ff8bc1b80267945a0d2db140b62f1860f2b6f",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

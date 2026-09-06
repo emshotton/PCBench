@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/AVR-ZIF-Programmer_AVR-ZIF-Prog/processed.kicad_pcb",
   "json": "../../PCBs/AVR-ZIF-Programmer_AVR-ZIF-Prog/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "CERN-OHL-1.2",
+    "name": "CERN Open Hardware Licence v1.2",
+    "path": "PCB/LICENSE",
+    "source_commit": "289c65b79d614e061c4ca4b4825845612fe14f60",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-1.2"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

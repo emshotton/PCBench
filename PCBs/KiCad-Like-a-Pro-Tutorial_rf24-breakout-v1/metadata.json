@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/KiCad-Like-a-Pro-Tutorial_rf24-breakout-v1/processed.kicad_pcb",
   "json": "../../PCBs/KiCad-Like-a-Pro-Tutorial_rf24-breakout-v1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "43b320f4cd7219cecf2f5d09acdecf3c02fbf66f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/motor-3xdrv8833-hw_ver1/processed.kicad_pcb",
   "json": "../../PCBs/motor-3xdrv8833-hw_ver1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f835838b38acc97d7f9a2e953dce71b7bbd5504b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

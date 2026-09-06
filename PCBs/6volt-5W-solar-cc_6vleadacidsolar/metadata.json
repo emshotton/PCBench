@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/6volt-5W-solar-cc_6vleadacidsolar/processed.kicad_pcb",
   "json": "../../PCBs/6volt-5W-solar-cc_6vleadacidsolar/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "469d2a92df94b06e727226601bf9101a00bed53d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

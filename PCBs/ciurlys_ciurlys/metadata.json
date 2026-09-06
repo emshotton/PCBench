@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ciurlys_ciurlys/processed.kicad_pcb",
   "json": "../../PCBs/ciurlys_ciurlys/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "c3d21ac3d82b829159e64e1901a04376eb39316d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

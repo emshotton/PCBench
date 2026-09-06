@@ -7,12 +7,18 @@
   "cleaned": "kitspace_led_driver/processed.kicad_pcb",
   "json": "kitspace_led_driver/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "MIT",
-      "link": "https://raw.githubusercontent.com/eulerlab/open-visual-stimulator/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d7110c4c04f664363f8dfb8cf76b7742ee3b1e57",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

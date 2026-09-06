@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ATmega32_ExploreUltraAvrDevKit_40pin_AVRMCU/processed.kicad_pcb",
   "json": "../../PCBs/ATmega32_ExploreUltraAvrDevKit_40pin_AVRMCU/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8d9477b0bc5f1aa4a6ee4de6c9b274eef07f13ad",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

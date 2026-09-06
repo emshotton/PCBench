@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/divergence_meter_dm_nixiebrd/processed.kicad_pcb",
   "json": "../../PCBs/divergence_meter_dm_nixiebrd/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "BSD-3-Clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "dm_firmware/LICENSE",
+    "source_commit": "37737522de58ac75fdf7c5ab210ad7bddc949061",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

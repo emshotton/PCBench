@@ -8,11 +8,16 @@
   "json": "../../PCBs/ourglass_watch-v4/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "mit",
-    "name": "MIT License",
     "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "name": "MIT License",
+    "path": "license.txt",
+    "source_commit": "1ecef0793a78edf05a121c0a76e947fde3fc85fb",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 4"

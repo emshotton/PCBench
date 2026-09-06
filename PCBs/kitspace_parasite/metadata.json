@@ -9,12 +9,16 @@
   "supplementary files": [
     "kitspace_parasite/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "70d716520dc5bee939559a768903416385239d12",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20221018"
 }

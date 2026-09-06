@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/pmod-rgmii_pmod-rgmii-RTL8211E-module/processed.kicad_pcb",
   "json": "../../PCBs/pmod-rgmii_pmod-rgmii-RTL8211E-module/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "dfe5803068f833031df670da8b0817c9572d685b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 3"
 }

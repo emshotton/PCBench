@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/wifi-iot-core-hw_wifi-iot-core-hw/processed.kicad_pcb",
   "json": "../../PCBs/wifi-iot-core-hw_wifi-iot-core-hw/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "cab02d3b990ef5f3a6d0632a8eeac37e99d4bf15",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

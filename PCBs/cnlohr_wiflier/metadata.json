@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/cnlohr_wiflier/processed.kicad_pcb",
   "json": "../../PCBs/cnlohr_wiflier/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "72ab23cb2a27ee3a802dcf05c9277e800cb635c2",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

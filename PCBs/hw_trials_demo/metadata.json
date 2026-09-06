@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/hw_trials_demo/processed.kicad_pcb",
   "json": "../../PCBs/hw_trials_demo/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "dc4d96dbf208987b01ac764300763da2ed4f5026",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

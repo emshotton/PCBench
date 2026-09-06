@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/AzizLight_AzizLight/processed.kicad_pcb",
   "json": "../../PCBs/AzizLight_AzizLight/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "c67db9a9a804d468c9494078618ea9a8ffa56e98",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

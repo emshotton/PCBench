@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/phone_amp_phone_amp/processed.kicad_pcb",
   "json": "../../PCBs/phone_amp_phone_amp/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "101e5ba276a41f62986777d5543eb6e9f1b24d2a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

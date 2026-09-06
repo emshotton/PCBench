@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/tessel-ice40__autosave-project/processed.kicad_pcb",
   "json": "../../PCBs/tessel-ice40__autosave-project/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "55761f97f3279521bc8e7321f14700d331612b32",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

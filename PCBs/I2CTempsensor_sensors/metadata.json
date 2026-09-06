@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/I2CTempsensor_sensors/processed.kicad_pcb",
   "json": "../../PCBs/I2CTempsensor_sensors/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "7d9e292a75b624279ac5848be8b7f3b131a631b9",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

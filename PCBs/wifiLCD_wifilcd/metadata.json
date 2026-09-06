@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/wifiLCD_wifilcd/processed.kicad_pcb",
   "json": "../../PCBs/wifiLCD_wifilcd/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "decc945d0694aec8014f370932804b6d75a5f906",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

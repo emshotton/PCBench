@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/fuzzer_fuzzer/processed.kicad_pcb",
   "json": "../../PCBs/fuzzer_fuzzer/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "448407bfe762460e6649628ae0b5dbae97d4447e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

@@ -7,12 +7,18 @@
   "cleaned": "kitspace_tri_panel_4up_r0.1/processed.kicad_pcb",
   "json": "kitspace_tri_panel_4up_r0.1/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "BSD",
-      "link": "https://raw.githubusercontent.com/gregdavill/d20-hardware/main/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "BSD-2-Clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "path": "LICENSE",
+    "source_commit": "f11d5a92aa09db1370572ac9001f02feb15e1096",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-2-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

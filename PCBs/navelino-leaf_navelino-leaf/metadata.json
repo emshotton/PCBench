@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/navelino-leaf_navelino-leaf/processed.kicad_pcb",
   "json": "../../PCBs/navelino-leaf_navelino-leaf/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "93092aca243353ddf662a0d1d138481efd4cb546",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

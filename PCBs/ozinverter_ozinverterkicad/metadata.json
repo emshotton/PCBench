@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ozinverter_ozinverterkicad/processed.kicad_pcb",
   "json": "../../PCBs/ozinverter_ozinverterkicad/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "862b0bad26247db9633e82a8c7861a2b04a5ccdb",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

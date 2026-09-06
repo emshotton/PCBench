@@ -7,12 +7,16 @@
   "cleaned": "kitspace_sop8breakout/processed.kicad_pcb",
   "json": "kitspace_sop8breakout/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f4652411ae4deebd3e55c1f170af1530d204d90e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

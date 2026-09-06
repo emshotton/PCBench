@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/gwurrbus_pwm/processed.kicad_pcb",
   "json": "../../PCBs/gwurrbus_pwm/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bbb65760ff4acb37fd8a62e4f7c89027f800dfb1",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

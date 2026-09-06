@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/hardware-designs_nixie-combo/processed.kicad_pcb",
   "json": "../../PCBs/hardware-designs_nixie-combo/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": "nixie-combo/LICENCE",
+    "source_commit": "394d46f5436ae2188b9c05c9cfb35b2c5828bfe4",
+    "detected_by": "text-match",
+    "detected_ids": [],
+    "status": "licensed-unclassified",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

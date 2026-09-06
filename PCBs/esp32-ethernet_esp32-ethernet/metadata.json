@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/esp32-ethernet_esp32-ethernet/processed.kicad_pcb",
   "json": "../../PCBs/esp32-ethernet_esp32-ethernet/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d7c9fc2ce2304f0a38e9a8e076b0c7d33c5c15aa",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20170123"
 }

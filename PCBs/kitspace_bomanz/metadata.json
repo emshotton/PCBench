@@ -7,12 +7,16 @@
   "cleaned": "kitspace_bomanz/processed.kicad_pcb",
   "json": "kitspace_bomanz/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "94c1d2bc1353fbcb477802bb7e298458c704d7b7",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

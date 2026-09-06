@@ -1,0 +1,19 @@
+# Box0-hv-analog-breakoutboard_breakout
+
+- Source: https://github.com/riktw/Box0-hv-analog-breakoutboard
+- Source commit: a7c6dbec58324ff57eac67780ae88253fa294a3d
+- Author: riktw
+- Retrieved: 2023-08-17 17:22:49.378020
+- License: none
+
+No license was found in the source repository. The author retains all rights to
+these files. They are held in this dataset for research and evaluation only and are
+**not redistributable**; do not copy them elsewhere or publish results that include
+the board files themselves.
+
+## Modifications
+
+`raw.kicad_pcb` is the board as retrieved from the source. `processed.kicad_pcb` and
+`final.json` are modified versions of it produced on 2023-08-17 by the PCBench cleaning
+scripts under `Scripts/Data_cleaning` and `Scripts/Data_extraction`. The modified files
+carry the same restriction as the source: all rights reserved.

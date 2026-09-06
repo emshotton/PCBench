@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LED-grid-8x8_LED grid 8x8/processed.kicad_pcb",
   "json": "../../PCBs/LED-grid-8x8_LED grid 8x8/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "7eb95826d72849069b47e449c1e7ba9b6fa5f415",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

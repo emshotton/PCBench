@@ -8,11 +8,18 @@
   "json": "../../PCBs/rgb-led_rgb-led-v2/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": null,
+    "name": null,
+    "path": "LICENSE.md",
+    "source_commit": "c190bd2a1a87e0dffb57c853fdb6b780aea9d983",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "TAPR-OHL-1.0",
+      "CC-BY-NC-SA-3.0",
+      "MIT"
+    ],
+    "status": "licensed-unclassified",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

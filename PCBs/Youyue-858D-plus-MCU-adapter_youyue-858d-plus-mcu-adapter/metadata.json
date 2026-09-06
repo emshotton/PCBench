@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Youyue-858D-plus-MCU-adapter_youyue-858d-plus-mcu-adapter/processed.kicad_pcb",
   "json": "../../PCBs/Youyue-858D-plus-MCU-adapter_youyue-858d-plus-mcu-adapter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "7c25844bdda5d0ca8b01d36a560f705e36111cab",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

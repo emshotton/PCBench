@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/imfr-schematics_Telescopio/processed.kicad_pcb",
   "json": "../../PCBs/imfr-schematics_Telescopio/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "27c8a48b67bc4203d39bb1398b3ae2c3bca70337",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

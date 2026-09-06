@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/uedaino_uedaino/processed.kicad_pcb",
   "json": "../../PCBs/uedaino_uedaino/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "docs/LICENSE_revealjs",
+    "source_commit": "9b4036c165abb6b194d35e0a717873dae6c8796a",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

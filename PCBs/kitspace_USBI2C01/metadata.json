@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_USBI2C01/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "GNU",
-      "link": "https://raw.githubusercontent.com/mlab-modules/USBI2C01/USBI2C01A/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "77ea6f831d83f69e88f026d9412fc4ed4d0341bc",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20211014"
 }

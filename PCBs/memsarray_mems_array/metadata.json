@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/memsarray_mems_array/processed.kicad_pcb",
   "json": "../../PCBs/memsarray_mems_array/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "ae25e26c1465a9aec9e50bc3b4c6a388b8b18ec5",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

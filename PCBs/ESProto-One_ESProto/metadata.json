@@ -8,11 +8,16 @@
   "json": "../../PCBs/ESProto-One_ESProto/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "ab5d7e064c1b7c3c1d958d005247f0e4d172aa99",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

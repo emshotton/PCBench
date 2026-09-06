@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LED_port-status_LED_port-status-CA/processed.kicad_pcb",
   "json": "../../PCBs/LED_port-status_LED_port-status-CA/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "ea4620b60b1a31375e4c6583cce35acc1aebb708",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

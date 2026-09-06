@@ -8,11 +8,16 @@
   "json": "../../PCBs/tbd_tbd/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "cc-by-4.0",
-    "name": "Creative Commons Attribution 4.0 International",
     "spdx_id": "CC-BY-4.0",
-    "url": "https://api.github.com/licenses/cc-by-4.0",
-    "node_id": "MDc6TGljZW5zZTI1"
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "b91f83e8816ed0fef70245debb53f8222472c703",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

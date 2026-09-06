@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/wifi_pstn_cid_tel_interf/processed.kicad_pcb",
   "json": "../../PCBs/wifi_pstn_cid_tel_interf/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "54adb59a054c4b2a16a972657f12efcdfccc04d6",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

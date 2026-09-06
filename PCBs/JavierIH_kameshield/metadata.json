@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/JavierIH_kameshield/processed.kicad_pcb",
   "json": "../../PCBs/JavierIH_kameshield/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "4ed9422fdf69db4a92771b7fac5b2f58fcbbfa65",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }
