@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Domesday86",
+  "source": "https://github.com/Domesday86/DomesdayDuplicator",
+  "author": "Domesday86",
+  "retrieved at": "2026-09-06 13:57:13.876237",
+  "raw": "../../PCBs/DomesdayDuplicator_Domesday_Duplicator/raw.kicad_pcb",
+  "cleaned": "../../PCBs/DomesdayDuplicator_Domesday_Duplicator/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/DomesdayDuplicator_Domesday_Duplicator/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "bb2e11aa17b751d2180bed38e574233ce137b84d",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "hardware/pcb/Domesday Duplicator.kicad_pcb",
+  "source_commit": "bb2e11aa17b751d2180bed38e574233ce137b84d"
+}

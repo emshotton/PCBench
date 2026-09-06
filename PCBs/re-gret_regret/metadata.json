@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/rschenk",
+  "source": "https://github.com/rschenk/re-gret",
+  "author": "rschenk",
+  "retrieved at": "2026-09-06 13:55:52.099701",
+  "raw": "../../PCBs/re-gret_regret/raw.kicad_pcb",
+  "cleaned": "../../PCBs/re-gret_regret/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/re-gret_regret/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "7bc7908e7579d462b8eebd255a90dd71fe2e64b8",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "pcb/regret.kicad_pcb",
+  "source_commit": "7bc7908e7579d462b8eebd255a90dd71fe2e64b8"
+}

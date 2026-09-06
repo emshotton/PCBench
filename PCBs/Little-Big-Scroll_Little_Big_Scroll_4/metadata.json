@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/TweetyDaBird",
+  "source": "https://github.com/TweetyDaBird/Little-Big-Scroll",
+  "author": "TweetyDaBird",
+  "retrieved at": "2026-09-06 13:59:46.230542",
+  "raw": "../../PCBs/Little-Big-Scroll_Little_Big_Scroll_4/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Little-Big-Scroll_Little_Big_Scroll_4/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Little-Big-Scroll_Little_Big_Scroll_4/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "97dc5f4876bb283ea938eaba5a553b861abf4b4e",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "Little Big Scroll 4/v1.00/PCB/Little_Big_Scroll_4.kicad_pcb",
+  "source_commit": "97dc5f4876bb283ea938eaba5a553b861abf4b4e"
+}

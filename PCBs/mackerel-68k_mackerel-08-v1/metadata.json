@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/crmaykish",
+  "source": "https://github.com/crmaykish/mackerel-68k",
+  "author": "crmaykish",
+  "retrieved at": "2026-09-06 13:55:23.162391",
+  "raw": "../../PCBs/mackerel-68k_mackerel-08-v1/raw.kicad_pcb",
+  "cleaned": "../../PCBs/mackerel-68k_mackerel-08-v1/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/mackerel-68k_mackerel-08-v1/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "50786ed64897e037c57989c3322f02ea375584b7",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "hardware/mackerel-08-v1/mackerel-08-v1.kicad_pcb",
+  "source_commit": "50786ed64897e037c57989c3322f02ea375584b7"
+}

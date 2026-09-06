@@ -5,33 +5,33 @@ carries its own `LICENSE` and `NOTICE.md`; this file only summarises them.
 
 | Status | Boards |
 |---|---|
-| Licensed | 657 |
-| Licensed (unclassified) | 16 |
+| Licensed | 1016 |
+| Licensed (unclassified) | 13 |
 | Source missing | 46 |
 | Unlicensed | 519 |
 
 | SPDX | Boards |
 |---|---|
-| MIT | 175 |
-| GPL-3.0 | 148 |
-| Apache-2.0 | 64 |
+| MIT | 319 |
+| GPL-3.0 | 262 |
+| Apache-2.0 | 79 |
+| CC-BY-SA-4.0 | 58 |
 | CERN-OHL-1.2 | 58 |
-| CC-BY-SA-4.0 | 32 |
-| GPL-2.0 | 30 |
-| CC-BY-4.0 | 27 |
-| CERN-OHL-P-2.0 | 22 |
+| GPL-2.0 | 37 |
+| CERN-OHL-P-2.0 | 31 |
+| CC-BY-4.0 | 28 |
+| CERN-OHL-W-2.0 | 18 |
+| CERN-OHL-S-2.0 | 17 |
 | CC-BY-SA-3.0 | 15 |
-| BSD-2-Clause | 11 |
-| TAPR-OHL-1.0 | 9 |
-| BSD-3-Clause | 8 |
-| Unlicense | 7 |
+| BSD-2-Clause | 12 |
+| CC0-1.0 | 12 |
+| TAPR-OHL-1.0 | 12 |
+| BSD-3-Clause | 11 |
+| Unlicense | 11 |
+| LGPL-3.0 | 7 |
 | CC-BY-3.0 | 6 |
-| CC0-1.0 | 6 |
-| CERN-OHL-S-2.0 | 6 |
-| LGPL-3.0 | 6 |
 | WTFPL | 5 |
 | AGPL-3.0 | 4 |
-| CERN-OHL-W-2.0 | 4 |
 | SHL-0.51 | 3 |
 | 0BSD | 2 |
 | BSD-3-Clause-Clear | 2 |
@@ -582,6 +582,3 @@ These boards' sources carry no license. They are not redistributable; see each b
 - `hardware-designs_solar-harvester`
 - `hardware-designs_spirit1-board`
 - `hardware-designs_spsgrf-board`
-- `iotuz-esp32-hardware_IoTuz`
-- `rgb-led_rgb-led-v2`
-- `rgb-led_rgb_led`

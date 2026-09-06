@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/fraktalcyber",
+  "source": "https://github.com/fraktalcyber/lfi-rig",
+  "author": "fraktalcyber",
+  "retrieved at": "2026-09-06 13:55:12.786106",
+  "raw": "../../PCBs/lfi-rig_lfi-driver/raw.kicad_pcb",
+  "cleaned": "../../PCBs/lfi-rig_lfi-driver/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/lfi-rig_lfi-driver/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9d16d03229803461191226743b95b48cf133b5db",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "PCB/lfi-driver/lfi-driver.kicad_pcb",
+  "source_commit": "9d16d03229803461191226743b95b48cf133b5db"
+}

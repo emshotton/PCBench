@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/duckyb",
+  "source": "https://github.com/duckyb/eternal-keypad",
+  "author": "duckyb",
+  "retrieved at": "2026-09-06 13:54:33.981473",
+  "raw": "../../PCBs/eternal-keypad_eternal-keypad/raw.kicad_pcb",
+  "cleaned": "../../PCBs/eternal-keypad_eternal-keypad/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/eternal-keypad_eternal-keypad/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "bf11c1d50ead127c25401d262d73834e8438f3ca",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb-kicad/eternal-keypad.kicad_pcb",
+  "source_commit": "bf11c1d50ead127c25401d262d73834e8438f3ca"
+}

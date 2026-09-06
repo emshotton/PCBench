@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/TheusHen",
+  "source": "https://github.com/TheusHen/EEGFrontier",
+  "author": "TheusHen",
+  "retrieved at": "2026-09-06 13:55:11.794374",
+  "raw": "../../PCBs/EEGFrontier_EEGFrontier/raw.kicad_pcb",
+  "cleaned": "../../PCBs/EEGFrontier_EEGFrontier/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "1426b6fd3627ee5fc5a5a80d99b86f6d6ab9565a",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "PCB/EEGFrontier.kicad_pcb",
+  "source_commit": "1426b6fd3627ee5fc5a5a80d99b86f6d6ab9565a"
+}

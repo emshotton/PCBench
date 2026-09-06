@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/antmicro",
+  "source": "https://github.com/antmicro/jetson-nano-baseboard",
+  "author": "antmicro",
+  "retrieved at": "2026-09-06 13:52:49.592591",
+  "raw": "../../PCBs/jetson-nano-baseboard_jetson-nano-baseboard/raw.kicad_pcb",
+  "cleaned": "../../PCBs/jetson-nano-baseboard_jetson-nano-baseboard/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/jetson-nano-baseboard_jetson-nano-baseboard/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "d8d0b2d71ab4cc4bcdb204a09f78be40d4c8cda3",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 8,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "jetson-nano-baseboard.kicad_pcb",
+  "source_commit": "d8d0b2d71ab4cc4bcdb204a09f78be40d4c8cda3"
+}

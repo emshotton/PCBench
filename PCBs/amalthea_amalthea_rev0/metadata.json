@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/greatscottgadgets",
+  "source": "https://github.com/greatscottgadgets/amalthea",
+  "author": "greatscottgadgets",
+  "retrieved at": "2026-09-06 13:56:13.327183",
+  "raw": "../../PCBs/amalthea_amalthea_rev0/raw.kicad_pcb",
+  "cleaned": "../../PCBs/amalthea_amalthea_rev0/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "BSD-3-Clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "LICENSE",
+    "source_commit": "2d43c7706e2fc2aa581dd58e6348c42cdaf8f230",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "hardware/rev0/amalthea_rev0.kicad_pcb",
+  "source_commit": "2d43c7706e2fc2aa581dd58e6348c42cdaf8f230"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Ladniy",
+  "source": "https://github.com/Ladniy/jiran-ble-lite",
+  "author": "Ladniy",
+  "retrieved at": "2026-09-06 13:56:01.630641",
+  "raw": "../../PCBs/jiran-ble-lite_jiran-ble-lite/raw.kicad_pcb",
+  "cleaned": "../../PCBs/jiran-ble-lite_jiran-ble-lite/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/jiran-ble-lite_jiran-ble-lite/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "c2a5ef422c265f0d4e3d38f81c557ca802eab125",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/jiran-ble-lite/jiran-ble-lite.kicad_pcb",
+  "source_commit": "c2a5ef422c265f0d4e3d38f81c557ca802eab125"
+}

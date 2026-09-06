@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/miliar",
+  "source": "https://github.com/miliar/saiboard",
+  "author": "miliar",
+  "retrieved at": "2026-09-06 14:01:11.949463",
+  "raw": "../../PCBs/saiboard_3x8/raw.kicad_pcb",
+  "cleaned": "../../PCBs/saiboard_3x8/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/saiboard_3x8/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "541b72eb3ddea7e42299794517e2c65716c10123",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "electronics/kicad_files/3x8/3x8.kicad_pcb",
+  "source_commit": "541b72eb3ddea7e42299794517e2c65716c10123"
+}

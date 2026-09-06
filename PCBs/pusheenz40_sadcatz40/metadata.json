@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ChrisChrisLoLo",
+  "source": "https://github.com/ChrisChrisLoLo/pusheenz40",
+  "author": "ChrisChrisLoLo",
+  "retrieved at": "2026-09-06 14:01:01.647878",
+  "raw": "../../PCBs/pusheenz40_sadcatz40/raw.kicad_pcb",
+  "cleaned": "../../PCBs/pusheenz40_sadcatz40/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/pusheenz40_sadcatz40/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "da693c6834d700beb093a96330b840f39565b9c9",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "pcb/sadcatz40/sadcatz40.kicad_pcb",
+  "source_commit": "da693c6834d700beb093a96330b840f39565b9c9"
+}

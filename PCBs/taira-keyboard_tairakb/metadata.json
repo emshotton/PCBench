@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/strayer",
+  "source": "https://github.com/strayer/taira-keyboard",
+  "author": "strayer",
+  "retrieved at": "2026-09-06 13:54:46.759087",
+  "raw": "../../PCBs/taira-keyboard_tairakb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/taira-keyboard_tairakb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3ed4d2978658386cf189df129f36f1a53dfa545d",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "pcb/tairakb.kicad_pcb",
+  "source_commit": "3ed4d2978658386cf189df129f36f1a53dfa545d"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/galopago",
+  "source": "https://github.com/galopago/misistemita",
+  "author": "galopago",
+  "retrieved at": "2026-09-06 13:56:05.300687",
+  "raw": "../../PCBs/misistemita_C12/raw.kicad_pcb",
+  "cleaned": "../../PCBs/misistemita_C12/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/misistemita_C12/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "4ff8ffb8ad80d6836cf9cbfcf74dfce9c9a24ba3",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "c-breakouts/c12/C12.kicad_pcb",
+  "source_commit": "4ff8ffb8ad80d6836cf9cbfcf74dfce9c9a24ba3"
+}

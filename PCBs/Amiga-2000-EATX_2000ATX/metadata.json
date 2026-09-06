@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/jasonsbeer",
+  "source": "https://github.com/jasonsbeer/Amiga-2000-EATX",
+  "author": "jasonsbeer",
+  "retrieved at": "2026-09-06 13:58:07.368204",
+  "raw": "../../PCBs/Amiga-2000-EATX_2000ATX/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Amiga-2000-EATX_2000ATX/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Amiga-2000-EATX_2000ATX/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "dfde4574396919e9cc51f5079ef054e4de3b9a07",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "2000EATX-KiCAD-R31/2000ATX.kicad_pcb",
+  "source_commit": "dfde4574396919e9cc51f5079ef054e4de3b9a07"
+}

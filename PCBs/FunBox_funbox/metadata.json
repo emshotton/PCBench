@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/GuitarML",
+  "source": "https://github.com/GuitarML/FunBox",
+  "author": "GuitarML",
+  "retrieved at": "2026-09-06 13:53:12.372070",
+  "raw": "../../PCBs/FunBox_funbox/raw.kicad_pcb",
+  "cleaned": "../../PCBs/FunBox_funbox/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/FunBox_funbox/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE.txt",
+    "source_commit": "c0409dde8e381027688f3cc212951c605247a18f",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "hardware/funbox_v1/funbox.kicad_pcb",
+  "source_commit": "c0409dde8e381027688f3cc212951c605247a18f"
+}

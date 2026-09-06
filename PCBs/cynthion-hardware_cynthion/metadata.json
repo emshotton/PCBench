@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/greatscottgadgets",
+  "source": "https://github.com/greatscottgadgets/cynthion-hardware",
+  "author": "greatscottgadgets",
+  "retrieved at": "2026-09-06 13:55:08.675896",
+  "raw": "../../PCBs/cynthion-hardware_cynthion/raw.kicad_pcb",
+  "cleaned": "../../PCBs/cynthion-hardware_cynthion/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/cynthion-hardware_cynthion/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "13aa71c2fb0be3837cd2ec580ee5d2c25fc1c678",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 6,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "cynthion.kicad_pcb",
+  "source_commit": "13aa71c2fb0be3837cd2ec580ee5d2c25fc1c678"
+}

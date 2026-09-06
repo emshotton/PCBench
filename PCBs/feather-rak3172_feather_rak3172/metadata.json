@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/teapotlaboratories",
+  "source": "https://github.com/teapotlaboratories/feather-rak3172",
+  "author": "teapotlaboratories",
+  "retrieved at": "2026-09-06 13:56:25.821158",
+  "raw": "../../PCBs/feather-rak3172_feather_rak3172/raw.kicad_pcb",
+  "cleaned": "../../PCBs/feather-rak3172_feather_rak3172/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/feather-rak3172_feather_rak3172/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3d07959fe17d5e80ef144d2306df94c57608312a",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "hardware/kicad/feather_rak3172.kicad_pcb",
+  "source_commit": "3d07959fe17d5e80ef144d2306df94c57608312a"
+}

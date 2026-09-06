@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/raeedcho",
+  "source": "https://github.com/raeedcho/temper",
+  "author": "raeedcho",
+  "retrieved at": "2026-09-06 13:52:53.643507",
+  "raw": "../../PCBs/temper_temper/raw.kicad_pcb",
+  "cleaned": "../../PCBs/temper_temper/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/temper_temper/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "08b23b021fcec6c2ae355cade7e0e473530afb85",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "pcb/temper.kicad_pcb",
+  "source_commit": "08b23b021fcec6c2ae355cade7e0e473530afb85"
+}

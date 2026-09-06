@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/greatscottgadgets",
+  "source": "https://github.com/greatscottgadgets/yardstick",
+  "author": "greatscottgadgets",
+  "retrieved at": "2026-09-06 13:57:17.854749",
+  "raw": "../../PCBs/yardstick_yardstickone/raw.kicad_pcb",
+  "cleaned": "../../PCBs/yardstick_yardstickone/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/yardstick_yardstickone/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "COPYING",
+    "source_commit": "2e6516c3309011f8b93c3175fa2f7d96722f1ee7",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "yardstickone/yardstickone.kicad_pcb",
+  "source_commit": "2e6516c3309011f8b93c3175fa2f7d96722f1ee7"
+}

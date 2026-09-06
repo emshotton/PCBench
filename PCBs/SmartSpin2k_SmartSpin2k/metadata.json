@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/doudar",
+  "source": "https://github.com/doudar/SmartSpin2k",
+  "author": "doudar",
+  "retrieved at": "2026-09-06 13:57:20.399672",
+  "raw": "../../PCBs/SmartSpin2k_SmartSpin2k/raw.kicad_pcb",
+  "cleaned": "../../PCBs/SmartSpin2k_SmartSpin2k/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/SmartSpin2k_SmartSpin2k/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "a3ff5d3e495e2f733eb093a0eb3cae127f4d488e",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "Hardware/V3 - Integrated PCB/PCB/SS2K_KiCad_Files/SmartSpin2k.kicad_pcb",
+  "source_commit": "a3ff5d3e495e2f733eb093a0eb3cae127f4d488e"
+}

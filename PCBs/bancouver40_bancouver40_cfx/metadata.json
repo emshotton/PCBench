@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ChrisChrisLoLo",
+  "source": "https://github.com/ChrisChrisLoLo/bancouver40",
+  "author": "ChrisChrisLoLo",
+  "retrieved at": "2026-09-06 13:58:55.638485",
+  "raw": "../../PCBs/bancouver40_bancouver40_cfx/raw.kicad_pcb",
+  "cleaned": "../../PCBs/bancouver40_bancouver40_cfx/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/bancouver40_bancouver40_cfx/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ff316e6f3eb91371fda0ae5a82a827710402f296",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/bancouver40_cfx/bancouver40_cfx.kicad_pcb",
+  "source_commit": "ff316e6f3eb91371fda0ae5a82a827710402f296"
+}

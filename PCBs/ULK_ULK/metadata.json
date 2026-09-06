@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Goga64",
+  "source": "https://github.com/Goga64/ULK",
+  "author": "Goga64",
+  "retrieved at": "2026-09-06 13:55:56.131877",
+  "raw": "../../PCBs/ULK_ULK/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ULK_ULK/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/ULK_ULK/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "32fccf4621cc56d1907aa7889cb8d95d5e8625b5",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "KiCad/ULK_ulp_Original_Silkscreen/ULK.kicad_pcb",
+  "source_commit": "32fccf4621cc56d1907aa7889cb8d95d5e8625b5"
+}

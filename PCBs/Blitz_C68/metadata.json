@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ProbablyNotArtyom",
+  "source": "https://github.com/ProbablyNotArtyom/Blitz",
+  "author": "ProbablyNotArtyom",
+  "retrieved at": "2026-09-06 14:00:45.206570",
+  "raw": "../../PCBs/Blitz_C68/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Blitz_C68/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Blitz_C68/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "0f6b477a3eb6c6d5381d5f9cdc2158616726fb09",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20210126",
+  "kicad_version": "6",
+  "source_path": "Hardware/Rev.L/C68.kicad_pcb",
+  "source_commit": "0f6b477a3eb6c6d5381d5f9cdc2158616726fb09"
+}

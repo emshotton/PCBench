@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/strangeparts",
+  "source": "https://github.com/strangeparts/niubi-headphones",
+  "author": "strangeparts",
+  "retrieved at": "2026-09-06 13:52:52.608999",
+  "raw": "../../PCBs/niubi-headphones_headphones_flex_pcb-rigid/raw.kicad_pcb",
+  "cleaned": "../../PCBs/niubi-headphones_headphones_flex_pcb-rigid/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d8f4b49683f791032072101c1a101beb0e74e940",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "flex_pcb/headphones_flex_pcb-rigid.kicad_pcb",
+  "source_commit": "d8f4b49683f791032072101c1a101beb0e74e940"
+}

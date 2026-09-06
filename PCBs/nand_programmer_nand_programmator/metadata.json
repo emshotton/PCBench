@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/bbogush",
+  "source": "https://github.com/bbogush/nand_programmer",
+  "author": "bbogush",
+  "retrieved at": "2026-09-06 13:57:03.637340",
+  "raw": "../../PCBs/nand_programmer_nand_programmator/raw.kicad_pcb",
+  "cleaned": "../../PCBs/nand_programmer_nand_programmator/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/nand_programmer_nand_programmator/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.txt",
+    "source_commit": "4d840b7afff7c1a1c02eacce3a72761cd0f58c93",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "kicad/nand_programmator.kicad_pcb",
+  "source_commit": "4d840b7afff7c1a1c02eacce3a72761cd0f58c93"
+}

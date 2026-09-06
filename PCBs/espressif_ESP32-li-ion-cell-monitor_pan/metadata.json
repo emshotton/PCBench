@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/pcbreflux",
+  "source": "https://github.com/pcbreflux/espressif",
+  "author": "pcbreflux",
+  "retrieved at": "2026-09-06 13:56:45.589402",
+  "raw": "../../PCBs/espressif_ESP32-li-ion-cell-monitor_pan/raw.kicad_pcb",
+  "cleaned": "../../PCBs/espressif_ESP32-li-ion-cell-monitor_pan/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "fb147ec49807592c2ac480791f7006dd69263fea",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "esp32/kicad/ESP32-li-ion-cell-monitor Ref1.3/ESP32-li-ion-cell-monitor_pan.kicad_pcb",
+  "source_commit": "fb147ec49807592c2ac480791f7006dd69263fea"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/openeew",
+  "source": "https://github.com/openeew/openeew-sensor",
+  "author": "openeew",
+  "retrieved at": "2026-09-06 13:56:03.867452",
+  "raw": "../../PCBs/openeew-sensor_pcb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/openeew-sensor_pcb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "b1fae4e89ca090c37aefb8ce166741464834da3f",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "pcb/pcb.kicad_pcb",
+  "source_commit": "b1fae4e89ca090c37aefb8ce166741464834da3f"
+}

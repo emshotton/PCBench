@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/dbuchwald",
+  "source": "https://github.com/dbuchwald/6502",
+  "author": "dbuchwald",
+  "retrieved at": "2026-09-06 13:54:37.393231",
+  "raw": "../../PCBs/6502_65C02_Computer/raw.kicad_pcb",
+  "cleaned": "../../PCBs/6502_65C02_Computer/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d1194eb0162b50493e9f32f2d46c190da779da66",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "Schematics/65C02_Computer/65C02_Computer.kicad_pcb",
+  "source_commit": "d1194eb0162b50493e9f32f2d46c190da779da66"
+}

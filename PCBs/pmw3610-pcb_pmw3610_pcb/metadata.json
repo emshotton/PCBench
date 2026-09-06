@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/siderakb",
+  "source": "https://github.com/siderakb/pmw3610-pcb",
+  "author": "siderakb",
+  "retrieved at": "2026-09-06 13:55:03.296542",
+  "raw": "../../PCBs/pmw3610-pcb_pmw3610_pcb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/pmw3610-pcb_pmw3610_pcb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/pmw3610-pcb_pmw3610_pcb/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "02658835a74cb683d0237ab21a1538de79452a9e",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "pmw3610_pcb.kicad_pcb",
+  "source_commit": "02658835a74cb683d0237ab21a1538de79452a9e"
+}

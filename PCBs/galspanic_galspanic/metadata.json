@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/stas2k",
+  "source": "https://github.com/stas2k/galspanic",
+  "author": "stas2k",
+  "retrieved at": "2026-09-06 13:56:14.081782",
+  "raw": "../../PCBs/galspanic_galspanic/raw.kicad_pcb",
+  "cleaned": "../../PCBs/galspanic_galspanic/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/galspanic_galspanic/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "b90ae3bb29a3ca4bceba48cc3b01dd7f7ca8adb1",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20210925",
+  "kicad_version": "6",
+  "source_path": "galspanic.kicad_pcb",
+  "source_commit": "b90ae3bb29a3ca4bceba48cc3b01dd7f7ca8adb1"
+}

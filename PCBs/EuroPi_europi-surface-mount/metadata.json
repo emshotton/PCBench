@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Allen-Synthesis",
+  "source": "https://github.com/Allen-Synthesis/EuroPi",
+  "author": "Allen-Synthesis",
+  "retrieved at": "2026-09-06 13:52:45.322137",
+  "raw": "../../PCBs/EuroPi_europi-surface-mount/raw.kicad_pcb",
+  "cleaned": "../../PCBs/EuroPi_europi-surface-mount/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/EuroPi_europi-surface-mount/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "path": "LICENSE",
+    "source_commit": "2df37f026d711c4eb57f85e6b9990cbda9955f9b",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC0-1.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "hardware/surface-mount/europi-surface-mount.kicad_pcb",
+  "source_commit": "2df37f026d711c4eb57f85e6b9990cbda9955f9b"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/skot",
+  "source": "https://github.com/skot/bitaxe",
+  "author": "skot",
+  "retrieved at": "2026-09-06 13:56:30.894858",
+  "raw": "../../PCBs/bitaxe_bitaxeUltra/raw.kicad_pcb",
+  "cleaned": "../../PCBs/bitaxe_bitaxeUltra/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/bitaxe_bitaxeUltra/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "942bbd97aab09b12d826c6e82c64f3fb91246c4c",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "bitaxeUltra.kicad_pcb",
+  "source_commit": "942bbd97aab09b12d826c6e82c64f3fb91246c4c"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/duckyb",
+  "source": "https://github.com/duckyb/urchin",
+  "author": "duckyb",
+  "retrieved at": "2026-09-06 13:52:44.185192",
+  "raw": "../../PCBs/urchin_main/raw.kicad_pcb",
+  "cleaned": "../../PCBs/urchin_main/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/urchin_main/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "aef241da7870dbae322416a00fbb269f1a24d8b1",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "main.kicad_pcb",
+  "source_commit": "aef241da7870dbae322416a00fbb269f1a24d8b1"
+}

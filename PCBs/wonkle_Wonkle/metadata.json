@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/wonkleio",
+  "source": "https://github.com/wonkleio/wonkle",
+  "author": "wonkleio",
+  "retrieved at": "2026-09-06 13:58:43.583279",
+  "raw": "../../PCBs/wonkle_Wonkle/raw.kicad_pcb",
+  "cleaned": "../../PCBs/wonkle_Wonkle/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/wonkle_Wonkle/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE-CERN-OHL-S-2.0",
+    "source_commit": "a500f5573ac4a16d452eda755156dfd9ac88cacd",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "pcb/src/board/mk1/pro/Wonkle.kicad_pcb",
+  "source_commit": "a500f5573ac4a16d452eda755156dfd9ac88cacd"
+}

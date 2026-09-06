@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/mbtaylor1982",
+  "source": "https://github.com/mbtaylor1982/ReSDMAC",
+  "author": "mbtaylor1982",
+  "retrieved at": "2026-09-06 14:00:56.797155",
+  "raw": "../../PCBs/ReSDMAC_ReSDMAC/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ReSDMAC_ReSDMAC/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "License.txt",
+    "source_commit": "2e0842f1f4ff41a006efdc871bafe73db80d95bf",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "KiCad/ReSDMAC.kicad_pcb",
+  "source_commit": "2e0842f1f4ff41a006efdc871bafe73db80d95bf"
+}

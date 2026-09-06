@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/midilab",
+  "source": "https://github.com/midilab/aciduino",
+  "author": "midilab",
+  "retrieved at": "2026-09-06 13:52:59.603643",
+  "raw": "../../PCBs/aciduino_aciduino_pcb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/aciduino_aciduino_pcb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9f5f972529ee3ea69038b421a2a653397776828e",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "v1/hardware/ijnekenamay-PCB/Kicad_file/aciduino_pcb.kicad_pcb",
+  "source_commit": "9f5f972529ee3ea69038b421a2a653397776828e"
+}

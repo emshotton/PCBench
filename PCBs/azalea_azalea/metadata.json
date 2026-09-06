@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/greatfet-hardware",
+  "source": "https://github.com/greatfet-hardware/azalea",
+  "author": "greatfet-hardware",
+  "retrieved at": "2026-09-06 13:55:14.282655",
+  "raw": "../../PCBs/azalea_azalea/raw.kicad_pcb",
+  "cleaned": "../../PCBs/azalea_azalea/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "BSD-3-Clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "LICENSE",
+    "source_commit": "0712ed4bd38b2ee44333d752aebff4a3c3d737eb",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "azalea.kicad_pcb",
+  "source_commit": "0712ed4bd38b2ee44333d752aebff4a3c3d737eb"
+}

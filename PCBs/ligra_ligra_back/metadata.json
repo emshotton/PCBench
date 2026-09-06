@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Jana-Marie",
+  "source": "https://github.com/Jana-Marie/ligra",
+  "author": "Jana-Marie",
+  "retrieved at": "2026-09-06 13:58:01.750639",
+  "raw": "../../PCBs/ligra_ligra_back/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ligra_ligra_back/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/ligra_ligra_back/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "8a98f3938c20fe3ed07bfb34e7d43f243e21f519",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "ligra_back/ligra_back.kicad_pcb",
+  "source_commit": "8a98f3938c20fe3ed07bfb34e7d43f243e21f519"
+}

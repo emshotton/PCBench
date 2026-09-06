@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/fabiansteiner",
+  "source": "https://github.com/fabiansteiner/OpenValve",
+  "author": "fabiansteiner",
+  "retrieved at": "2026-09-06 13:57:21.331762",
+  "raw": "../../PCBs/OpenValve_PG_attiny404/raw.kicad_pcb",
+  "cleaned": "../../PCBs/OpenValve_PG_attiny404/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/OpenValve_PG_attiny404/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENCE",
+    "source_commit": "68c05cee74276ad01682fd4d760647811df4929b",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "hardware/pcb/PG_attiny404.kicad_pcb",
+  "source_commit": "68c05cee74276ad01682fd4d760647811df4929b"
+}

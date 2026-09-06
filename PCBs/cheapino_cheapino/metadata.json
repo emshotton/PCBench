@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/tompi",
+  "source": "https://github.com/tompi/cheapino",
+  "author": "tompi",
+  "retrieved at": "2026-09-06 13:52:41.438155",
+  "raw": "../../PCBs/cheapino_cheapino/raw.kicad_pcb",
+  "cleaned": "../../PCBs/cheapino_cheapino/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/cheapino_cheapino/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "eea27c098f43c3f1497a7e5c57b57dbca57b8306",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "pcb/cheapino.kicad_pcb",
+  "source_commit": "eea27c098f43c3f1497a7e5c57b57dbca57b8306"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ravinrabbid",
+  "source": "https://github.com/ravinrabbid/DonCon2040",
+  "author": "ravinrabbid",
+  "retrieved at": "2026-09-06 13:55:50.832709",
+  "raw": "../../PCBs/DonCon2040_DonConPad/raw.kicad_pcb",
+  "cleaned": "../../PCBs/DonCon2040_DonConPad/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/DonCon2040_DonConPad/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "fe7494961dfcbb94f4b3ca0f841e0784418b430b",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20230620",
+  "kicad_version": "7",
+  "source_path": "pcb/DonConPad/DonConPad.kicad_pcb",
+  "source_commit": "fe7494961dfcbb94f4b3ca0f841e0784418b430b"
+}

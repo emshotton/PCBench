@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/AzonInc",
+  "source": "https://github.com/AzonInc/Doorman",
+  "author": "AzonInc",
+  "retrieved at": "2026-09-06 13:57:42.760089",
+  "raw": "../../PCBs/Doorman_doorman_slot/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Doorman_doorman_slot/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Doorman_doorman_slot/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "fdec5c030e77bb8e0219d745cc0282139c96836c",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "pcb_slot/doorman_slot.kicad_pcb",
+  "source_commit": "fdec5c030e77bb8e0219d745cc0282139c96836c"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Open-Smartwatch",
+  "source": "https://github.com/Open-Smartwatch/open-smartwatch-gps",
+  "author": "Open-Smartwatch",
+  "retrieved at": "2026-09-06 13:57:40.124273",
+  "raw": "../../PCBs/open-smartwatch-gps_osw/raw.kicad_pcb",
+  "cleaned": "../../PCBs/open-smartwatch-gps_osw/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "744b1f4074e90fff00ded519dc4430f6050fd8d2",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "osw.kicad_pcb",
+  "source_commit": "744b1f4074e90fff00ded519dc4430f6050fd8d2"
+}

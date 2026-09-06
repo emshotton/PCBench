@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/joeyparrish",
+  "source": "https://github.com/joeyparrish/kinetoscope",
+  "author": "joeyparrish",
+  "retrieved at": "2026-09-06 13:56:23.023026",
+  "raw": "../../PCBs/kinetoscope_cart/raw.kicad_pcb",
+  "cleaned": "../../PCBs/kinetoscope_cart/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/kinetoscope_cart/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE.txt",
+    "source_commit": "d16046bc49e546b990b5a47726791dd27c7ede28",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "hardware/cart.kicad_pcb",
+  "source_commit": "d16046bc49e546b990b5a47726791dd27c7ede28"
+}

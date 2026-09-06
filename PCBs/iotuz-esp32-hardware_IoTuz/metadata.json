@@ -8,8 +8,8 @@
   "json": "../../PCBs/iotuz-esp32-hardware_IoTuz/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "spdx_id": null,
-    "name": null,
+    "spdx_id": "TAPR-OHL-1.0",
+    "name": "TAPR Open Hardware License v1.0",
     "path": "LICENSE",
     "source_commit": "deeaad857fa22a96935c679633f2695029e5d013",
     "detected_by": "text-match",
@@ -17,7 +17,7 @@
       "TAPR-OHL-1.0",
       "CC-BY-SA-3.0"
     ],
-    "status": "licensed-unclassified",
+    "status": "licensed",
     "file": "LICENSE"
   },
   "layers": 2,

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Nicell",
+  "source": "https://github.com/Nicell/epaper-102",
+  "author": "Nicell",
+  "retrieved at": "2026-09-06 13:55:25.456899",
+  "raw": "../../PCBs/epaper-102_epaper-102/raw.kicad_pcb",
+  "cleaned": "../../PCBs/epaper-102_epaper-102/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "8334541648bbd4debf4f04a253b8b47aa7b2c64d",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "epaper-102.kicad_pcb",
+  "source_commit": "8334541648bbd4debf4f04a253b8b47aa7b2c64d"
+}

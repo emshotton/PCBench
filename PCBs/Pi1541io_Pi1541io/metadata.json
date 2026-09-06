@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/hackup",
+  "source": "https://github.com/hackup/Pi1541io",
+  "author": "hackup",
+  "retrieved at": "2026-09-06 13:58:58.395831",
+  "raw": "../../PCBs/Pi1541io_Pi1541io/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Pi1541io_Pi1541io/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "8b1f812c6000bd99cd8c51c478cf3033a18ac5b6",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "Pi1541io.kicad_pcb",
+  "source_commit": "8b1f812c6000bd99cd8c51c478cf3033a18ac5b6"
+}

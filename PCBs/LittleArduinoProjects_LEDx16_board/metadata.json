@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/tardate",
+  "source": "https://github.com/tardate/LittleArduinoProjects",
+  "author": "tardate",
+  "retrieved at": "2026-09-06 13:52:42.513620",
+  "raw": "../../PCBs/LittleArduinoProjects_LEDx16_board/raw.kicad_pcb",
+  "cleaned": "../../PCBs/LittleArduinoProjects_LEDx16_board/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "1e66c63985c778e8e04de07a27cad3cfafd5cfea",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "playground/LEDx16Module/kicad_project/LEDx16_board.kicad_pcb",
+  "source_commit": "1e66c63985c778e8e04de07a27cad3cfafd5cfea"
+}

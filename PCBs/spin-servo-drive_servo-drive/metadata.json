@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/atopile",
+  "source": "https://github.com/atopile/spin-servo-drive",
+  "author": "atopile",
+  "retrieved at": "2026-09-06 13:55:01.859389",
+  "raw": "../../PCBs/spin-servo-drive_servo-drive/raw.kicad_pcb",
+  "cleaned": "../../PCBs/spin-servo-drive_servo-drive/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/spin-servo-drive_servo-drive/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "b8823c244b9eaba1f4af593a242060d41d691c21",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "elec/layout/default/servo-drive.kicad_pcb",
+  "source_commit": "b8823c244b9eaba1f4af593a242060d41d691c21"
+}

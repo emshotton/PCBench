@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/a-little-wifi",
+  "source": "https://github.com/a-little-wifi/Tinyriser",
+  "author": "a-little-wifi",
+  "retrieved at": "2026-09-06 13:58:23.679637",
+  "raw": "../../PCBs/Tinyriser_TinyRiser/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Tinyriser_TinyRiser/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Tinyriser_TinyRiser/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "c8090e004b4f58810e51e6224c92a57748990bc0",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "TinyRiser.kicad_pcb",
+  "source_commit": "c8090e004b4f58810e51e6224c92a57748990bc0"
+}

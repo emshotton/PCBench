@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/plusvic",
+  "source": "https://github.com/plusvic/simplebus2-intercom",
+  "author": "plusvic",
+  "retrieved at": "2026-09-06 13:55:26.894902",
+  "raw": "../../PCBs/simplebus2-intercom_repeater_v2/raw.kicad_pcb",
+  "cleaned": "../../PCBs/simplebus2-intercom_repeater_v2/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/simplebus2-intercom_repeater_v2/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "path": "LICENSE.md",
+    "source_commit": "d3a0fd15acb94dc279f4a11ddfe211b590f1c61a",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC0-1.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "repeater_v2/pcb/repeater_v2.kicad_pcb",
+  "source_commit": "d3a0fd15acb94dc279f4a11ddfe211b590f1c61a"
+}

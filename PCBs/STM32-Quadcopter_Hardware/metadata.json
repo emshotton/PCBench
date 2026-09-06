@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/I-M-Robotics-Lab",
+  "source": "https://github.com/I-M-Robotics-Lab/STM32-Quadcopter",
+  "author": "I-M-Robotics-Lab",
+  "retrieved at": "2026-09-06 13:59:39.130727",
+  "raw": "../../PCBs/STM32-Quadcopter_Hardware/raw.kicad_pcb",
+  "cleaned": "../../PCBs/STM32-Quadcopter_Hardware/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/STM32-Quadcopter_Hardware/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "53a1ec15ecc6eadba40c16c8c6e2752a0bb6d37e",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "1.Electronics/Hardware.kicad_pcb",
+  "source_commit": "53a1ec15ecc6eadba40c16c8c6e2752a0bb6d37e"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/GEIGEIGEIST",
+  "source": "https://github.com/GEIGEIGEIST/KLOR",
+  "author": "GEIGEIGEIST",
+  "retrieved at": "2026-09-06 13:56:33.348324",
+  "raw": "../../PCBs/KLOR_klor1_3/raw.kicad_pcb",
+  "cleaned": "../../PCBs/KLOR_klor1_3/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/KLOR_klor1_3/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "e2f9c2cde5200189e57c4f89eeff90686cc359fe",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "PCB/klor1_3/klor1_3.kicad_pcb",
+  "source_commit": "e2f9c2cde5200189e57c4f89eeff90686cc359fe"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ChrisChrisLoLo",
+  "source": "https://github.com/ChrisChrisLoLo/banime40",
+  "author": "ChrisChrisLoLo",
+  "retrieved at": "2026-09-06 13:58:57.420284",
+  "raw": "../../PCBs/banime40_banime40/raw.kicad_pcb",
+  "cleaned": "../../PCBs/banime40_banime40/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/banime40_banime40/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "f447898e94577a8444246a8539a5e17d64ea6388",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/banime40/banime40.kicad_pcb",
+  "source_commit": "f447898e94577a8444246a8539a5e17d64ea6388"
+}

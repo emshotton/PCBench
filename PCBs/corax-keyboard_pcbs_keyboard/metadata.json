@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/dnlbauer",
+  "source": "https://github.com/dnlbauer/corax-keyboard",
+  "author": "dnlbauer",
+  "retrieved at": "2026-09-06 13:54:54.571608",
+  "raw": "../../PCBs/corax-keyboard_pcbs_keyboard/raw.kicad_pcb",
+  "cleaned": "../../PCBs/corax-keyboard_pcbs_keyboard/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/corax-keyboard_pcbs_keyboard/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "7e01724621f12f1c1099f78c978bcb6aca19b795",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "corax54/pcbs/pcbs/keyboard.kicad_pcb",
+  "source_commit": "7e01724621f12f1c1099f78c978bcb6aca19b795"
+}

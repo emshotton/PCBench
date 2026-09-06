@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/biomurph",
+  "source": "https://github.com/biomurph/Mouse",
+  "author": "biomurph",
+  "retrieved at": "2026-09-06 13:52:57.767358",
+  "raw": "../../PCBs/Mouse_Mouse/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Mouse_Mouse/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "4f418225c022f810699c22afb629939f062e38d2",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "Hardware/KiCad/Mouse/Mouse.kicad_pcb",
+  "source_commit": "4f418225c022f810699c22afb629939f062e38d2"
+}

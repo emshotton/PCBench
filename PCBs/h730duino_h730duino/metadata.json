@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/martinribelotta",
+  "source": "https://github.com/martinribelotta/h730duino",
+  "author": "martinribelotta",
+  "retrieved at": "2026-09-06 13:56:09.520665",
+  "raw": "../../PCBs/h730duino_h730duino/raw.kicad_pcb",
+  "cleaned": "../../PCBs/h730duino_h730duino/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENCE.txt",
+    "source_commit": "d8f03b62cdc8adddc411dcd4d9bba60abc2dcfea",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "h730duino.kicad_pcb",
+  "source_commit": "d8f03b62cdc8adddc411dcd4d9bba60abc2dcfea"
+}

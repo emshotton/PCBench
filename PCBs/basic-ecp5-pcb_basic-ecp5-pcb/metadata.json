@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/mattvenn",
+  "source": "https://github.com/mattvenn/basic-ecp5-pcb",
+  "author": "mattvenn",
+  "retrieved at": "2026-09-06 13:54:57.005156",
+  "raw": "../../PCBs/basic-ecp5-pcb_basic-ecp5-pcb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/basic-ecp5-pcb_basic-ecp5-pcb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CC0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "path": "CC0_license",
+    "source_commit": "f5ee05d1fba1e30c2f734951bcccd744ad7db93e",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC0-1.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "hardware/basic-ecp5-pcb.kicad_pcb",
+  "source_commit": "f5ee05d1fba1e30c2f734951bcccd744ad7db93e"
+}

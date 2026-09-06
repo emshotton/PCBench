@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/keyzog",
+  "source": "https://github.com/keyzog/kapl",
+  "author": "keyzog",
+  "retrieved at": "2026-09-06 13:55:31.896898",
+  "raw": "../../PCBs/kapl_Kapl/raw.kicad_pcb",
+  "cleaned": "../../PCBs/kapl_Kapl/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/kapl_Kapl/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3635c4fcb3f1a1865659c9e87bb95f8a7c3f55bb",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/Kapl.kicad_pcb",
+  "source_commit": "3635c4fcb3f1a1865659c9e87bb95f8a7c3f55bb"
+}

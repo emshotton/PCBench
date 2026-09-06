@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/peej",
+  "source": "https://github.com/peej/for-science-keyboard",
+  "author": "peej",
+  "retrieved at": "2026-09-06 13:55:10.094783",
+  "raw": "../../PCBs/for-science-keyboard_for-science/raw.kicad_pcb",
+  "cleaned": "../../PCBs/for-science-keyboard_for-science/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "f30ab1072f86780eb4f4e537e78107cea54455a7",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "for-science.kicad_pcb",
+  "source_commit": "f30ab1072f86780eb4f4e537e78107cea54455a7"
+}

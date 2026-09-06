@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/IvDm",
+  "source": "https://github.com/IvDm/Z-probe-on-smd-resistors-2512",
+  "author": "IvDm",
+  "retrieved at": "2026-09-06 13:58:30.257203",
+  "raw": "../../PCBs/Z-probe-on-smd-resistors-2512_kicad_hx711_tyny85/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Z-probe-on-smd-resistors-2512_kicad_hx711_tyny85/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "9a722ca79c7fa9b4263483c0a0b896bbc3eb169d",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "kicad_hx711_tyny85/kicad_hx711_tyny85.kicad_pcb",
+  "source_commit": "9a722ca79c7fa9b4263483c0a0b896bbc3eb169d"
+}

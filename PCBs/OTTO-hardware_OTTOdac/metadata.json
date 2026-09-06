@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/cester-ino",
+  "source": "https://github.com/cester-ino/OTTO-hardware",
+  "author": "cester-ino",
+  "retrieved at": "2026-09-06 14:01:00.653722",
+  "raw": "../../PCBs/OTTO-hardware_OTTOdac/raw.kicad_pcb",
+  "cleaned": "../../PCBs/OTTO-hardware_OTTOdac/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "0381fe6cdd12a34116f1508a3e4bf068d7713391",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "OTTO-dac/OTTOdac.kicad_pcb",
+  "source_commit": "0381fe6cdd12a34116f1508a3e4bf068d7713391"
+}

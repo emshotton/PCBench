@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/goat-hill",
+  "source": "https://github.com/goat-hill/bitclock",
+  "author": "goat-hill",
+  "retrieved at": "2026-09-06 13:55:04.632183",
+  "raw": "../../PCBs/bitclock_canary/raw.kicad_pcb",
+  "cleaned": "../../PCBs/bitclock_canary/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "c06e1b5c1ea5e7673b5b4e85a27384f967de3ef7",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "bitclock-pcb/rev3a/kicad/canary.kicad_pcb",
+  "source_commit": "c06e1b5c1ea5e7673b5b4e85a27384f967de3ef7"
+}

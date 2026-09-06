@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/CRImier",
+  "source": "https://github.com/CRImier/MyKiCad",
+  "author": "CRImier",
+  "retrieved at": "2026-09-06 13:57:34.287780",
+  "raw": "../../PCBs/MyKiCad_framework_mobo_lefthalf/raw.kicad_pcb",
+  "cleaned": "../../PCBs/MyKiCad_framework_mobo_lefthalf/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/MyKiCad_framework_mobo_lefthalf/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "4f01eaa6b3b0a269570c711e58ba4bf0f8446d11",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 6,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "Laptop mods/framework_mobo_lefthalf/framework_mobo_lefthalf.kicad_pcb",
+  "source_commit": "4f01eaa6b3b0a269570c711e58ba4bf0f8446d11"
+}

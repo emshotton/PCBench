@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/horvathgergo",
+  "source": "https://github.com/horvathgergo/esp8266-for-uppatvind",
+  "author": "horvathgergo",
+  "retrieved at": "2026-09-06 13:59:38.206485",
+  "raw": "../../PCBs/esp8266-for-uppatvind_Air-Purifier-Uppatvind/raw.kicad_pcb",
+  "cleaned": "../../PCBs/esp8266-for-uppatvind_Air-Purifier-Uppatvind/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "c52bed4af51d0bdd5eb4b477d7ba275183aeabd3",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "Hardware/Air-Purifier-Uppatvind.kicad_pcb",
+  "source_commit": "c52bed4af51d0bdd5eb4b477d7ba275183aeabd3"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/uCAN-LIN",
+  "source": "https://github.com/uCAN-LIN/LinUSBConverter",
+  "author": "uCAN-LIN",
+  "retrieved at": "2026-09-06 13:59:11.738178",
+  "raw": "../../PCBs/LinUSBConverter_LIN_USB_CONVERTER/raw.kicad_pcb",
+  "cleaned": "../../PCBs/LinUSBConverter_LIN_USB_CONVERTER/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "fc81c9a5903792989f2d5c7dfe86269156b0208f",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "pcb/LIN_USB_CONVERTER.kicad_pcb",
+  "source_commit": "fc81c9a5903792989f2d5c7dfe86269156b0208f"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/MangoIV",
+  "source": "https://github.com/MangoIV/le_chiff_ble",
+  "author": "MangoIV",
+  "retrieved at": "2026-09-06 14:00:37.777284",
+  "raw": "../../PCBs/le_chiff_ble_le_chiff_ble_hotswap/raw.kicad_pcb",
+  "cleaned": "../../PCBs/le_chiff_ble_le_chiff_ble_hotswap/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/le_chiff_ble_le_chiff_ble_hotswap/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ccb3746353adb5eeb89163c58424c75aca6e1990",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "kicad/le_chiff_ble_hotswap/le_chiff_ble_hotswap.kicad_pcb",
+  "source_commit": "ccb3746353adb5eeb89163c58424c75aca6e1990"
+}

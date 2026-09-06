@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/FutureSharks",
+  "source": "https://github.com/FutureSharks/preamp-two",
+  "author": "FutureSharks",
+  "retrieved at": "2026-09-06 14:01:04.414847",
+  "raw": "../../PCBs/preamp-two_mcu-board/raw.kicad_pcb",
+  "cleaned": "../../PCBs/preamp-two_mcu-board/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "6001f142f6b35608b6ad879fad4a7894daf67b02",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "PCBs/mcu-board/mcu-board.kicad_pcb",
+  "source_commit": "6001f142f6b35608b6ad879fad4a7894daf67b02"
+}

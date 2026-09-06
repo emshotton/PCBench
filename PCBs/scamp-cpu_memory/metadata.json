@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/jes",
+  "source": "https://github.com/jes/scamp-cpu",
+  "author": "jes",
+  "retrieved at": "2026-09-06 13:53:05.698387",
+  "raw": "../../PCBs/scamp-cpu_memory/raw.kicad_pcb",
+  "cleaned": "../../PCBs/scamp-cpu_memory/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "Unlicense",
+    "name": "The Unlicense",
+    "path": "UNLICENSE",
+    "source_commit": "11710ad5fe76fee11a6d3748f511093d5cf4f551",
+    "detected_by": "github",
+    "detected_ids": [
+      "Unlicense"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "kicad/memory/memory.kicad_pcb",
+  "source_commit": "11710ad5fe76fee11a6d3748f511093d5cf4f551"
+}

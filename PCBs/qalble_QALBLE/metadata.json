@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/somepin",
+  "source": "https://github.com/somepin/qalble",
+  "author": "somepin",
+  "retrieved at": "2026-09-06 14:00:41.761560",
+  "raw": "../../PCBs/qalble_QALBLE/raw.kicad_pcb",
+  "cleaned": "../../PCBs/qalble_QALBLE/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/qalble_QALBLE/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "26fe358f6630e5bc6a6f10869bf87301c3086e77",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/QALBLE.kicad_pcb",
+  "source_commit": "26fe358f6630e5bc6a6f10869bf87301c3086e77"
+}

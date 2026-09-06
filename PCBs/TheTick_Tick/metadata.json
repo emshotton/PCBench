@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/jkramarz",
+  "source": "https://github.com/jkramarz/TheTick",
+  "author": "jkramarz",
+  "retrieved at": "2026-09-06 13:58:20.083189",
+  "raw": "../../PCBs/TheTick_Tick/raw.kicad_pcb",
+  "cleaned": "../../PCBs/TheTick_Tick/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/TheTick_Tick/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "74d8d6b81eab4fd260727502a72f293ef94791cf",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "hardware/Tick.kicad_pcb",
+  "source_commit": "74d8d6b81eab4fd260727502a72f293ef94791cf"
+}
