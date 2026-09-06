@@ -8,11 +8,16 @@
   "json": "../../PCBs/mod1base_mod1base/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "cc0-1.0",
-    "name": "Creative Commons Zero v1.0 Universal",
     "spdx_id": "CC0-1.0",
-    "url": "https://api.github.com/licenses/cc0-1.0",
-    "node_id": "MDc6TGljZW5zZTY="
+    "name": "Creative Commons Zero v1.0 Universal",
+    "path": "LICENSE",
+    "source_commit": "41c57be227aeb48295baba83dc9ea7ff4081527c",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC0-1.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

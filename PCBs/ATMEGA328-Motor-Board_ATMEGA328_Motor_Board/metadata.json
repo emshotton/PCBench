@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ATMEGA328-Motor-Board_ATMEGA328_Motor_Board/processed.kicad_pcb",
   "json": "../../PCBs/ATMEGA328-Motor-Board_ATMEGA328_Motor_Board/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e3fd7a3f941e26b6683a3822f49c5acf6b89626f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

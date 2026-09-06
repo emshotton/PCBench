@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Photodiode_dethead/processed.kicad_pcb",
   "json": "../../PCBs/Photodiode_dethead/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "185c952dbc24b805c399b4d957e7311b4a91df5c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

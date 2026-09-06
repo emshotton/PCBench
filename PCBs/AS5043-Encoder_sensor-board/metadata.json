@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/AS5043-Encoder_sensor-board/processed.kicad_pcb",
   "json": "../../PCBs/AS5043-Encoder_sensor-board/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "76be5838cf5c96794de20fc128881acd7126d6e0",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

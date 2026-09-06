@@ -8,11 +8,16 @@
   "json": "../../PCBs/PiBook_pibook/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "BSD-3-Clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "LICENSE.txt",
+    "source_commit": "133801d341f7969d9f9b3032eee6ff1306f3aaa5",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20171130"

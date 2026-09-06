@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/bpnode-bb_BPnode-BB/processed.kicad_pcb",
   "json": "../../PCBs/bpnode-bb_BPnode-BB/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "20918a86bad4a48484d6b345a7403e7223ea9ad1",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,12 +7,18 @@
   "cleaned": "kitspace_pmt_combiner/processed.kicad_pcb",
   "json": "kitspace_pmt_combiner/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "GNU",
-      "link": "https://raw.githubusercontent.com/Sussex-Neuroscience/pmt-combiner/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "078103713195ee648db47d742e5053a6be068a75",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

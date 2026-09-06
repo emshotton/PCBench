@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/HillhacksLantern_LEDLantern/processed.kicad_pcb",
   "json": "../../PCBs/HillhacksLantern_LEDLantern/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e393cc5f86a8ebb826d680e1c6e93578c768d7b8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

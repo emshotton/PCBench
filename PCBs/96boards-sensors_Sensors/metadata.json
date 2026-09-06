@@ -8,11 +8,16 @@
   "json": "../../PCBs/96boards-sensors_Sensors/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "bsd-2-clause",
-    "name": "BSD 2-Clause \"Simplified\" License",
     "spdx_id": "BSD-2-Clause",
-    "url": "https://api.github.com/licenses/bsd-2-clause",
-    "node_id": "MDc6TGljZW5zZTQ="
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "path": "LICENSE",
+    "source_commit": "73021ebd3f4c55f3c6352203df1d511f63c52b79",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-2-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

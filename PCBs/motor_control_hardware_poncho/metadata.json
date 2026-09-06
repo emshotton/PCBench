@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/motor_control_hardware_poncho/processed.kicad_pcb",
   "json": "../../PCBs/motor_control_hardware_poncho/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d445d4fab423d8568b4a7caf0f61857c518a8d5a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

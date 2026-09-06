@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/esp_toggl_togglbutton/processed.kicad_pcb",
   "json": "../../PCBs/esp_toggl_togglbutton/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "51d98844a722d53522092db741b16235fae6f47e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

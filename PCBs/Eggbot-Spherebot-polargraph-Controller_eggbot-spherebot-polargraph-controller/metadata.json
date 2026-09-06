@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Eggbot-Spherebot-polargraph-Controller_eggbot-spherebot-polargraph-controller/processed.kicad_pcb",
   "json": "../../PCBs/Eggbot-Spherebot-polargraph-Controller_eggbot-spherebot-polargraph-controller/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f92edd59091b61e8e9339b69a8f30364c9ae8048",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

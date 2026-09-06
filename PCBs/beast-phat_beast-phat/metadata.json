@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/beast-phat_beast-phat/processed.kicad_pcb",
   "json": "../../PCBs/beast-phat_beast-phat/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b0fcd3074c243f29632f60b64b3e9aa2ecaa7b6e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20170123"
 }

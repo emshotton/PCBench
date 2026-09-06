@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MAGFest-2017-Swadges_magfest_badges/processed.kicad_pcb",
   "json": "../../PCBs/MAGFest-2017-Swadges_magfest_badges/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "7b332bfd59fb244bcedb52b29b03ac5681faf9ff",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

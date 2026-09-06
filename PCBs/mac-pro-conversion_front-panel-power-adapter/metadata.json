@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/mac-pro-conversion_front-panel-power-adapter/processed.kicad_pcb",
   "json": "../../PCBs/mac-pro-conversion_front-panel-power-adapter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "11181d8fbb54404acf6eaa8124ff33a86ea3e846",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

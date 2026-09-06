@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/esp32stack_esp32stack/processed.kicad_pcb",
   "json": "../../PCBs/esp32stack_esp32stack/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a29c037a609503f1c381e05b932e96790165f8da",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

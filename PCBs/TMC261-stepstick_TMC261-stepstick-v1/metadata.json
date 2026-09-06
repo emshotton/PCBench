@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/TMC261-stepstick_TMC261-stepstick-v1/processed.kicad_pcb",
   "json": "../../PCBs/TMC261-stepstick_TMC261-stepstick-v1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "53136e4f4139feb29eb8933d4a03f40990f3b276",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,12 +7,18 @@
   "cleaned": "kitspace_ulx3s/processed.kicad_pcb",
   "json": "kitspace_ulx3s/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Creative Commons",
-      "link": "https://raw.githubusercontent.com/emard/ulx3s/master/footprints/esp8266/LICENSE.md"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE.md",
+    "source_commit": "1f7799a2d8a9172d60692e58f934d6f7f278239d",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

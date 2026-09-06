@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Hornbill-ESP32-DEV_Hornbill Devboard/processed.kicad_pcb",
   "json": "../../PCBs/Hornbill-ESP32-DEV_Hornbill Devboard/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "fb9f036e24d3611f02481cd2318bbeb4af87d514",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/youtubeplaybutton_playbutton/processed.kicad_pcb",
   "json": "../../PCBs/youtubeplaybutton_playbutton/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e7973695266cd80af6e00907e4d67a0bcd35cbdf",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

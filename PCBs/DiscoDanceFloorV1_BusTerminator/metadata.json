@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/DiscoDanceFloorV1_BusTerminator/processed.kicad_pcb",
   "json": "../../PCBs/DiscoDanceFloorV1_BusTerminator/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bef4ba7630ccc4a93d2323a75b39aac9a05339ce",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,12 +7,18 @@
   "cleaned": "../../PCBs/retroreflectors_SALSAFLOCK/processed.kicad_pcb",
   "json": "../../PCBs/retroreflectors_SALSAFLOCK/metadata.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "GNU General Public License v2.0",
-      "link": "https://api.github.com/licenses/gpl-2.0"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "fff29ec9b9d1d08f055fe9e68616719ee35e9ee6",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

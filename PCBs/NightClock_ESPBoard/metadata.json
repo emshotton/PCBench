@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/NightClock_ESPBoard/processed.kicad_pcb",
   "json": "../../PCBs/NightClock_ESPBoard/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d4ac6ed9da33c4dd6d8713490433a3aa14fb8f8b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

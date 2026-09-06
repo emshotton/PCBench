@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/vhf-radio_exp-1/processed.kicad_pcb",
   "json": "../../PCBs/vhf-radio_exp-1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8267ae0eaadcf98a2b97b8044acf47ee2666cf07",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

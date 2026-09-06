@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/temp_logger_esp8266_temp_logger/processed.kicad_pcb",
   "json": "../../PCBs/temp_logger_esp8266_temp_logger/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "fddf773167f942c374ab3cfe3832ed76ccc7db2d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

@@ -8,11 +8,16 @@
   "json": "../../PCBs/pico-pi-rel_pico-pi/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE.md",
+    "source_commit": "b496c7f1f4270365c2ff378ec4b037cd21f69567",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 4"

@@ -8,11 +8,16 @@
   "json": "../../PCBs/mppt-2420-hc_mppt-2420-hc/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CERN-OHL-W-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENCE",
+    "source_commit": "b1c11fee826d40b0465eae3dd58a15a336be2d7c",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 20171130"

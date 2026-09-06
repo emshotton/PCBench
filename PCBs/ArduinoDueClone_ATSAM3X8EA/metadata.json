@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ArduinoDueClone_ATSAM3X8EA/processed.kicad_pcb",
   "json": "../../PCBs/ArduinoDueClone_ATSAM3X8EA/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "acfb5eee37c5acc2dd6663bda37a2e11fe3f537c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

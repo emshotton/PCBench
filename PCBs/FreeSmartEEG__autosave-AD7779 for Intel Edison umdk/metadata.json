@@ -8,11 +8,16 @@
   "json": "../../PCBs/FreeSmartEEG__autosave-AD7779 for Intel Edison umdk/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
     "spdx_id": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "node_id": "MDc6TGljZW5zZTk="
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "6576f39cadfb4310126717c736a46d42afd34244",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20171130"

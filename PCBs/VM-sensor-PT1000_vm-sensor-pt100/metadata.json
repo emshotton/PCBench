@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/VM-sensor-PT1000_vm-sensor-pt100/processed.kicad_pcb",
   "json": "../../PCBs/VM-sensor-PT1000_vm-sensor-pt100/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "3aea1952bfcdae1bde4f1f7bb35aabb790377526",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

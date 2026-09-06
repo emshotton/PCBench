@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/mojo-nes_mojo-nes/processed.kicad_pcb",
   "json": "../../PCBs/mojo-nes_mojo-nes/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "80152dc8f8f809a74434446d2fc7c1138a2d8188",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

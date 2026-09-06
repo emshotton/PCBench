@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/BrushlessESC_esc/processed.kicad_pcb",
   "json": "../../PCBs/BrushlessESC_esc/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "188867cbe8a5e3d814af8fecd71f8c381c0cb58d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

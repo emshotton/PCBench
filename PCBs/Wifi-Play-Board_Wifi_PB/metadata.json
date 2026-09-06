@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Wifi-Play-Board_Wifi_PB/processed.kicad_pcb",
   "json": "../../PCBs/Wifi-Play-Board_Wifi_PB/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "9e89138ac373133f1b1e1327414bd1c16646a5ea",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20170123"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/NodeMcu-v3-LiPoly-LiIon-Backpack_NodeMcuLiPolyBackpack/processed.kicad_pcb",
   "json": "../../PCBs/NodeMcu-v3-LiPoly-LiIon-Backpack_NodeMcuLiPolyBackpack/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "98bc7e572ab84956932afab1e4b02cbee21ca69b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

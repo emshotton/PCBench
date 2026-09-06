@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/sensorboard_DiffIR.kicad_pcb_narrow/processed.kicad_pcb",
   "json": "../../PCBs/sensorboard_DiffIR.kicad_pcb_narrow/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "35e2d7987ac8c4ac06e8b6594c8f3d5c1733f931",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

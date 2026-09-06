@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/keyboard_converter_adapter_ibm4704_converter_adapter_ibm4704/processed.kicad_pcb",
   "json": "../../PCBs/keyboard_converter_adapter_ibm4704_converter_adapter_ibm4704/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "62a35c0f33340bbcd5be5139dbcd553c074b1205",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

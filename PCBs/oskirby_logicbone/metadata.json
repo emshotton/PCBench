@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/oskirby_logicbone/processed.kicad_pcb",
   "json": "../../PCBs/oskirby_logicbone/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": "CERN-OHL-1.2",
+    "name": "CERN Open Hardware Licence v1.2",
+    "path": "LICENSE.txt",
+    "source_commit": "96e7bede72569be4db95d78e45a689c939225802",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-1.2"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 8,
   "CAD version": "KiCad 20171130"
 }

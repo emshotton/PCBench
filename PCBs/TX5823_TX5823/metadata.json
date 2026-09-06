@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/TX5823_TX5823/processed.kicad_pcb",
   "json": "../../PCBs/TX5823_TX5823/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "900f261f026e1ee1a4abc0a7235ccb8f14b605f8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

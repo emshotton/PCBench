@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Raspberry-Pi-Soft-Power-Controller_Zero Current Soft Power/processed.kicad_pcb",
   "json": "../../PCBs/Raspberry-Pi-Soft-Power-Controller_Zero Current Soft Power/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6b78dc65652b66d66b59b7bad1240091e54ff9c3",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/PGA2311_pga2311/processed.kicad_pcb",
   "json": "../../PCBs/PGA2311_pga2311/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "83c47eea149dd638421c3ac4b70e246d9a4b3384",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/HW-AC-Emeter_ac-power-monitor/processed.kicad_pcb",
   "json": "../../PCBs/HW-AC-Emeter_ac-power-monitor/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "576a999fc1f32f6758b4a80ca687bfd14ec54ea2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

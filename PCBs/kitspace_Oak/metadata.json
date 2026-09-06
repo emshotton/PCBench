@@ -9,12 +9,16 @@
   "supplementary files": [
     "kitspace_Oak/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f4386d388ddb0cb51b0223c501e53a4cd4de6bc8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20211014"
 }

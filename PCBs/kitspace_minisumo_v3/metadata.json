@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_minisumo_v3/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "Apache",
-      "link": "https://raw.githubusercontent.com/rosmo-robot/micro-bot/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "56210665dc58686f7b3b189647d762352aba8f49",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20211014"
 }

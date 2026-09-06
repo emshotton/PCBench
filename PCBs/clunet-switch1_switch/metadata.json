@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/clunet-switch1_switch/processed.kicad_pcb",
   "json": "../../PCBs/clunet-switch1_switch/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "90599545547ad6527493567421cfa0ac3a95da27",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

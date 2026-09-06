@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/MagSpoofPI_MagSpoofinThePi/processed.kicad_pcb",
   "json": "../../PCBs/MagSpoofPI_MagSpoofinThePi/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "CERN-OHL-1.2",
+    "name": "CERN Open Hardware Licence v1.2",
+    "path": "Schematic/LICENSE_HARDWARE",
+    "source_commit": "62fd0a9ef813f4d4e915524ac81b3b7f9cac1e9c",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-1.2"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

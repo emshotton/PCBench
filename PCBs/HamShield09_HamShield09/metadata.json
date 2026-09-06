@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/HamShield09_HamShield09/processed.kicad_pcb",
   "json": "../../PCBs/HamShield09_HamShield09/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8a68ab27c7dbb34aaabf8fc8d9151dcb476a194a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

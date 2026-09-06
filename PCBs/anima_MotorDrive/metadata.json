@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/anima_MotorDrive/processed.kicad_pcb",
   "json": "../../PCBs/anima_MotorDrive/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "2beb43ad8a669af7c9d503b6038c58bc1e48944b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

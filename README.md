@@ -80,3 +80,25 @@ for _ in range(iters):
         env.reset()
 ```
 You can find more examples of customizing functions of reward and state observation from [RLEnv/examples.ipynb](https://github.com/PCBench/PCBench/blob/main/RLEnv/examples.ipynb).
+
+## Licensing
+
+The code in this repository (scripts, the RL environment, notebooks) is released under the
+MIT license in [`LICENSE`](LICENSE). **The boards under `PCBs/` are not.** Each board keeps
+the license its authors chose, and each board folder records it:
+
+- `metadata.json` → `licenses` holds the SPDX id, the license file's path in the source
+  repository, the source commit the board was taken from, and a `status`:
+  `licensed`, `licensed-unclassified` (a license file exists but could not be reduced to one
+  SPDX id; read it), `unlicensed` (the source publishes no license), or `source-missing`
+  (the source repository has since been deleted).
+- `LICENSE` is the license text copied verbatim from the source repository.
+- `NOTICE.md` carries the attribution (author, source, commit, retrieval date) and the
+  modification statement required by CERN-OHL, the GPL family and the Creative Commons
+  licenses: `processed.kicad_pcb` and `final.json` are derived from `raw.kicad_pcb` and stay
+  under the source license.
+
+Boards marked `unlicensed` are held for research and evaluation only. Their authors retain
+all rights, and they must not be redistributed; [`LICENSES.md`](LICENSES.md) lists them
+along with counts per license. `Scripts/Licensing/resolve_licenses.py` regenerates all of
+the above from the source repositories.

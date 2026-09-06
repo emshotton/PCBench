@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/HW-ESP8266_Roomba_ESP8266_Roomba_panel_x_3/processed.kicad_pcb",
   "json": "../../PCBs/HW-ESP8266_Roomba_ESP8266_Roomba_panel_x_3/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "88947bd9eb130988c8a33b186353c0fccd0ee413",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

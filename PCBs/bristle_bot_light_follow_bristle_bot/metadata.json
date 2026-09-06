@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/bristle_bot_light_follow_bristle_bot/processed.kicad_pcb",
   "json": "../../PCBs/bristle_bot_light_follow_bristle_bot/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "269e7d0898765373c491dc4e121de9e51b7ace01",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

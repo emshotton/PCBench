@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/SAMPad_SAMPad/processed.kicad_pcb",
   "json": "../../PCBs/SAMPad_SAMPad/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "CERN-OHL-1.2",
+    "name": "CERN Open Hardware Licence v1.2",
+    "path": "PCB/LICENSE",
+    "source_commit": "7abb9d1b25d0cdf6a313904ca391be4438a21741",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-1.2"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

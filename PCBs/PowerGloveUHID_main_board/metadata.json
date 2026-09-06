@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/PowerGloveUHID_main_board/processed.kicad_pcb",
   "json": "../../PCBs/PowerGloveUHID_main_board/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "7a2d26c3b3bb967fea74af9de0cede939c2a949a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

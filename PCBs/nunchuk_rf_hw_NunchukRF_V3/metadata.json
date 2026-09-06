@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/nunchuk_rf_hw_NunchukRF_V3/processed.kicad_pcb",
   "json": "../../PCBs/nunchuk_rf_hw_NunchukRF_V3/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b4f696de3e193c61faf78d61e11fc63984b5456f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -8,11 +8,16 @@
   "json": "../../PCBs/ADC-PCM4202_ADC-PCM4202/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "TAPR-OHL-1.0",
+    "name": "TAPR Open Hardware License v1.0",
+    "path": "LICENSE.TXT",
+    "source_commit": "1da0ffab5333614c6c76d620e0c50d918e528aa0",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "TAPR-OHL-1.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

@@ -7,12 +7,18 @@
   "cleaned": "kitspace_f-91w/processed.kicad_pcb",
   "json": "kitspace_f-91w/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "GNU",
-      "link": "https://raw.githubusercontent.com/carrotIndustries/pluto/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "3f25b12a9d1c7eb931cf74858881f92337a70776",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Mini-Ultra-8-MHz_RS-MINI-ULTRA-8M/processed.kicad_pcb",
   "json": "../../PCBs/Mini-Ultra-8-MHz_RS-MINI-ULTRA-8M/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "0fb81f43ab0ddb40faa156fbd1a03cde270459ac",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20170123"
 }

@@ -8,11 +8,16 @@
   "json": "../../PCBs/poncho_fpga_fpga-dongle/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
     "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
+    "name": "Apache License 2.0",
+    "path": "LICENCE",
+    "source_commit": "50551fa98dc254277e1ed231a0bd736c5bc429e0",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

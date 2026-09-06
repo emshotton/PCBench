@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/RPi-ATtiny85-Programmer_rpi_attiny85_programmer/processed.kicad_pcb",
   "json": "../../PCBs/RPi-ATtiny85-Programmer_rpi_attiny85_programmer/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "dd711b424ddc02bd40031d6953e5d388c5790427",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

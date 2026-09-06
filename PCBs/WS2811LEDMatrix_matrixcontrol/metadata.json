@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/WS2811LEDMatrix_matrixcontrol/processed.kicad_pcb",
   "json": "../../PCBs/WS2811LEDMatrix_matrixcontrol/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "281e1a570d04b3b7d3256f6b8de828eea485128e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

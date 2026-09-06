@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/Practicas-Curso-Kicad_ejercicio2/processed.kicad_pcb",
   "json": "../../PCBs/Practicas-Curso-Kicad_ejercicio2/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "Materiales/ej2.3dshapes/license.txt",
+    "source_commit": "f616e2ab176bdd89ff0820fd87073d77f14be805",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Solar_Project_Solar/processed.kicad_pcb",
   "json": "../../PCBs/Solar_Project_Solar/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "4211fcb130f27df2f312135fff4eee05868f1c8b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

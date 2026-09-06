@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/SNAP-Badge_SNAP_badge/processed.kicad_pcb",
   "json": "../../PCBs/SNAP-Badge_SNAP_badge/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "3ed9a41a2c69ebf092734316ccbd00d73780580e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Class_D_Amp_class_D_ampl/processed.kicad_pcb",
   "json": "../../PCBs/Class_D_Amp_class_D_ampl/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b9afcab1f20e81c7401aed129cf4043f56025d7b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

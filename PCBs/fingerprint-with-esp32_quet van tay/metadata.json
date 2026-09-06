@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/fingerprint-with-esp32_quet van tay/processed.kicad_pcb",
   "json": "../../PCBs/fingerprint-with-esp32_quet van tay/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "66b1d69b4c9c76e8c2bc149efde821034f7c0d6e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

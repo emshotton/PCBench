@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Ttl_wlan_radar/processed.kicad_pcb",
   "json": "../../PCBs/Ttl_wlan_radar/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "fa7866f4de23114dff9760242b7308e9841d3243",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/m2-electronics_m2pa-instrument/processed.kicad_pcb",
   "json": "../../PCBs/m2-electronics_m2pa-instrument/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "ef173d2c7e5fd6553c315520165bddc4eb3d6bf2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

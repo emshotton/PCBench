@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/avr-fuser-32_adapter/processed.kicad_pcb",
   "json": "../../PCBs/avr-fuser-32_adapter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "firmware/bootloader/USBaspLoader.2010-07-27-atmega32-16MHz/License.txt",
+    "source_commit": "5c1c4dfcc09b2608433df32525ef2f5c3a85b813",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

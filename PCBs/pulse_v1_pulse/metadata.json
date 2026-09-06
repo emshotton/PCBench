@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/pulse_v1_pulse/processed.kicad_pcb",
   "json": "../../PCBs/pulse_v1_pulse/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "0a140ab843a1a1a4447d498fcd4ae120f3168f09",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

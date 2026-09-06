@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/tinyDriverP_tinybot/processed.kicad_pcb",
   "json": "../../PCBs/tinyDriverP_tinybot/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e100547c0ec0b673a0d9f268b0391e3c1c71e154",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

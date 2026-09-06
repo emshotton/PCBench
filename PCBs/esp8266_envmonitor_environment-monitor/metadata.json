@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/esp8266_envmonitor_environment-monitor/processed.kicad_pcb",
   "json": "../../PCBs/esp8266_envmonitor_environment-monitor/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "SHL-0.51",
+    "name": "Solderpad Hardware License v0.51",
+    "path": "pcb/license.txt",
+    "source_commit": "1422fa755acf7b6fafb3ab7a69d741d04007851f",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "SHL-0.51"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

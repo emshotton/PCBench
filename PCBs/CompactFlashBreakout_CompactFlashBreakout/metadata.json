@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/CompactFlashBreakout_CompactFlashBreakout/processed.kicad_pcb",
   "json": "../../PCBs/CompactFlashBreakout_CompactFlashBreakout/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6919cc8b9a04e5b3288f0736f8f151b787276aa7",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

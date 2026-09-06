@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Shift-in-32-HC165_shift-in/processed.kicad_pcb",
   "json": "../../PCBs/Shift-in-32-HC165_shift-in/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "66d0702da97ae0db489e53399d21b7fee695a26c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

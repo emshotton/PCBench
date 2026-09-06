@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/board_armjtag_pmod_compatible_armjtag-pmod/processed.kicad_pcb",
   "json": "../../PCBs/board_armjtag_pmod_compatible_armjtag-pmod/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "28af7e18998d4c87ad56e848be755f65dbff8e91",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

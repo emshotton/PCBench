@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/esp12-appliance_mod_esp12-appliance-mod/processed.kicad_pcb",
   "json": "../../PCBs/esp12-appliance_mod_esp12-appliance-mod/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "9035ffc6b00e217e79e690c91303cfa741c5d2ba",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

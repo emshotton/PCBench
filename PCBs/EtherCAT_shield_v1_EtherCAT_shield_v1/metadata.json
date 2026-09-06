@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/EtherCAT_shield_v1_EtherCAT_shield_v1/processed.kicad_pcb",
   "json": "../../PCBs/EtherCAT_shield_v1_EtherCAT_shield_v1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "767767895ebb1897512018dbc98b99c5a30b0d51",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

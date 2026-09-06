@@ -8,11 +8,16 @@
   "json": "../../PCBs/HaveSome_PCB_HaveSomePCB/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CC-BY-NC-SA-3.0",
+    "name": "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported",
+    "path": "LICENSE",
+    "source_commit": "08f33264a8c1984d352bcc96be3eb0b458edf8df",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-NC-SA-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

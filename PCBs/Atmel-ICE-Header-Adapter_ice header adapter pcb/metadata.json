@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Atmel-ICE-Header-Adapter_ice header adapter pcb/processed.kicad_pcb",
   "json": "../../PCBs/Atmel-ICE-Header-Adapter_ice header adapter pcb/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "c98c4dad20cc33ba77cddb4cedf33acdc5dabbf3",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

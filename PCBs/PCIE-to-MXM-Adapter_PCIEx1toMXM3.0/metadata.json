@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/PCIE-to-MXM-Adapter_PCIEx1toMXM3.0/processed.kicad_pcb",
   "json": "../../PCBs/PCIE-to-MXM-Adapter_PCIEx1toMXM3.0/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "2e4625b691496087fc7f03da109ed415673666e2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

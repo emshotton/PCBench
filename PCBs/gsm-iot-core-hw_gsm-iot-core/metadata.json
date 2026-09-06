@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/gsm-iot-core-hw_gsm-iot-core/processed.kicad_pcb",
   "json": "../../PCBs/gsm-iot-core-hw_gsm-iot-core/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "5b23a60e924a0f43cc3befa9991e68e84c830aed",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

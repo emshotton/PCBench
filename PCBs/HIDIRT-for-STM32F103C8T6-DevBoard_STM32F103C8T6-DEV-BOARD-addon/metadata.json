@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/HIDIRT-for-STM32F103C8T6-DevBoard_STM32F103C8T6-DEV-BOARD-addon/processed.kicad_pcb",
   "json": "../../PCBs/HIDIRT-for-STM32F103C8T6-DevBoard_STM32F103C8T6-DEV-BOARD-addon/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "27f4cc37e7400f20fdd4587ba919c1e28585d2a8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

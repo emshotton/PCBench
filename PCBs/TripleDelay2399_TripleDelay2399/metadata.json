@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/TripleDelay2399_TripleDelay2399/processed.kicad_pcb",
   "json": "../../PCBs/TripleDelay2399_TripleDelay2399/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b8a1ca3da76faae174ae7c5db802f7322368b52a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

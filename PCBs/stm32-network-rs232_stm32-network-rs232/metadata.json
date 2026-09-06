@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/stm32-network-rs232_stm32-network-rs232/processed.kicad_pcb",
   "json": "../../PCBs/stm32-network-rs232_stm32-network-rs232/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "78cc72eab29a03041b1538c07aec7a69ff509314",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

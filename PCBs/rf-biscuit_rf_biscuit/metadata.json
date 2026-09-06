@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/rf-biscuit_rf_biscuit/processed.kicad_pcb",
   "json": "../../PCBs/rf-biscuit_rf_biscuit/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "115748be3553a246b244d3feda5cb4188d3eba27",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

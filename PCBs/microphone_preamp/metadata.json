@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/microphone_preamp/processed.kicad_pcb",
   "json": "../../PCBs/microphone_preamp/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b4c109a8b436dd4b277bc59b51d6dbebc075c9cd",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MySRaspiGW_MySRaspiGW/processed.kicad_pcb",
   "json": "../../PCBs/MySRaspiGW_MySRaspiGW/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "af37023e95ae1635b4f15f88e49cf57db307a20f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

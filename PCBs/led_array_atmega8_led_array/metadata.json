@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/led_array_atmega8_led_array/processed.kicad_pcb",
   "json": "../../PCBs/led_array_atmega8_led_array/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6396a8632d5bae138700013230d4021abe1cb2ce",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Vento_Vento/processed.kicad_pcb",
   "json": "../../PCBs/Vento_Vento/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "5cedd9e6debb29a8ee0c0720d3c44243a9fd37cc",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20160815"
 }

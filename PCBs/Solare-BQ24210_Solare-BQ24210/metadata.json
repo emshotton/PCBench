@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Solare-BQ24210_Solare-BQ24210/processed.kicad_pcb",
   "json": "../../PCBs/Solare-BQ24210_Solare-BQ24210/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "c3401537e0b620d5e79ee7733eb77fb91c2ea7ef",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20160815"
 }

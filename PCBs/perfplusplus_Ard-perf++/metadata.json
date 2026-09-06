@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/perfplusplus_Ard-perf++/processed.kicad_pcb",
   "json": "../../PCBs/perfplusplus_Ard-perf++/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8994bbdb4442e705bdf96c1c0403b913c81c00a3",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/T962A-UpgradeBoard_T962A-UpgradeBoard/processed.kicad_pcb",
   "json": "../../PCBs/T962A-UpgradeBoard_T962A-UpgradeBoard/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f57db942e064defe04209ef316384cc0aea58ae8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

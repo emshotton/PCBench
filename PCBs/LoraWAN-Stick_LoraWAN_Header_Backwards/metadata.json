@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LoraWAN-Stick_LoraWAN_Header_Backwards/processed.kicad_pcb",
   "json": "../../PCBs/LoraWAN-Stick_LoraWAN_Header_Backwards/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a02e6411bac9e330158d1a9cfebbc45369b761e2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/eBUS-Adapter_Groeger/processed.kicad_pcb",
   "json": "../../PCBs/eBUS-Adapter_Groeger/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "ab7da7cfa9d332391cc7fa58ce7ebac3263f2276",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

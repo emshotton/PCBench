@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/SunLeaf_SunLeaf_V2/processed.kicad_pcb",
   "json": "../../PCBs/SunLeaf_SunLeaf_V2/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "2f4c761a3bbcdcb92f725a08932dd9254ebeafb5",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20160815"
 }

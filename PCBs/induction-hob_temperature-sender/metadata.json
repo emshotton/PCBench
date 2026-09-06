@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/induction-hob_temperature-sender/processed.kicad_pcb",
   "json": "../../PCBs/induction-hob_temperature-sender/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e1042df089db4c0b715a2f203091984d68982a65",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

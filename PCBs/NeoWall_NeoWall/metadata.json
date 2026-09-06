@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/NeoWall_NeoWall/processed.kicad_pcb",
   "json": "../../PCBs/NeoWall_NeoWall/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f56fa9d4d1661afd06d67405d3945452bae21b79",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

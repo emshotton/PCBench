@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/MAVRIC_Hardware_pcieduino/processed.kicad_pcb",
   "json": "../../PCBs/MAVRIC_Hardware_pcieduino/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "2017/KiCAD Libs/kicad-mini-pci-express-master/LICENSE",
+    "source_commit": "8f327c47b32c08ff31059d6cb726b5ce7a51e7f8",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

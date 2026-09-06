@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MeArm-Wireless-PCB_MeArmWireless/processed.kicad_pcb",
   "json": "../../PCBs/MeArm-Wireless-PCB_MeArmWireless/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "bb1761475f99fdae27e4cf368e15e66f401e357b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

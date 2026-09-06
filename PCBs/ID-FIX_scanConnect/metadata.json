@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ID-FIX_scanConnect/processed.kicad_pcb",
   "json": "../../PCBs/ID-FIX_scanConnect/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "29c59f1e3efd79ad161d89fdb2634be9bf7f2d40",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

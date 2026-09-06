@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/tinymuseum_museum/processed.kicad_pcb",
   "json": "../../PCBs/tinymuseum_museum/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "fd7a9a1d5feec4445ad128a8ed54829d06fc3926",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

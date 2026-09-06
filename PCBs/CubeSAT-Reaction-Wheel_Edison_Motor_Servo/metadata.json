@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/CubeSAT-Reaction-Wheel_Edison_Motor_Servo/processed.kicad_pcb",
   "json": "../../PCBs/CubeSAT-Reaction-Wheel_Edison_Motor_Servo/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "2a94c0c07f387603976cb1b864a8cb5739ecb947",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

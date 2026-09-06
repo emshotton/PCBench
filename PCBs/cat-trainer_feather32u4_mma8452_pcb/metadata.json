@@ -8,11 +8,16 @@
   "json": "../../PCBs/cat-trainer_feather32u4_mma8452_pcb/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "bsd-3-clause-clear",
-    "name": "BSD 3-Clause Clear License",
     "spdx_id": "BSD-3-Clause-Clear",
-    "url": "https://api.github.com/licenses/bsd-3-clause-clear",
-    "node_id": "MDc6TGljZW5zZTIx"
+    "name": "BSD 3-Clause Clear License",
+    "path": "LICENSE.txt",
+    "source_commit": "82e5a215c159f2c125d9c9f9763c36a455cca3dc",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-3-Clause-Clear"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

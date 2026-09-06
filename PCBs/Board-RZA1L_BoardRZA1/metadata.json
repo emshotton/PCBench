@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Board-RZA1L_BoardRZA1/processed.kicad_pcb",
   "json": "../../PCBs/Board-RZA1L_BoardRZA1/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "47312783816066e1e85ec89a6274e289fed2bec1",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

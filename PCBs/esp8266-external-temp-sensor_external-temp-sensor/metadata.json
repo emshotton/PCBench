@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/esp8266-external-temp-sensor_external-temp-sensor/processed.kicad_pcb",
   "json": "../../PCBs/esp8266-external-temp-sensor_external-temp-sensor/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "2362d181aefda5231df1652af95c36d97b1d3552",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

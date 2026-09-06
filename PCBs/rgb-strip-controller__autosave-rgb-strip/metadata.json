@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/rgb-strip-controller__autosave-rgb-strip/processed.kicad_pcb",
   "json": "../../PCBs/rgb-strip-controller__autosave-rgb-strip/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8073c04672ed3eece4f2d03666a16e8e149b01e0",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

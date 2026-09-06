@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LED-Square_PT4115_LED-Square_PT4115/processed.kicad_pcb",
   "json": "../../PCBs/LED-Square_PT4115_LED-Square_PT4115/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a710f23983f2c738c8a25417d7e3cbe20c56201a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

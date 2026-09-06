@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/BeaconBuddy_BeaconBuddy/processed.kicad_pcb",
   "json": "../../PCBs/BeaconBuddy_BeaconBuddy/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "ba3c98fe190b698175c78a631499378fba6b910b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

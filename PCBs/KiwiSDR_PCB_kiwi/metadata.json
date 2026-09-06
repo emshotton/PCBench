@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/KiwiSDR_PCB_kiwi/processed.kicad_pcb",
   "json": "../../PCBs/KiwiSDR_PCB_kiwi/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "21843a188212fe5bd1873a45243ca5f0ff09fbcd",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 6,
   "CAD version": "KiCad 3"
 }

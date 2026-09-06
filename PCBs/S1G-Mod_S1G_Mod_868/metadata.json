@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/S1G-Mod_S1G_Mod_868/processed.kicad_pcb",
   "json": "../../PCBs/S1G-Mod_S1G_Mod_868/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "ffecd2f6bccfa96ae4769701bc020753d06bba5c",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20160815"
 }

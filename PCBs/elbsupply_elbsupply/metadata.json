@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/elbsupply_elbsupply/processed.kicad_pcb",
   "json": "../../PCBs/elbsupply_elbsupply/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b2439cbab0956d50bbbb749df8904903b0730d36",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

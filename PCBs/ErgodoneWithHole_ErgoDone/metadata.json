@@ -8,11 +8,16 @@
   "json": "../../PCBs/ErgodoneWithHole_ErgoDone/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
     "spdx_id": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "node_id": "MDc6TGljZW5zZTk="
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "0e051e6cb3fa0388e0b581e7fb2a2185eaa7dea1",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20170123"

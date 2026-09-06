@@ -8,11 +8,16 @@
   "json": "../../PCBs/slushengine-modelx_slushengine_modelx/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "d5a0b00e3949bc81ce978a78a3e68c62cfe49b39",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

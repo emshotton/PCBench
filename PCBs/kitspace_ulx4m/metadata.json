@@ -7,16 +7,18 @@
   "cleaned": "kitspace_ulx4m/processed.kicad_pcb",
   "json": "kitspace_ulx4m/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Creative Commons",
-      "link": "https://raw.githubusercontent.com/intergalaktik/ulx4m/ulx4m-ls/LICENSES/CC-BY-SA-4.0.txt"
-    },
-    {
-      "name": "CERN",
-      "link": "https://raw.githubusercontent.com/intergalaktik/ulx4m/ulx4m-ls/LICENSES/CERN-OHL-S-2.0.txt"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE.md",
+    "source_commit": "19a0330381627a56c91791a4789b679613cd7774",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 6,
   "CAD version": "KiCad 20171130"
 }

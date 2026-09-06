@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/helmholtz-servo_CurrentServo/processed.kicad_pcb",
   "json": "../../PCBs/helmholtz-servo_CurrentServo/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "0f9b99c2eb6427df38925d6b1475442d47d27e24",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -8,11 +8,17 @@
   "json": "../../PCBs/boatcontrol_CommonCathode60A/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "SHL-2.1",
+    "name": "Solderpad Hardware License v2.1",
+    "path": "LICENSE",
+    "source_commit": "d24a7974ebe77965f7329475a15cf41f6399f770",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "SHL-2.1",
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 20171130"

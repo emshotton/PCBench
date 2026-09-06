@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/moonpunchorg_pcieduino/processed.kicad_pcb",
   "json": "../../PCBs/moonpunchorg_pcieduino/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "102826d03e2fb3318805b3c2b4f551d41e636929",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

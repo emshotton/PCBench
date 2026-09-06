@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LoLin_Designs_LoLin/processed.kicad_pcb",
   "json": "../../PCBs/LoLin_Designs_LoLin/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "abab76525bdcf2ff2177c4e4450d0f7e94bf356f",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

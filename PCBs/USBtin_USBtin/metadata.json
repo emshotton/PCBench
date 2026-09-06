@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/USBtin_USBtin/processed.kicad_pcb",
   "json": "../../PCBs/USBtin_USBtin/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "107304f2f2b0214323b45ad6f15a644c10b796b0",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

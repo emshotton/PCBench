@@ -8,11 +8,16 @@
   "json": "../../PCBs/BB-PWR-3608_BB-PWR-3608_revA/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
     "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "fbd5d7a62807edf2343c445dd1cd43e81bbbb84e",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

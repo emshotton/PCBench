@@ -8,11 +8,16 @@
   "json": "../../PCBs/mini_ice40_mini_ice40/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "lgpl-3.0",
-    "name": "GNU Lesser General Public License v3.0",
     "spdx_id": "LGPL-3.0",
-    "url": "https://api.github.com/licenses/lgpl-3.0",
-    "node_id": "MDc6TGljZW5zZTEy"
+    "name": "GNU Lesser General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "21920d8b941f07bf28713866522028fee9a3e969",
+    "detected_by": "github",
+    "detected_ids": [
+      "LGPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 4"

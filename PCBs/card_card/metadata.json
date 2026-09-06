@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/card_card/processed.kicad_pcb",
   "json": "../../PCBs/card_card/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "firmware/usbdrv/License.txt",
+    "source_commit": "1b2793ebcc37f72ef0f755994143358bcbfdaaad",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

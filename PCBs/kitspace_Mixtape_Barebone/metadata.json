@@ -7,12 +7,16 @@
   "cleaned": "kitspace_Mixtape_Barebone/processed.kicad_pcb",
   "json": "kitspace_Mixtape_Barebone/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "License not found",
-      "link": ""
-    }
-  ],
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8b1215882c0205fdfd6ec60154b4d83bdecc2236",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

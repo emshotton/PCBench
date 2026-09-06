@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ESPkit-01_espkit-01/processed.kicad_pcb",
   "json": "../../PCBs/ESPkit-01_espkit-01/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "cdc5cd871fbcf05e50e60b15116f0a97cb2a26e1",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

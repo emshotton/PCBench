@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/rotary-encoder-breakout_rotary-encoder-breakout/processed.kicad_pcb",
   "json": "../../PCBs/rotary-encoder-breakout_rotary-encoder-breakout/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d92ce83ffe03a9b3f72907898fb34c10bfca83b8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/psx2vectrex_vectrexmando/processed.kicad_pcb",
   "json": "../../PCBs/psx2vectrex_vectrexmando/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e44a0f2d7606ef924024f9a5e892c283a5b88286",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

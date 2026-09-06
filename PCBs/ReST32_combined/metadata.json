@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/ReST32_combined/processed.kicad_pcb",
   "json": "../../PCBs/ReST32_combined/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "3D-Models/license.txt",
+    "source_commit": "55669b643f8e79e9ee91a1325ea23220d322f8e1",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

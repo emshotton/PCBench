@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/wt-rpm_rasp_side/processed.kicad_pcb",
   "json": "../../PCBs/wt-rpm_rasp_side/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "c57fef25409e2e6e933827f1b3f7d69425f939e8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

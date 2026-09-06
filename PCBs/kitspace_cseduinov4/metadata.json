@@ -7,12 +7,18 @@
   "cleaned": "kitspace_cseduinov4/processed.kicad_pcb",
   "json": "kitspace_cseduinov4/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "GNU",
-      "link": "https://raw.githubusercontent.com/jpralves/cseduino/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "fdd4f17f623e047a3bd46c20e6cd8c0b9608c42f",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

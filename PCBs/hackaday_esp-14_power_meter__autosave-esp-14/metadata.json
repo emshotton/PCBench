@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/hackaday_esp-14_power_meter__autosave-esp-14/processed.kicad_pcb",
   "json": "../../PCBs/hackaday_esp-14_power_meter__autosave-esp-14/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "994c703d75f73c0022ac300dc25dafc047da5996",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

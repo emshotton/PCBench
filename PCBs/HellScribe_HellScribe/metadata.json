@@ -8,11 +8,16 @@
   "json": "../../PCBs/HellScribe_HellScribe/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "unlicense",
-    "name": "The Unlicense",
     "spdx_id": "Unlicense",
-    "url": "https://api.github.com/licenses/unlicense",
-    "node_id": "MDc6TGljZW5zZTE1"
+    "name": "The Unlicense",
+    "path": "LICENSE",
+    "source_commit": "c9f7c3c3433a882272c53421727428b486a25bdf",
+    "detected_by": "github",
+    "detected_ids": [
+      "Unlicense"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

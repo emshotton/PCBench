@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ISO-port_ch340-usb-serial-isolated/processed.kicad_pcb",
   "json": "../../PCBs/ISO-port_ch340-usb-serial-isolated/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e9b696b85e1a4240403add2c98ab6c6ed8ae8de9",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

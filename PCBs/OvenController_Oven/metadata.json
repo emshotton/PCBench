@@ -8,11 +8,16 @@
   "json": "../../PCBs/OvenController_Oven/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "mit",
-    "name": "MIT License",
     "spdx_id": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "node_id": "MDc6TGljZW5zZTEz"
+    "name": "MIT License",
+    "path": null,
+    "source_commit": null,
+    "detected_by": "legacy",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "source-missing",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

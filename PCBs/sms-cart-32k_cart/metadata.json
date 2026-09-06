@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/sms-cart-32k_cart/processed.kicad_pcb",
   "json": "../../PCBs/sms-cart-32k_cart/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6a91ecdff6ec6174c93d8bcef46ee5b2d0daf803",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

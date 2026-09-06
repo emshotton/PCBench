@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ABOVISP_ABOVISP/processed.kicad_pcb",
   "json": "../../PCBs/ABOVISP_ABOVISP/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8d5eac6ceae90c13fbc8d58356cb7fa3931eadd2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -8,11 +8,16 @@
   "json": "../../PCBs/ATtiny461Breakout_ATTiny461DevBoard/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "lgpl-3.0",
-    "name": "GNU Lesser General Public License v3.0",
     "spdx_id": "LGPL-3.0",
-    "url": "https://api.github.com/licenses/lgpl-3.0",
-    "node_id": "MDc6TGljZW5zZTEy"
+    "name": "GNU Lesser General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "b75483a2aeae581ecbfa783d7b150ac063478ad3",
+    "detected_by": "github",
+    "detected_ids": [
+      "LGPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

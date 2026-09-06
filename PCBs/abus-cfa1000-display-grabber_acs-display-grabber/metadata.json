@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/abus-cfa1000-display-grabber_acs-display-grabber/processed.kicad_pcb",
   "json": "../../PCBs/abus-cfa1000-display-grabber_acs-display-grabber/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "935fddc4a56cb9f4f8baf0d9694a90f8d214544b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

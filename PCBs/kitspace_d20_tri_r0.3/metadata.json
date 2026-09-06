@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_d20_tri_r0.3/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "BSD",
-      "link": "https://raw.githubusercontent.com/gregdavill/d20-hardware/main/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "BSD-2-Clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "path": "LICENSE",
+    "source_commit": "f11d5a92aa09db1370572ac9001f02feb15e1096",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-2-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

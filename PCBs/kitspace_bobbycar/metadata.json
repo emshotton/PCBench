@@ -9,12 +9,18 @@
   "supplementary files": [
     "kitspace_bobbycar/raw.kicad_pro"
   ],
-  "licenses": [
-    {
-      "name": "GNU",
-      "link": "https://raw.githubusercontent.com/Jana-Marie/hoverboard-breakout/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "413e4c963f38c12b7948b0283cdcdc56078716aa",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20211014"
 }

@@ -8,11 +8,17 @@
   "json": "../../PCBs/cap-soil-moisture-v2_soil-moisture2x4/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": null,
+    "name": null,
+    "path": "LICENSE.html",
+    "source_commit": "5ae688755bb69a5b897be0068d47f28d8cea780d",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-NC-SA-3.0",
+      "CC-BY-NC-SA-4.0"
+    ],
+    "status": "licensed-unclassified",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 20171130"

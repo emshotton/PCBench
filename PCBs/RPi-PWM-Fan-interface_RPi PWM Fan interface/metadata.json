@@ -8,11 +8,16 @@
   "json": "../../PCBs/RPi-PWM-Fan-interface_RPi PWM Fan interface/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
     "spdx_id": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "node_id": "MDc6TGljZW5zZTk="
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "da4cc4ac457d3dc2b682581e657c63d26ec482a4",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

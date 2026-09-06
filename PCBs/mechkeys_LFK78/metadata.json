@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/mechkeys_LFK78/processed.kicad_pcb",
   "json": "../../PCBs/mechkeys_LFK78/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "3a77e31112fc5cdda76d2f3d69f0cadc3761551a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Teensy-3.5-Breakout-Boaard_PropShield_Uno/processed.kicad_pcb",
   "json": "../../PCBs/Teensy-3.5-Breakout-Boaard_PropShield_Uno/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6f000075626e9029269af6774b7ab5c9c5f88748",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

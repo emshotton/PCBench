@@ -8,11 +8,17 @@
   "json": "../../PCBs/iotuz-esp32-hardware_IoTuz/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": null,
+    "name": null,
+    "path": "LICENSE",
+    "source_commit": "deeaad857fa22a96935c679633f2695029e5d013",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "TAPR-OHL-1.0",
+      "CC-BY-SA-3.0"
+    ],
+    "status": "licensed-unclassified",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

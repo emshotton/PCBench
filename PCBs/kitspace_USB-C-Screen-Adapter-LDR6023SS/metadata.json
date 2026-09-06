@@ -7,12 +7,18 @@
   "cleaned": "kitspace_USB-C-Screen-Adapter-LDR6023SS/processed.kicad_pcb",
   "json": "kitspace_USB-C-Screen-Adapter-LDR6023SS/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "GNU",
-      "link": "https://raw.githubusercontent.com/Jana-Marie/OtterScreenAdapter/master/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "54df46df179fa9d24d8d11d9b58393dc1223f01f",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

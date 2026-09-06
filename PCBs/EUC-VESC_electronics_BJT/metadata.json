@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/EUC-VESC_electronics_BJT/processed.kicad_pcb",
   "json": "../../PCBs/EUC-VESC_electronics_BJT/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "306895c2d19b752f1eeb24ef9b1f1d6fb2c967c9",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

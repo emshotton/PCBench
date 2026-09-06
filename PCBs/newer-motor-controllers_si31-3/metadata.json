@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/newer-motor-controllers_si31-3/processed.kicad_pcb",
   "json": "../../PCBs/newer-motor-controllers_si31-3/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "e75659abe0e10b4d6aa584e65334f79b7dca4101",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

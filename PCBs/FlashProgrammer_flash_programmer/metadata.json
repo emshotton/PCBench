@@ -8,11 +8,16 @@
   "json": "../../PCBs/FlashProgrammer_flash_programmer/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE.md",
+    "source_commit": "b82f9b62221d4a97389cab9777183f01cae59e5b",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

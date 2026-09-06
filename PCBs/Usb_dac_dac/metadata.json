@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Usb_dac_dac/processed.kicad_pcb",
   "json": "../../PCBs/Usb_dac_dac/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "8d7026615d965f6d890508933daf53fd6bb62cf8",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

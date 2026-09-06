@@ -7,12 +7,18 @@
   "cleaned": "kitspace_dropbot_control_board/processed.kicad_pcb",
   "json": "kitspace_dropbot_control_board/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Creative Commons",
-      "link": "https://raw.githubusercontent.com/sci-bots/dropbot-control-board.kicad/main/LICENSE.md"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "CC-BY-SA-3.0",
+    "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+    "path": "LICENSE.md",
+    "source_commit": "341d1f69fe9323a002c006869d64b08c10259395",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 20171130"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/AVR-ISP_pogo-plug_1.27mm_AVR-ISP_pogo-plug_1.27mm/processed.kicad_pcb",
   "json": "../../PCBs/AVR-ISP_pogo-plug_1.27mm_AVR-ISP_pogo-plug_1.27mm/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "cc3f14e8fc171c07dc9d2f9ac79879ab46bc0802",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

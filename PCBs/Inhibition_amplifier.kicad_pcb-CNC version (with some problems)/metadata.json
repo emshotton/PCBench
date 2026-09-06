@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Inhibition_amplifier.kicad_pcb-CNC version (with some problems)/processed.kicad_pcb",
   "json": "../../PCBs/Inhibition_amplifier.kicad_pcb-CNC version (with some problems)/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "6fb386f85f898213c4ff4410377cf4869e4924b7",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

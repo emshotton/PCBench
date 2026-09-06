@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/raspberry_pi_pullup_button_pullup_shutdown_button(revB)/processed.kicad_pcb",
   "json": "../../PCBs/raspberry_pi_pullup_button_pullup_shutdown_button(revB)/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f75b592bfe9ca063e0eaa431835100bce827a2f6",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

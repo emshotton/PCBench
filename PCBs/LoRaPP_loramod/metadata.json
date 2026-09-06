@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/LoRaPP_loramod/processed.kicad_pcb",
   "json": "../../PCBs/LoRaPP_loramod/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "9189f925b7b43cab1ae83ca16ce797d1ac571452",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

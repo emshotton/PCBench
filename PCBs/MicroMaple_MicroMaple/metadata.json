@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/MicroMaple_MicroMaple/processed.kicad_pcb",
   "json": "../../PCBs/MicroMaple_MicroMaple/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "7b9b82e9ac88347ce6b499a72274524a89e8bc04",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

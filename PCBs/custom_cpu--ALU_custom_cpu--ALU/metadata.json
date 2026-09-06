@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/custom_cpu--ALU_custom_cpu--ALU/processed.kicad_pcb",
   "json": "../../PCBs/custom_cpu--ALU_custom_cpu--ALU/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "4b693808adcbf83c09736bc268af7da53a0e9ed7",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

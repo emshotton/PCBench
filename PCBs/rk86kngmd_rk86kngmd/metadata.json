@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/rk86kngmd_rk86kngmd/processed.kicad_pcb",
   "json": "../../PCBs/rk86kngmd_rk86kngmd/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "191b7047031124e384141fa44d037591540ef443",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

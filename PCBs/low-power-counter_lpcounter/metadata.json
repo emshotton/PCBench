@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/low-power-counter_lpcounter/processed.kicad_pcb",
   "json": "../../PCBs/low-power-counter_lpcounter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "f1a5b147d5503e18e46f52b7291a9d20175b8456",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

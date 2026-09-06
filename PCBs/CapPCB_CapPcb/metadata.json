@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/CapPCB_CapPcb/processed.kicad_pcb",
   "json": "../../PCBs/CapPCB_CapPcb/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "284ae162a01e1c6be58e8d47e6d104d2a9b785fe",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -8,11 +8,16 @@
   "json": "../../PCBs/EncoderBoard_Enc_Pan_Led/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": "NOASSERTION",
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "spdx_id": "CC-BY-SA-3.0",
+    "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+    "path": "license.txt",
+    "source_commit": "36fe3ad4e319fb50b79765cdf1742748ce0cbdb4",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 2,
   "CAD version": "KiCad 4"

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/SmartLaserMiniShield_SmartLaserMiniShield/processed.kicad_pcb",
   "json": "../../PCBs/SmartLaserMiniShield_SmartLaserMiniShield/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "58d9f36a3f1b1644b97f07282f5d46de437dff1a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

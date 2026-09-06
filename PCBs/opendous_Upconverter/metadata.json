@@ -7,12 +7,18 @@
   "cleaned": "../../PCBs/opendous_Upconverter/processed.kicad_pcb",
   "json": "../../PCBs/opendous_Upconverter/metadata.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "The Unlicense",
-      "link": "https://api.github.com/licenses/unlicense"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "Unlicense",
+    "name": "The Unlicense",
+    "path": "LICENSE",
+    "source_commit": "8609545c381a26ea10cfb451772550f4f709f0cd",
+    "detected_by": "github",
+    "detected_ids": [
+      "Unlicense"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

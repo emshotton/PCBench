@@ -7,7 +7,18 @@
   "cleaned": "../../PCBs/LMS6002-Pmod_LMS6002-Pmod/processed.kicad_pcb",
   "json": "../../PCBs/LMS6002-Pmod_LMS6002-Pmod/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": "CC-BY-SA-3.0",
+    "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+    "path": "board/KiCad/LICENSE.md",
+    "source_commit": "1fff636faa65b2130f204814aafbc58640e00a49",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

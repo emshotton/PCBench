@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/constant-current-h-bridge_constant_current_source/processed.kicad_pcb",
   "json": "../../PCBs/constant-current-h-bridge_constant_current_source/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "b5452fa6ffe5e48816680a1aaf579f52924fed4a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,12 +7,18 @@
   "cleaned": "kitspace_PSLab/processed.kicad_pcb",
   "json": "kitspace_PSLab/final.json",
   "supplementary files": "",
-  "licenses": [
-    {
-      "name": "Apache",
-      "link": "https://raw.githubusercontent.com/fossasia/pslab-hardware/pslab-v6/LICENSE"
-    }
-  ],
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "71e26bbc76c80476f6fe8636c2fc18ce28c21e3c",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/android_debug_cable_android_debug_cable/processed.kicad_pcb",
   "json": "../../PCBs/android_debug_cable_android_debug_cable/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "81bc3ac33c6f2f458799ebd78dbe502799cd8d7d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20170123"
 }

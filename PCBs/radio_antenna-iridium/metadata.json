@@ -8,11 +8,16 @@
   "json": "../../PCBs/radio_antenna-iridium/metadata.kicad_pcb",
   "supplementary files": "",
   "licenses": {
-    "key": "gpl-2.0",
-    "name": "GNU General Public License v2.0",
     "spdx_id": "GPL-2.0",
-    "url": "https://api.github.com/licenses/gpl-2.0",
-    "node_id": "MDc6TGljZW5zZTg="
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "3c4e4989b05e3e59717979aff96a7605b1faf25e",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
   },
   "layers": 4,
   "CAD version": "KiCad 4"

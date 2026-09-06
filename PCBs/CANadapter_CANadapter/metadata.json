@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/CANadapter_CANadapter/processed.kicad_pcb",
   "json": "../../PCBs/CANadapter_CANadapter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "64114b3467980d03ebfa487695114deff9282eec",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/ESP8266-MQTT-battery-monitor-hw_battery-monitor/processed.kicad_pcb",
   "json": "../../PCBs/ESP8266-MQTT-battery-monitor-hw_battery-monitor/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "a7529dd449d0702351ef1ed22b831dd5341ee0b2",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

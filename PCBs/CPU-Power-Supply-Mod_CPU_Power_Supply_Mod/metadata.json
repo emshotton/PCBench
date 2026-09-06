@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/CPU-Power-Supply-Mod_CPU_Power_Supply_Mod/processed.kicad_pcb",
   "json": "../../PCBs/CPU-Power-Supply-Mod_CPU_Power_Supply_Mod/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "cb9873c92951801dc016d9ba5bfa434cbe30021d",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

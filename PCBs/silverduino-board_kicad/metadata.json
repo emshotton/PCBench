@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/silverduino-board_kicad/processed.kicad_pcb",
   "json": "../../PCBs/silverduino-board_kicad/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "af873b0696e74a202c7268638024692f4083463e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

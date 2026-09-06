@@ -1,0 +1,19 @@
+# vatx_vatx
+
+- Source: https://github.com/jerome-labidurie/vatx
+- Source commit: a16562bba8719e27f38c7e4bdfdcdb7f86cb39a4
+- Author: jerome-labidurie
+- Retrieved: 2023-08-17 17:22:41.245924
+- License: none
+
+No license was found in the source repository. The author retains all rights to
+these files. They are held in this dataset for research and evaluation only and are
+**not redistributable**; do not copy them elsewhere or publish results that include
+the board files themselves.
+
+## Modifications
+
+`raw.kicad_pcb` is the board as retrieved from the source. `processed.kicad_pcb` and
+`final.json` are modified versions of it produced on 2023-08-17 by the PCBench cleaning
+scripts under `Scripts/Data_cleaning` and `Scripts/Data_extraction`. The modified files
+carry the same restriction as the source: all rights reserved.

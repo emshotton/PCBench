@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/DaWeather---Project__autosave-CarteDaWeather/processed.kicad_pcb",
   "json": "../../PCBs/DaWeather---Project__autosave-CarteDaWeather/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "fa73f94fe95a307854e9a8b868941c6274988efa",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

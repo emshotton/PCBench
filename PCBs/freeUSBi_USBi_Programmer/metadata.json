@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/freeUSBi_USBi_Programmer/processed.kicad_pcb",
   "json": "../../PCBs/freeUSBi_USBi_Programmer/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d52caa006b27e178dc57b8a401b2b7eb605304f3",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

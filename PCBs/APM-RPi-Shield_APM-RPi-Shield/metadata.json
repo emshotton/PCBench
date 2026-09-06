@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/APM-RPi-Shield_APM-RPi-Shield/processed.kicad_pcb",
   "json": "../../PCBs/APM-RPi-Shield_APM-RPi-Shield/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "dedf8be11c035c3a4a5540cbe2760637c0dafe83",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

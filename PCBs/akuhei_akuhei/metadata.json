@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/akuhei_akuhei/processed.kicad_pcb",
   "json": "../../PCBs/akuhei_akuhei/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "53173c3538492d4f2c420ae3b25c2f346f01bc71",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

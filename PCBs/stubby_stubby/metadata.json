@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/stubby_stubby/processed.kicad_pcb",
   "json": "../../PCBs/stubby_stubby/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "cf035f87f5e0db456b389bfb873c8a4382a24857",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 3"
 }

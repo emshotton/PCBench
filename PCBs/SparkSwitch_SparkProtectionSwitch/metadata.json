@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/SparkSwitch_SparkProtectionSwitch/processed.kicad_pcb",
   "json": "../../PCBs/SparkSwitch_SparkProtectionSwitch/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "efb05f748af79b1ce92e26a42351fcee74e95ded",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

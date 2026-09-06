@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/SimpleCPLD_SimpleCPLD/processed.kicad_pcb",
   "json": "../../PCBs/SimpleCPLD_SimpleCPLD/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "630005da7858c0390163f9370355e6e6ab54bd7e",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 4,
   "CAD version": "KiCad 4"
 }

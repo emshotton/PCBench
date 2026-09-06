@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Starburst-One_alpha/processed.kicad_pcb",
   "json": "../../PCBs/Starburst-One_alpha/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "72990d0c838fe9afd22b5ea8c023c8ae8e3ffb8a",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

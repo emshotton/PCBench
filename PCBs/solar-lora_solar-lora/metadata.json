@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/solar-lora_solar-lora/processed.kicad_pcb",
   "json": "../../PCBs/solar-lora_solar-lora/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "d0c750b92326482aa5380d1d50973030e107eb56",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

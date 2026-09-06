@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/Thremal-Printer_thermal printer/processed.kicad_pcb",
   "json": "../../PCBs/Thremal-Printer_thermal printer/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "df42d1603683697e84aa359eb97caafbeeb1ae7b",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

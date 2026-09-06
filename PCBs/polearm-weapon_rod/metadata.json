@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/polearm-weapon_rod/processed.kicad_pcb",
   "json": "../../PCBs/polearm-weapon_rod/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "2025e99ec017c250a461e3eac11849c3b14d7fef",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

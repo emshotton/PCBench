@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/AVR-ISP_level-shifter_AVR-ISP_level-shifter/processed.kicad_pcb",
   "json": "../../PCBs/AVR-ISP_level-shifter_AVR-ISP_level-shifter/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "101e84818f388f614a0b5ef749ab849129825723",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }

@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/wiggleport_wiggle-spine/processed.kicad_pcb",
   "json": "../../PCBs/wiggleport_wiggle-spine/metadata.json",
   "supplementary files": "",
-  "licenses": "",
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": null,
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "source-missing",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 20171130"
 }

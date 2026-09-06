@@ -7,7 +7,16 @@
   "cleaned": "../../PCBs/red-scout_red-scout-aa/processed.kicad_pcb",
   "json": "../../PCBs/red-scout_red-scout-aa/metadata.kicad_pcb",
   "supplementary files": "",
-  "licenses": null,
+  "licenses": {
+    "spdx_id": null,
+    "name": null,
+    "path": null,
+    "source_commit": "c01fae644b931eac09fda4ed3d46341eb920edab",
+    "detected_by": null,
+    "detected_ids": [],
+    "status": "unlicensed",
+    "file": null
+  },
   "layers": 2,
   "CAD version": "KiCad 4"
 }
