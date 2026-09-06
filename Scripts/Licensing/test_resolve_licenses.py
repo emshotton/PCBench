@@ -58,6 +58,23 @@ def test_classify_reports_every_distinct_license_in_a_combined_file():
     assert rl.classify(text) == ["MIT", "CERN-OHL-P-2.0"]
 
 
+def test_combined_notice_picks_the_open_hardware_license_over_firmware_and_docs_licenses():
+    text = (
+        "Since this project consists of hardware, software, documentation, and designs,\n"
+        "1. The firmware is available under the MIT license.\n"
+        "2. The functional hardware designs are available under the CERN-OHL-P v2 license.\n"
+        "3. The documentation is available under the CC BY-SA 4.0 license.\n"
+    )
+    res = rl.Resolution.from_text(text, "LICENSE.md", "sha", "text-match")
+    assert res.spdx_id == "CERN-OHL-P-2.0" and res.status == rl.STATUS_LICENSED
+    assert res.detected_ids == ["MIT", "CERN-OHL-P-2.0", "CC-BY-SA-4.0"]
+
+
+def test_combined_notice_with_two_open_hardware_licenses_stays_unclassified():
+    text = "hardware: CERN-OHL-S v2 for the main board, CERN-OHL-P v2 for the breakouts"
+    assert rl.Resolution.from_text(text, "LICENSE", "sha", "text-match").status == rl.STATUS_UNCLASSIFIED
+
+
 def test_gpl_text_that_merely_mentions_the_lesser_licence_is_still_gpl():
     text = "GNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n... use the GNU Lesser General Public License instead of this License."
     assert rl.classify(text) == ["GPL-3.0"]

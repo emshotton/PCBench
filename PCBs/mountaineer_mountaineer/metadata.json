@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/k0swe",
+  "source": "https://github.com/k0swe/mountaineer",
+  "author": "k0swe",
+  "retrieved at": "2026-09-06 12:39:06.120518",
+  "raw": "../../PCBs/mountaineer_mountaineer/raw.kicad_pcb",
+  "cleaned": "../../PCBs/mountaineer_mountaineer/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/mountaineer_mountaineer/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "0555552a2d3ea741fc4acc02a837dffa03b8e9bb",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "mountaineer.kicad_pcb",
+  "source_commit": "0555552a2d3ea741fc4acc02a837dffa03b8e9bb"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/OpenLightingProject",
+  "source": "https://github.com/OpenLightingProject/rp2040-dmxsun",
+  "author": "OpenLightingProject",
+  "retrieved at": "2026-09-06 12:38:46.863183",
+  "raw": "../../PCBs/rp2040-dmxsun_ioboard_2ports_rdm_isolated/raw.kicad_pcb",
+  "cleaned": "../../PCBs/rp2040-dmxsun_ioboard_2ports_rdm_isolated/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/rp2040-dmxsun_ioboard_2ports_rdm_isolated/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "hardware/ioboard_2ports_rdm_isolated/ioboard_2ports_rdm_isolated.kicad_pcb",
+  "source_commit": "f3b1749c982da85770dc9a11eada035404edc25d"
+}

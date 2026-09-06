@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Miceuz",
+  "source": "https://github.com/Miceuz/i2c-moisture-sensor",
+  "author": "Miceuz",
+  "retrieved at": "2026-09-06 12:38:50.846691",
+  "raw": "../../PCBs/i2c-moisture-sensor_i2c-moist-sensor/raw.kicad_pcb",
+  "cleaned": "../../PCBs/i2c-moisture-sensor_i2c-moist-sensor/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/i2c-moisture-sensor_i2c-moist-sensor/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "c687328d2fdbe45b1b6c9d6b92627460e9f3167d",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20200724",
+  "kicad_version": "5",
+  "source_path": "i2c-moist-sensor.kicad_pcb",
+  "source_commit": "c687328d2fdbe45b1b6c9d6b92627460e9f3167d"
+}

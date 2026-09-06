@@ -5,21 +5,22 @@ carries its own `LICENSE` and `NOTICE.md`; this file only summarises them.
 
 | Status | Boards |
 |---|---|
-| Licensed | 601 |
+| Licensed | 657 |
 | Licensed (unclassified) | 16 |
 | Source missing | 46 |
 | Unlicensed | 519 |
 
 | SPDX | Boards |
 |---|---|
-| MIT | 174 |
+| MIT | 175 |
 | GPL-3.0 | 148 |
+| Apache-2.0 | 64 |
 | CERN-OHL-1.2 | 58 |
-| Apache-2.0 | 43 |
 | CC-BY-SA-4.0 | 32 |
 | GPL-2.0 | 30 |
+| CC-BY-4.0 | 27 |
+| CERN-OHL-P-2.0 | 22 |
 | CC-BY-SA-3.0 | 15 |
-| CC-BY-4.0 | 14 |
 | BSD-2-Clause | 11 |
 | TAPR-OHL-1.0 | 9 |
 | BSD-3-Clause | 8 |
@@ -41,7 +42,6 @@ carries its own `LICENSE` and `NOTICE.md`; this file only summarises them.
 | CC-BY-NC-4.0 | 1 |
 | CC-BY-NC-SA-3.0 | 1 |
 | CERN-OHL-1.1 | 1 |
-| CERN-OHL-P-2.0 | 1 |
 
 ## Unlicensed boards
 

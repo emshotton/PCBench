@@ -246,11 +246,17 @@ class Resolution:
 
 
 def _hardware_choice(ids: list[str], text: str) -> str | None:
-    """In a combined notice that names one hardware license among software ones, the hardware
-    license is the one covering the board files."""
-    hardware = [i for i in ids if i.startswith(HARDWARE_FAMILIES)]
-    if len(hardware) == 1 and re.search(r"\bhardware\b", text, re.IGNORECASE):
-        return hardware[0]
+    """In a combined notice that names several licenses, the board files are covered by the
+    open-hardware license if exactly one is named, and otherwise by a lone Creative Commons
+    license, provided the notice talks about hardware at all."""
+    if not re.search(r"\bhardware\b", text, re.IGNORECASE):
+        return None
+    open_hardware = [i for i in ids if i.startswith(("CERN-OHL", "TAPR-OHL", "SHL"))]
+    if len(open_hardware) == 1:
+        return open_hardware[0]
+    creative_commons = [i for i in ids if i.startswith("CC-")]
+    if not open_hardware and len(creative_commons) == 1:
+        return creative_commons[0]
     return None
 
 
@@ -519,7 +525,11 @@ def main(argv=None) -> int:
     print(json.dumps(dict(statuses), indent=2))
     if args.dry_run:
         return 0
-    (args.root / "github_meta" / "license_resolution.json").write_text(json.dumps(resolutions, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    resolution_file = args.root / "github_meta" / "license_resolution.json"
+    if args.repo or args.limit:
+        recorded = json.loads(resolution_file.read_text(encoding="utf-8")) if resolution_file.exists() else {}
+        resolutions = {**recorded, **resolutions}
+    resolution_file.write_text(json.dumps(resolutions, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     rebuild_master(pcbs)
     (args.root / "LICENSES.md").write_text(summary_text(load_boards(pcbs)), encoding="utf-8")
     return 0

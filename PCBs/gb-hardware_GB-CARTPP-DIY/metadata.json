@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Gekkio",
+  "source": "https://github.com/Gekkio/gb-hardware",
+  "author": "Gekkio",
+  "retrieved at": "2026-09-06 12:39:04.021124",
+  "raw": "../../PCBs/gb-hardware_GB-CARTPP-DIY/raw.kicad_pcb",
+  "cleaned": "../../PCBs/gb-hardware_GB-CARTPP-DIY/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/gb-hardware_GB-CARTPP-DIY/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "GB-CARTPP-DIY/GB-CARTPP-DIY.kicad_pcb",
+  "source_commit": "b5ade559bd988fd6c4f5941615d4d6d79dec9098"
+}

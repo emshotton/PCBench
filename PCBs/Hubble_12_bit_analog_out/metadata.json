@@ -1,0 +1,29 @@
+{
+  "org": "https://github.com/wntrblm",
+  "source": "https://github.com/wntrblm/Hubble",
+  "author": "wntrblm",
+  "retrieved at": "2026-09-06 12:38:40.884371",
+  "raw": "../../PCBs/Hubble_12_bit_analog_out/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Hubble_12_bit_analog_out/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "MIT",
+      "CERN-OHL-P-2.0",
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "hardware/breakouts/12_bit_analog_out/12_bit_analog_out.kicad_pcb",
+  "source_commit": "ca05a51e91eda40766f9106236731e7dd67fb8e8"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Hanqaqa",
+  "source": "https://github.com/Hanqaqa/Easyduino",
+  "author": "Hanqaqa",
+  "retrieved at": "2026-09-06 12:38:31.613160",
+  "raw": "../../PCBs/Easyduino_Easyduino_ESP32S3/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Easyduino_Easyduino_ESP32S3/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Easyduino_Easyduino_ESP32S3/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "License.txt",
+    "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "ESP32S3/Easyduino_ESP32S3.kicad_pcb",
+  "source_commit": "53b14b66d64f25c55f88971c1c1b51656126bd30"
+}

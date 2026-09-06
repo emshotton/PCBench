@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Miceuz",
+  "source": "https://github.com/Miceuz/rs485-moist-sensor",
+  "author": "Miceuz",
+  "retrieved at": "2026-09-06 12:38:52.332276",
+  "raw": "../../PCBs/rs485-moist-sensor_rs485-moist-sensor/raw.kicad_pcb",
+  "cleaned": "../../PCBs/rs485-moist-sensor_rs485-moist-sensor/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20190905",
+  "kicad_version": "5",
+  "source_path": "rs485-moist-sensor.kicad_pcb",
+  "source_commit": "8cba0cd29e35b25de832e92b6521192ec9c6ec69"
+}
