@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/LNH-team",
+  "source": "https://github.com/LNH-team/Lost-NDS-TV",
+  "author": "LNH-team",
+  "retrieved at": "2026-09-06 13:56:48.052454",
+  "raw": "../../PCBs/Lost-NDS-TV_NDS_TV_OUT_V1I2/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Lost-NDS-TV_NDS_TV_OUT_V1I2/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Lost-NDS-TV_NDS_TV_OUT_V1I2/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "66d63c649346b6a393fa9e81254ea87aa392693d",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "pcb/kicad/NDS_TV_OUT_V1I2.kicad_pcb",
+  "source_commit": "66d63c649346b6a393fa9e81254ea87aa392693d"
+}

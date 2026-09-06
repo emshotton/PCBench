@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Schluggi",
+  "source": "https://github.com/Schluggi/AIOsense",
+  "author": "Schluggi",
+  "retrieved at": "2026-09-06 13:54:45.670523",
+  "raw": "../../PCBs/AIOsense_AIOsense/raw.kicad_pcb",
+  "cleaned": "../../PCBs/AIOsense_AIOsense/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/AIOsense_AIOsense/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE.txt",
+    "source_commit": "86409aeb2286a8cf45cedc35edd2ba84d7e83ac7",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "kicad/AIOsense/AIOsense.kicad_pcb",
+  "source_commit": "86409aeb2286a8cf45cedc35edd2ba84d7e83ac7"
+}

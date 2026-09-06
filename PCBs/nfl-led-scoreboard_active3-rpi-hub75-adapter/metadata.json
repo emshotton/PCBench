@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/mikemountain",
+  "source": "https://github.com/mikemountain/nfl-led-scoreboard",
+  "author": "mikemountain",
+  "retrieved at": "2026-09-06 13:58:52.554180",
+  "raw": "../../PCBs/nfl-led-scoreboard_active3-rpi-hub75-adapter/raw.kicad_pcb",
+  "cleaned": "../../PCBs/nfl-led-scoreboard_active3-rpi-hub75-adapter/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "0aa9f2519187c5fe831b804265b7decc1b5e5782",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "matrix/adapter/active-3/active3-rpi-hub75-adapter.kicad_pcb",
+  "source_commit": "0aa9f2519187c5fe831b804265b7decc1b5e5782"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/codetiger",
+  "source": "https://github.com/codetiger/GameTiger",
+  "author": "codetiger",
+  "retrieved at": "2026-09-06 13:55:33.994202",
+  "raw": "../../PCBs/GameTiger_GameTiger/raw.kicad_pcb",
+  "cleaned": "../../PCBs/GameTiger_GameTiger/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/GameTiger_GameTiger/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "a91717307f2dc7cfff2d0075bddcbd80a0b22a29",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "PCB/GameTiger/GameTiger.kicad_pcb",
+  "source_commit": "a91717307f2dc7cfff2d0075bddcbd80a0b22a29"
+}

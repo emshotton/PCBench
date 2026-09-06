@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/FPGAwars",
+  "source": "https://github.com/FPGAwars/icezum",
+  "author": "FPGAwars",
+  "retrieved at": "2026-09-06 13:57:07.893953",
+  "raw": "../../PCBs/icezum_icezum/raw.kicad_pcb",
+  "cleaned": "../../PCBs/icezum_icezum/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "dbad423670419b82018bf6e33c418fc35558c1be",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20170922",
+  "kicad_version": "5",
+  "source_path": "src-kicad/icezum.kicad_pcb",
+  "source_commit": "dbad423670419b82018bf6e33c418fc35558c1be"
+}

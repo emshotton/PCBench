@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/sebastienroy",
+  "source": "https://github.com/sebastienroy/shutter_speed_tester",
+  "author": "sebastienroy",
+  "retrieved at": "2026-09-06 14:00:56.029616",
+  "raw": "../../PCBs/shutter_speed_tester_shutter_speed_tester/raw.kicad_pcb",
+  "cleaned": "../../PCBs/shutter_speed_tester_shutter_speed_tester/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ad143684c8c91a640fd3bbec05ae9ec45f74c4d8",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "design/Kicad_shutter_speed_tester/shutter_speed_tester.kicad_pcb",
+  "source_commit": "ad143684c8c91a640fd3bbec05ae9ec45f74c4d8"
+}

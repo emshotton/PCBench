@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/mzuelch",
+  "source": "https://github.com/mzuelch/CATs-Eurosynth",
+  "author": "mzuelch",
+  "retrieved at": "2026-09-06 14:01:26.751827",
+  "raw": "../../PCBs/CATs-Eurosynth_Dual_VCA_2_Control/raw.kicad_pcb",
+  "cleaned": "../../PCBs/CATs-Eurosynth_Dual_VCA_2_Control/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "ee70506817f1fb5fa16a87c3e2a54a6ded8ee441",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "Modules/MFOS/Dual VCA #2/Electronics/Control/Dual VCA #2 Control.kicad_pcb",
+  "source_commit": "ee70506817f1fb5fa16a87c3e2a54a6ded8ee441"
+}

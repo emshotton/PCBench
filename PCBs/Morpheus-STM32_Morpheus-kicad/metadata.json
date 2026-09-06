@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/pscrespo",
+  "source": "https://github.com/pscrespo/Morpheus-STM32",
+  "author": "pscrespo",
+  "retrieved at": "2026-09-06 13:59:15.412522",
+  "raw": "../../PCBs/Morpheus-STM32_Morpheus-kicad/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Morpheus-STM32_Morpheus-kicad/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "d99f5e15f1eaced48bce63b4084d70f21dd5c2fd",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "Morpheus-kicad.kicad_pcb",
+  "source_commit": "d99f5e15f1eaced48bce63b4084d70f21dd5c2fd"
+}

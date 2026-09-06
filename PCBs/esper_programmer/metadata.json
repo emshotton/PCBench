@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/zachmorr",
+  "source": "https://github.com/zachmorr/esper",
+  "author": "zachmorr",
+  "retrieved at": "2026-09-06 13:54:40.072633",
+  "raw": "../../PCBs/esper_programmer/raw.kicad_pcb",
+  "cleaned": "../../PCBs/esper_programmer/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "5a75659c6963d1c51d92d1bbbd43b7827775aa06",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "hardware/programmer/programmer.kicad_pcb",
+  "source_commit": "5a75659c6963d1c51d92d1bbbd43b7827775aa06"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/UzixLS",
+  "source": "https://github.com/UzixLS/pc-kharon-386",
+  "author": "UzixLS",
+  "retrieved at": "2026-09-06 13:59:01.553188",
+  "raw": "../../PCBs/pc-kharon-386_kharon386_top/raw.kicad_pcb",
+  "cleaned": "../../PCBs/pc-kharon-386_kharon386_top/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/pc-kharon-386_kharon386_top/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "83f08c6beea183fbf4421722469d7efb46206c52",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb_top/rev.A/kharon386_top.kicad_pcb",
+  "source_commit": "83f08c6beea183fbf4421722469d7efb46206c52"
+}

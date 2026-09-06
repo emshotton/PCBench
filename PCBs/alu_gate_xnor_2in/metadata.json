@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/tmarhguy",
+  "source": "https://github.com/tmarhguy/alu",
+  "author": "tmarhguy",
+  "retrieved at": "2026-09-06 13:56:08.474734",
+  "raw": "../../PCBs/alu_gate_xnor_2in/raw.kicad_pcb",
+  "cleaned": "../../PCBs/alu_gate_xnor_2in/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/alu_gate_xnor_2in/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "5545c67f7027008068e7385954e8dc7d158062fc",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "schematics/kicad/modules/gates/gate_xnor/gate_xnor_2in/gate_xnor_2in.kicad_pcb",
+  "source_commit": "5545c67f7027008068e7385954e8dc7d158062fc"
+}

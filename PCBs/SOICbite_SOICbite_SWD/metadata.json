@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/SimonMerrett",
+  "source": "https://github.com/SimonMerrett/SOICbite",
+  "author": "SimonMerrett",
+  "retrieved at": "2026-09-06 13:52:58.877539",
+  "raw": "../../PCBs/SOICbite_SOICbite_SWD/raw.kicad_pcb",
+  "cleaned": "../../PCBs/SOICbite_SOICbite_SWD/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "BSD-2-Clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "path": "LICENSE",
+    "source_commit": "ef1ad26febff8ace92e256f7026b4203fd2161e5",
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-2-Clause"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "adaptors/SOICbite_SWD/SOICbite_SWD.kicad_pcb",
+  "source_commit": "ef1ad26febff8ace92e256f7026b4203fd2161e5"
+}

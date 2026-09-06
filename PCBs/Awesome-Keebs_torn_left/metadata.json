@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/EanNewton",
+  "source": "https://github.com/EanNewton/Awesome-Keebs",
+  "author": "EanNewton",
+  "retrieved at": "2026-09-06 13:54:35.150478",
+  "raw": "../../PCBs/Awesome-Keebs_torn_left/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Awesome-Keebs_torn_left/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9ee1d1a5d093338de18b5e5ca830db0264aa6bb5",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "pcb files/torn-master/torn_left/torn_left.kicad_pcb",
+  "source_commit": "9ee1d1a5d093338de18b5e5ca830db0264aa6bb5"
+}

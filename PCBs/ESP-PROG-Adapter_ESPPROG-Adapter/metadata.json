@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/0xjmux",
+  "source": "https://github.com/0xjmux/ESP-PROG-Adapter",
+  "author": "0xjmux",
+  "retrieved at": "2026-09-06 13:56:00.081107",
+  "raw": "../../PCBs/ESP-PROG-Adapter_ESPPROG-Adapter/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ESP-PROG-Adapter_ESPPROG-Adapter/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/ESP-PROG-Adapter_ESPPROG-Adapter/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "4a74ef898489da83ddcd2ad42852188cf0471b6c",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "PCB/ESPPROG-Adapter.kicad_pcb",
+  "source_commit": "4a74ef898489da83ddcd2ad42852188cf0471b6c"
+}

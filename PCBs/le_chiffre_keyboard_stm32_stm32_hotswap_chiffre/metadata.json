@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/sporkus",
+  "source": "https://github.com/sporkus/le_chiffre_keyboard_stm32",
+  "author": "sporkus",
+  "retrieved at": "2026-09-06 14:00:36.337635",
+  "raw": "../../PCBs/le_chiffre_keyboard_stm32_stm32_hotswap_chiffre/raw.kicad_pcb",
+  "cleaned": "../../PCBs/le_chiffre_keyboard_stm32_stm32_hotswap_chiffre/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/le_chiffre_keyboard_stm32_stm32_hotswap_chiffre/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-W-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "COPYING",
+    "source_commit": "57f64495c4b6dca1566b8ddbd464849c4023a56f",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "kicad/pcb/stm32_hotswap_chiffre.kicad_pcb",
+  "source_commit": "57f64495c4b6dca1566b8ddbd464849c4023a56f"
+}

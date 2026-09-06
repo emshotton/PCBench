@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Ladniy",
+  "source": "https://github.com/Ladniy/TK44",
+  "author": "Ladniy",
+  "retrieved at": "2026-09-06 13:56:10.837591",
+  "raw": "../../PCBs/TK44_TK44/raw.kicad_pcb",
+  "cleaned": "../../PCBs/TK44_TK44/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/TK44_TK44/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "b4f470cccce0f2e080851dd49cce4b4010973f2a",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/TK44/TK44.kicad_pcb",
+  "source_commit": "b4f470cccce0f2e080851dd49cce4b4010973f2a"
+}

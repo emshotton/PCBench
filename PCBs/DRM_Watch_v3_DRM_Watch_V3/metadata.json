@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/drfailov",
+  "source": "https://github.com/drfailov/DRM_Watch_v3",
+  "author": "drfailov",
+  "retrieved at": "2026-09-06 13:59:13.533787",
+  "raw": "../../PCBs/DRM_Watch_v3_DRM_Watch_V3/raw.kicad_pcb",
+  "cleaned": "../../PCBs/DRM_Watch_v3_DRM_Watch_V3/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/DRM_Watch_v3_DRM_Watch_V3/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "287ae45200c96f390c3330f1d79df75f8146109e",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "Board/KiCad Project/_DRM_Watch_v3/DRM_Watch_V3.kicad_pcb",
+  "source_commit": "287ae45200c96f390c3330f1d79df75f8146109e"
+}

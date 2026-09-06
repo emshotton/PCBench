@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/gcormier",
+  "source": "https://github.com/gcormier/megadesk",
+  "author": "gcormier",
+  "retrieved at": "2026-09-06 13:56:42.957855",
+  "raw": "../../PCBs/megadesk_megadesk/raw.kicad_pcb",
+  "cleaned": "../../PCBs/megadesk_megadesk/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/megadesk_megadesk/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "2d1bf8d30337841dc9f5c1ef0724701185f99c39",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "pcb/megadesk.kicad_pcb",
+  "source_commit": "2d1bf8d30337841dc9f5c1ef0724701185f99c39"
+}

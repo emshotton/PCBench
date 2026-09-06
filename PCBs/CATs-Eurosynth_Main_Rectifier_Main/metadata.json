@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/mzuelch",
+  "source": "https://github.com/mzuelch/CATs-Eurosynth",
+  "author": "mzuelch",
+  "retrieved at": "2026-09-06 14:01:34.577071",
+  "raw": "../../PCBs/CATs-Eurosynth_Main_Rectifier_Main/raw.kicad_pcb",
+  "cleaned": "../../PCBs/CATs-Eurosynth_Main_Rectifier_Main/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/CATs-Eurosynth_Main_Rectifier_Main/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "ee70506817f1fb5fa16a87c3e2a54a6ded8ee441",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "Modules/Slim Line/Rectifier SMD/Electronics/Main/Rectifier Main.kicad_pcb",
+  "source_commit": "ee70506817f1fb5fa16a87c3e2a54a6ded8ee441"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/pinguz97",
+  "source": "https://github.com/pinguz97/Zynq-SoM",
+  "author": "pinguz97",
+  "retrieved at": "2026-09-06 14:00:54.786513",
+  "raw": "../../PCBs/Zynq-SoM_Zynq_SoM/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Zynq-SoM_Zynq_SoM/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Zynq-SoM_Zynq_SoM/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "ad96951a225fbf9f263b555ef070a536b09ff710",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 8,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "Zynq_SoM.kicad_pcb",
+  "source_commit": "ad96951a225fbf9f263b555ef070a536b09ff710"
+}

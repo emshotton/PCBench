@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/moduloindustries",
+  "source": "https://github.com/moduloindustries/thinkeys",
+  "author": "moduloindustries",
+  "retrieved at": "2026-09-06 13:57:16.225646",
+  "raw": "../../PCBs/thinkeys_thinkeys/raw.kicad_pcb",
+  "cleaned": "../../PCBs/thinkeys_thinkeys/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "06bccbcb571c2efc3ba0dfe458cd0720a1e241b6",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "thinkeys.kicad_pcb",
+  "source_commit": "06bccbcb571c2efc3ba0dfe458cd0720a1e241b6"
+}

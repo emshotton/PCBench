@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Open-Authenticator",
+  "source": "https://github.com/Open-Authenticator/hardware-design",
+  "author": "Open-Authenticator",
+  "retrieved at": "2026-09-06 13:56:28.351393",
+  "raw": "../../PCBs/hardware-design_open_authenticator/raw.kicad_pcb",
+  "cleaned": "../../PCBs/hardware-design_open_authenticator/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "792f274383caa4e85a81012677b7e58904024db6",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "kicad_project/open_authenticator.kicad_pcb",
+  "source_commit": "792f274383caa4e85a81012677b7e58904024db6"
+}

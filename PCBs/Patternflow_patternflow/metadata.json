@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/engmung",
+  "source": "https://github.com/engmung/Patternflow",
+  "author": "engmung",
+  "retrieved at": "2026-09-06 13:57:14.975158",
+  "raw": "../../PCBs/Patternflow_patternflow/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Patternflow_patternflow/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Patternflow_patternflow/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE-CC-BY-SA",
+    "source_commit": "87700bdb5a60eedaa5b6c08b3a918094804551b2",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "hardware/pcb/kicad/patternflow.kicad_pcb",
+  "source_commit": "87700bdb5a60eedaa5b6c08b3a918094804551b2"
+}

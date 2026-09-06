@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/tebl",
+  "source": "https://github.com/tebl/RC6502-Apple-1-Replica",
+  "author": "tebl",
+  "retrieved at": "2026-09-06 13:58:14.359298",
+  "raw": "../../PCBs/RC6502-Apple-1-Replica_RC6502_Apple_1_SBC/raw.kicad_pcb",
+  "cleaned": "../../PCBs/RC6502-Apple-1-Replica_RC6502_Apple_1_SBC/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "a13002e0397823f2b020dad08ad8a417129f75d0",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "RC6502 Apple 1 SBC/RC6502 Apple 1 SBC.kicad_pcb",
+  "source_commit": "a13002e0397823f2b020dad08ad8a417129f75d0"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/dilshan",
+  "source": "https://github.com/dilshan/12v-automatic-ups",
+  "author": "dilshan",
+  "retrieved at": "2026-09-06 13:56:04.636978",
+  "raw": "../../PCBs/12v-automatic-ups_ups-12v/raw.kicad_pcb",
+  "cleaned": "../../PCBs/12v-automatic-ups_ups-12v/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "54fbb47b807d09cc0663b313c108919bbdafeb8c",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "design/ups-12v.kicad_pcb",
+  "source_commit": "54fbb47b807d09cc0663b313c108919bbdafeb8c"
+}

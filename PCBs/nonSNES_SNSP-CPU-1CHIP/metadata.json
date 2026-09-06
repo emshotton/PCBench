@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/stonedDiscord",
+  "source": "https://github.com/stonedDiscord/nonSNES",
+  "author": "stonedDiscord",
+  "retrieved at": "2026-09-06 13:59:37.130051",
+  "raw": "../../PCBs/nonSNES_SNSP-CPU-1CHIP/raw.kicad_pcb",
+  "cleaned": "../../PCBs/nonSNES_SNSP-CPU-1CHIP/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/nonSNES_SNSP-CPU-1CHIP/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "cf2e70b35b141b551b1683b0fac1c4b29f9ed0d6",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "SNSP-CPU-1CHIP/SNSP-CPU-1CHIP.kicad_pcb",
+  "source_commit": "cf2e70b35b141b551b1683b0fac1c4b29f9ed0d6"
+}

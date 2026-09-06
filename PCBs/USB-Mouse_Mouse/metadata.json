@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/RandomDelta6",
+  "source": "https://github.com/RandomDelta6/USB-Mouse",
+  "author": "RandomDelta6",
+  "retrieved at": "2026-09-06 14:01:16.923954",
+  "raw": "../../PCBs/USB-Mouse_Mouse/raw.kicad_pcb",
+  "cleaned": "../../PCBs/USB-Mouse_Mouse/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "403dc37bdf09aad633af2cb44b4aff8dad6c8bdb",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "Mouse.kicad_pcb",
+  "source_commit": "403dc37bdf09aad633af2cb44b4aff8dad6c8bdb"
+}

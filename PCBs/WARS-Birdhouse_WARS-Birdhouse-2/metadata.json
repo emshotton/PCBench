@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/brucemack",
+  "source": "https://github.com/brucemack/WARS-Birdhouse",
+  "author": "brucemack",
+  "retrieved at": "2026-09-06 13:59:31.711975",
+  "raw": "../../PCBs/WARS-Birdhouse_WARS-Birdhouse-2/raw.kicad_pcb",
+  "cleaned": "../../PCBs/WARS-Birdhouse_WARS-Birdhouse-2/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/WARS-Birdhouse_WARS-Birdhouse-2/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ddcb0b0ed3072cf53628752fc189a9a8da3f14b2",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "kicad/WARS-Birdhouse-2/WARS-Birdhouse-2.kicad_pcb",
+  "source_commit": "ddcb0b0ed3072cf53628752fc189a9a8da3f14b2"
+}

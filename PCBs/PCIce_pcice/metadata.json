@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ZoidTechnology",
+  "source": "https://github.com/ZoidTechnology/PCIce",
+  "author": "ZoidTechnology",
+  "retrieved at": "2026-09-06 13:59:12.492422",
+  "raw": "../../PCBs/PCIce_pcice/raw.kicad_pcb",
+  "cleaned": "../../PCBs/PCIce_pcice/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "license.md",
+    "source_commit": "d605e736a5d2fd73294d43cc33adf127921dd9a8",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "hardware/pcice.kicad_pcb",
+  "source_commit": "d605e736a5d2fd73294d43cc33adf127921dd9a8"
+}

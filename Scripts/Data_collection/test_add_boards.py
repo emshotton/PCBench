@@ -93,6 +93,36 @@ def test_write_board_without_a_project_file_leaves_supplementary_empty(tmp_path)
     assert json.loads((pcbs / name / "metadata.json").read_text())["supplementary files"] == ""
 
 
+def test_folder_name_can_include_the_parent_directory():
+    assert ab.folder_name("m/CATs", "Modules/Slim Line/Rectifier SMD/Electronics/Main/Rectifier Main.kicad_pcb", parents=1) == "CATs_Main_Rectifier_Main"
+    assert ab.folder_name("m/CATs", "Modules/Slim Line/Rectifier SMD/Electronics/Main/Rectifier Main.kicad_pcb", parents=2) == "CATs_Electronics_Main_Rectifier_Main"
+
+
+def test_unique_folder_name_disambiguates_same_named_boards(tmp_path):
+    pcbs = tmp_path / "PCBs"
+    taken = set()
+    first = ab.unique_folder_name(pcbs, "m/CATs", "Rectifier/Main/Rectifier Main.kicad_pcb", taken)
+    taken.add(first)
+    second = ab.unique_folder_name(pcbs, "m/CATs", "Rectifier SMD/Main/Rectifier Main.kicad_pcb", taken)
+    assert first == "CATs_Rectifier_Main" and second == "CATs_Main_Rectifier_Main"
+
+
+def test_unique_folder_name_keeps_a_folder_that_already_holds_the_same_board(tmp_path):
+    pcbs = tmp_path / "PCBs"
+    ab.write_board(pcbs, "o/r", "a/b.kicad_pcb", "sha", BOARD, "2026-09-06 12:00:00.000000")
+    assert ab.unique_folder_name(pcbs, "o/r", "a/b.kicad_pcb", set()) == "r_b"
+    assert ab.unique_folder_name(pcbs, "o/r", "other/b.kicad_pcb", set()) == "r_other_b"
+
+
+def test_unique_folder_name_walks_up_as_far_as_needed(tmp_path):
+    taken = set()
+    names = []
+    for path in ["v0.1/kicad/pcb.kicad_pcb", "v0.2/kicad/pcb.kicad_pcb", "v0.3/kicad/pcb.kicad_pcb"]:
+        names.append(ab.unique_folder_name(tmp_path / "PCBs", "j/oasis", path, taken))
+        taken.add(names[-1])
+    assert names == ["oasis_pcb", "oasis_kicad_pcb", "oasis_v0.3_kicad_pcb"]
+
+
 def test_parse_list_skips_comments_and_blank_lines(tmp_path):
     f = tmp_path / "list.txt"
     f.write_text("# header\nowner/repo\tdir/a.kicad_pcb\n\nowner/repo\tb.kicad_pcb\n")

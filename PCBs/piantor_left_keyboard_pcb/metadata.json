@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/beekeeb",
+  "source": "https://github.com/beekeeb/piantor",
+  "author": "beekeeb",
+  "retrieved at": "2026-09-06 13:56:41.988530",
+  "raw": "../../PCBs/piantor_left_keyboard_pcb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/piantor_left_keyboard_pcb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/piantor_left_keyboard_pcb/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "cd847afb4f9a86e8c1c8e36f243140644013afb2",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/left/keyboard_pcb.kicad_pcb",
+  "source_commit": "cd847afb4f9a86e8c1c8e36f243140644013afb2"
+}

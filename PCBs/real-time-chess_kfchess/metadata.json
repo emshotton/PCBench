@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/misprit7",
+  "source": "https://github.com/misprit7/real-time-chess",
+  "author": "misprit7",
+  "retrieved at": "2026-09-06 13:54:26.838703",
+  "raw": "../../PCBs/real-time-chess_kfchess/raw.kicad_pcb",
+  "cleaned": "../../PCBs/real-time-chess_kfchess/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/real-time-chess_kfchess/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "2f62f9f60c3de4f5148becde97f750d97597c056",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "ecad/board/kfchess.kicad_pcb",
+  "source_commit": "2f62f9f60c3de4f5148becde97f750d97597c056"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/camrbuss",
+  "source": "https://github.com/camrbuss/pinci",
+  "author": "camrbuss",
+  "retrieved at": "2026-09-06 13:54:59.992120",
+  "raw": "../../PCBs/pinci_pinci/raw.kicad_pcb",
+  "cleaned": "../../PCBs/pinci_pinci/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/pinci_pinci/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "4956f50cf3902504b41de4bbb62cca7649930eb4",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20210722",
+  "kicad_version": "6",
+  "source_path": "pcb/pinci.kicad_pcb",
+  "source_commit": "4956f50cf3902504b41de4bbb62cca7649930eb4"
+}

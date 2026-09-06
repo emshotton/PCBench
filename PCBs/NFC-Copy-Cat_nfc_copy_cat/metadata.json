@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ElectronicCats",
+  "source": "https://github.com/ElectronicCats/NFC-Copy-Cat",
+  "author": "ElectronicCats",
+  "retrieved at": "2026-09-06 13:58:31.070036",
+  "raw": "../../PCBs/NFC-Copy-Cat_nfc_copy_cat/raw.kicad_pcb",
+  "cleaned": "../../PCBs/NFC-Copy-Cat_nfc_copy_cat/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/NFC-Copy-Cat_nfc_copy_cat/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "78972552df13c470753d921072d58441aa090e3b",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "hardware/nfc_copy_cat.kicad_pcb",
+  "source_commit": "78972552df13c470753d921072d58441aa090e3b"
+}

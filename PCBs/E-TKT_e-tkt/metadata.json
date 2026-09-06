@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/andreisperid",
+  "source": "https://github.com/andreisperid/E-TKT",
+  "author": "andreisperid",
+  "retrieved at": "2026-09-06 13:52:55.100623",
+  "raw": "../../PCBs/E-TKT_e-tkt/raw.kicad_pcb",
+  "cleaned": "../../PCBs/E-TKT_e-tkt/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/E-TKT_e-tkt/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d63a636e16f25aaf3568ad580cc7558c940871c9",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "_electronic/e-tkt.kicad_pcb",
+  "source_commit": "d63a636e16f25aaf3568ad580cc7558c940871c9"
+}

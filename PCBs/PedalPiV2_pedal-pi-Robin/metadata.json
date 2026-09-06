@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/thawney",
+  "source": "https://github.com/thawney/PedalPiV2",
+  "author": "thawney",
+  "retrieved at": "2026-09-06 14:01:16.041671",
+  "raw": "../../PCBs/PedalPiV2_pedal-pi-Robin/raw.kicad_pcb",
+  "cleaned": "../../PCBs/PedalPiV2_pedal-pi-Robin/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/PedalPiV2_pedal-pi-Robin/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "47509cb6af53d776d463f3f1e1a43977308df143",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "PCB_Files/Through Hole/Kikad_Files/pedal-pi-Robin.kicad_pcb",
+  "source_commit": "47509cb6af53d776d463f3f1e1a43977308df143"
+}

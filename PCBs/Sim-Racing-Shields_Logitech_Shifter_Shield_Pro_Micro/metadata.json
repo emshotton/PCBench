@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/dmadison",
+  "source": "https://github.com/dmadison/Sim-Racing-Shields",
+  "author": "dmadison",
+  "retrieved at": "2026-09-06 14:01:05.997226",
+  "raw": "../../PCBs/Sim-Racing-Shields_Logitech_Shifter_Shield_Pro_Micro/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Sim-Racing-Shields_Logitech_Shifter_Shield_Pro_Micro/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Sim-Racing-Shields_Logitech_Shifter_Shield_Pro_Micro/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "cbabdc42ba81eac03a932a90503faf831df9df1e",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "pcbs/Logitech_Shifter_Shield_Pro_Micro/Logitech_Shifter_Shield_Pro_Micro.kicad_pcb",
+  "source_commit": "cbabdc42ba81eac03a932a90503faf831df9df1e"
+}

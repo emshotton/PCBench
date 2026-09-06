@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Chrismettal",
+  "source": "https://github.com/Chrismettal/EleLab_v2",
+  "author": "Chrismettal",
+  "retrieved at": "2026-09-06 13:56:46.866810",
+  "raw": "../../PCBs/EleLab_v2_EleLab_v2_PowerFeed/raw.kicad_pcb",
+  "cleaned": "../../PCBs/EleLab_v2_EleLab_v2_PowerFeed/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "9306cddca1e8b6b14c4f6a4f572579d2eedd44df",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "PCB_CAD/EleLab_v2_PowerFeed/EleLab_v2_PowerFeed.kicad_pcb",
+  "source_commit": "9306cddca1e8b6b14c4f6a4f572579d2eedd44df"
+}

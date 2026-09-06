@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ChrisChrisLoLo",
+  "source": "https://github.com/ChrisChrisLoLo/keezyboost40",
+  "author": "ChrisChrisLoLo",
+  "retrieved at": "2026-09-06 13:58:03.000504",
+  "raw": "../../PCBs/keezyboost40_keezyboost40/raw.kicad_pcb",
+  "cleaned": "../../PCBs/keezyboost40_keezyboost40/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/keezyboost40_keezyboost40/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "b49c7f98142f642783c6d620a3df6eaf625107f3",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/keezyboost40/keezyboost40.kicad_pcb",
+  "source_commit": "b49c7f98142f642783c6d620a3df6eaf625107f3"
+}

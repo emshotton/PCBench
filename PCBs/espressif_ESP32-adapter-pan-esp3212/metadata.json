@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/pcbreflux",
+  "source": "https://github.com/pcbreflux/espressif",
+  "author": "pcbreflux",
+  "retrieved at": "2026-09-06 13:56:46.232973",
+  "raw": "../../PCBs/espressif_ESP32-adapter-pan-esp3212/raw.kicad_pcb",
+  "cleaned": "../../PCBs/espressif_ESP32-adapter-pan-esp3212/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "fb147ec49807592c2ac480791f7006dd69263fea",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20160815",
+  "kicad_version": "20160815",
+  "source_path": "esp32/kicad/ESP32-adapter/ESP32-adapter-pan-esp3212.kicad_pcb",
+  "source_commit": "fb147ec49807592c2ac480791f7006dd69263fea"
+}

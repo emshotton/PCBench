@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/espway",
+  "source": "https://github.com/espway/espway",
+  "author": "espway",
+  "retrieved at": "2026-09-06 13:58:45.651463",
+  "raw": "../../PCBs/espway_espway/raw.kicad_pcb",
+  "cleaned": "../../PCBs/espway_espway/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "LGPL-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "path": "COPYING",
+    "source_commit": "6629d2fb8782719740de33bf8e7ba1ca1159645f",
+    "detected_by": "github",
+    "detected_ids": [
+      "LGPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "schematic/espway.kicad_pcb",
+  "source_commit": "6629d2fb8782719740de33bf8e7ba1ca1159645f"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/lab11",
+  "source": "https://github.com/lab11/polypoint",
+  "author": "lab11",
+  "retrieved at": "2026-09-06 13:54:49.597052",
+  "raw": "../../PCBs/polypoint_protopoint/raw.kicad_pcb",
+  "cleaned": "../../PCBs/polypoint_protopoint/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "0a21b19db7d00c0b0d9b523a54a6b243a5e64bac",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "pcb/tripoint/v2p0/protopoint.kicad_pcb",
+  "source_commit": "0a21b19db7d00c0b0d9b523a54a6b243a5e64bac"
+}

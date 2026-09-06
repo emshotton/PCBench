@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/thpoll83",
+  "source": "https://github.com/thpoll83/PolyKybd",
+  "author": "thpoll83",
+  "retrieved at": "2026-09-06 13:56:59.721125",
+  "raw": "../../PCBs/PolyKybd_poly_kybd_split72_left/raw.kicad_pcb",
+  "cleaned": "../../PCBs/PolyKybd_poly_kybd_split72_left/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/PolyKybd_poly_kybd_split72_left/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-W-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "fbea78d0628b91e4c70a8a4633607738158b8ed6",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "poly_kybd/poly_kybd_split72_left.kicad_pcb",
+  "source_commit": "fbea78d0628b91e4c70a8a4633607738158b8ed6"
+}

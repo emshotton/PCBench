@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Spaceboards",
+  "source": "https://github.com/Spaceboards/SpaceboardsHardware",
+  "author": "Spaceboards",
+  "retrieved at": "2026-09-06 13:58:34.160512",
+  "raw": "../../PCBs/SpaceboardsHardware_dropin/raw.kicad_pcb",
+  "cleaned": "../../PCBs/SpaceboardsHardware_dropin/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CERN-OHL-W-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "dd4fe15e030dee4aa9de2783cbc442bf9e349df2",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "Keyboards/Pancake/V2/kicad/dropin.kicad_pcb",
+  "source_commit": "dd4fe15e030dee4aa9de2783cbc442bf9e349df2"
+}

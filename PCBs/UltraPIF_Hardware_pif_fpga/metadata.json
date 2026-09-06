@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/jago85",
+  "source": "https://github.com/jago85/UltraPIF_Hardware",
+  "author": "jago85",
+  "retrieved at": "2026-09-06 13:59:16.146316",
+  "raw": "../../PCBs/UltraPIF_Hardware_pif_fpga/raw.kicad_pcb",
+  "cleaned": "../../PCBs/UltraPIF_Hardware_pif_fpga/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "36978bc9ee9cd4313d5bb5ad45c0e83469e7268a",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "pif_fpga/pif_fpga.kicad_pcb",
+  "source_commit": "36978bc9ee9cd4313d5bb5ad45c0e83469e7268a"
+}

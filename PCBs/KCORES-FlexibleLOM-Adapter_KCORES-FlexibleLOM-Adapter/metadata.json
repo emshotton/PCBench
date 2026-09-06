@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/KCORES",
+  "source": "https://github.com/KCORES/KCORES-FlexibleLOM-Adapter",
+  "author": "KCORES",
+  "retrieved at": "2026-09-06 13:57:17.106834",
+  "raw": "../../PCBs/KCORES-FlexibleLOM-Adapter_KCORES-FlexibleLOM-Adapter/raw.kicad_pcb",
+  "cleaned": "../../PCBs/KCORES-FlexibleLOM-Adapter_KCORES-FlexibleLOM-Adapter/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "2401923550d467905b3312f506ad84a59c6e1417",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "Electricals/KCORES-FlexibleLOM-Adapter/KCORES-FlexibleLOM-Adapter.kicad_pcb",
+  "source_commit": "2401923550d467905b3312f506ad84a59c6e1417"
+}

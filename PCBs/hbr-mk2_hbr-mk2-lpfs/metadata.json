@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/afiskon",
+  "source": "https://github.com/afiskon/hbr-mk2",
+  "author": "afiskon",
+  "retrieved at": "2026-09-06 13:55:43.806508",
+  "raw": "../../PCBs/hbr-mk2_hbr-mk2-lpfs/raw.kicad_pcb",
+  "cleaned": "../../PCBs/hbr-mk2_hbr-mk2-lpfs/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/hbr-mk2_hbr-mk2-lpfs/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "ddc0cab1eaaeae24eac058d85608a6b3cb4265a2",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "pcbs/lpfs/hbr-mk2-lpfs.kicad_pcb",
+  "source_commit": "ddc0cab1eaaeae24eac058d85608a6b3cb4265a2"
+}

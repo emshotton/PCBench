@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/vascofazza",
+  "source": "https://github.com/vascofazza/8bit-cpu",
+  "author": "vascofazza",
+  "retrieved at": "2026-09-06 13:53:00.995009",
+  "raw": "../../PCBs/8bit-cpu_8bit-computer/raw.kicad_pcb",
+  "cleaned": "../../PCBs/8bit-cpu_8bit-computer/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "027a60365ede50967a28066cb3f8de64050dac08",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "MK1_CPU/8bit-computer/8bit-computer.kicad_pcb",
+  "source_commit": "027a60365ede50967a28066cb3f8de64050dac08"
+}

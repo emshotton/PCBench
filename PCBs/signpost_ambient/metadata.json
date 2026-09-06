@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/lab11",
+  "source": "https://github.com/lab11/signpost",
+  "author": "lab11",
+  "retrieved at": "2026-09-06 13:55:15.178124",
+  "raw": "../../PCBs/signpost_ambient/raw.kicad_pcb",
+  "cleaned": "../../PCBs/signpost_ambient/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE-APACHE",
+    "source_commit": "f8f9efe01185763a943f949eddcd1a2ed87dd32c",
+    "detected_by": "text-match",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "modules/ambient/rev_c/ambient.kicad_pcb",
+  "source_commit": "f8f9efe01185763a943f949eddcd1a2ed87dd32c"
+}

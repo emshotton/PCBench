@@ -47,10 +47,30 @@ def parse_list(path: Path) -> list[tuple[str, str]]:
     return entries
 
 
-def folder_name(repo: str, board_path: str) -> str:
-    stem = board_path.rsplit("/", 1)[-1].removesuffix(".kicad_pcb")
-    name = f"{repo.split('/', 1)[1]}_{stem}"
+def folder_name(repo: str, board_path: str, parents: int = 0) -> str:
+    """``<repo>_<board stem>``, with the board's last ``parents`` directories in between when
+    boards of one repository share a file name (``Rectifier/Main.kicad_pcb`` next to
+    ``Rectifier SMD/Main.kicad_pcb``)."""
+    parts = board_path.split("/")
+    stem = parts[-1].removesuffix(".kicad_pcb")
+    middle = "".join(f"{d}_" for d in parts[max(0, len(parts) - 1 - parents):-1])
+    name = f"{repo.split('/', 1)[1]}_{middle}{stem}"
     return re.sub(r"[^A-Za-z0-9._-]+", "_", name)
+
+
+def unique_folder_name(pcbs: Path, repo: str, board_path: str, taken: set[str]) -> str:
+    """A folder name not already used in this run, and not already holding a different board."""
+    for parents in range(board_path.count("/") + 1):
+        name = folder_name(repo, board_path, parents)
+        meta_path = pcbs / name / "metadata.json"
+        if name in taken:
+            continue
+        if meta_path.exists():
+            existing = json.loads(meta_path.read_text(encoding="utf-8"))
+            if existing.get("source") != f"https://github.com/{repo}" or existing.get("source_path", board_path) != board_path:
+                continue
+        return name
+    raise ValueError(f"no free folder name for {repo} {board_path}")
 
 
 NET_REF = re.compile(r'\(net\s+(?:\d+\s+)?(?:"([^"]*)"|([^\s()"]+))\)')
@@ -146,8 +166,8 @@ def metadata(name: str, repo: str, board_path: str, commit: str, facts: dict, re
 
 
 def write_board(pcbs: Path, repo: str, board_path: str, commit: str, text: str, retrieved_at: str,
-                project: str | None = None) -> str:
-    name = folder_name(repo, board_path)
+                project: str | None = None, name: str | None = None) -> str:
+    name = name or folder_name(repo, board_path)
     folder = pcbs / name
     folder.mkdir(parents=True, exist_ok=True)
     (folder / "raw.kicad_pcb").write_text(text, encoding="utf-8")
@@ -190,8 +210,10 @@ def main(argv=None) -> int:
     pcbs = args.root / "PCBs"
     commits: dict[str, str] = {}
     added, skipped = [], []
+    taken: set[str] = set()
     for repo, board_path in parse_list(args.list):
-        name = folder_name(repo, board_path)
+        name = unique_folder_name(pcbs, repo, board_path, taken)
+        taken.add(name)
         if (pcbs / name).exists() and not args.force:
             skipped.append((name, "already present"))
             continue
@@ -203,7 +225,7 @@ def main(argv=None) -> int:
             continue
         retrieved_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")
         project = fetch_project(repo, commit, board_path) if board_facts(text)["format_version"] > 20200000 else None
-        write_board(pcbs, repo, board_path, commit, text, retrieved_at, project)
+        write_board(pcbs, repo, board_path, commit, text, retrieved_at, project, name)
         added.append(name)
         print(f"added {name}" + (" (with project file)" if project else ""), file=sys.stderr)
     for name, why in skipped:

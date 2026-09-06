@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/greatscottgadgets",
+  "source": "https://github.com/greatscottgadgets/hackrf",
+  "author": "greatscottgadgets",
+  "retrieved at": "2026-09-06 13:56:29.647097",
+  "raw": "../../PCBs/hackrf_hackrf-one/raw.kicad_pcb",
+  "cleaned": "../../PCBs/hackrf_hackrf-one/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/hackrf_hackrf-one/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-2.0",
+    "name": "GNU General Public License v2.0",
+    "path": "COPYING",
+    "source_commit": "393dc91be7e0cd17af61600d7ce31d8a54a2f404",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "hardware/hackrf-one/hackrf-one.kicad_pcb",
+  "source_commit": "393dc91be7e0cd17af61600d7ce31d8a54a2f404"
+}

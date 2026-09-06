@@ -1,0 +1,358 @@
+# repository<TAB>path of the .kicad_pcb inside it. Second sweep (permissive and copyleft) plus the CATs-Eurosynth module boards.
+byrantech/laptop	motherboard/motherboard.kicad_pcb
+byrantech/laptop	power/power.kicad_pcb
+byrantech/laptop	keyboard/keyboard.kicad_pcb
+byrantech/laptop	audio/audio.kicad_pcb
+mattdibi/redox-keyboard	redox/pcb/rev1.0/kicad_files/redox_rev1.kicad_pcb
+stack-chan/stack-chan	schematics/m5-pantilt/m5-pantilt.kicad_pcb
+tompi/cheapino	pcb/cheapino.kicad_pcb
+tardate/LittleArduinoProjects	playground/LEDx16Module/kicad_project/LEDx16_board.kicad_pcb
+tardate/LittleArduinoProjects	playground/LED7Segment/ShiftDriveModule/kicad_project/sevensegment_led_display_module.kicad_pcb
+duckyb/urchin	main.kicad_pcb
+Allen-Synthesis/EuroPi	hardware/surface-mount/europi-surface-mount.kicad_pcb
+antmicro/jetson-nano-baseboard	jetson-nano-baseboard.kicad_pcb
+strangeparts/niubi-headphones	prototype_pcb/headphones_prototype_pcb.kicad_pcb
+strangeparts/niubi-headphones	flex_pcb/headphones_flex_pcb.kicad_pcb
+strangeparts/niubi-headphones	flex_pcb/headphones_flex_pcb-rigid.kicad_pcb
+raeedcho/temper	pcb/temper.kicad_pcb
+andreisperid/E-TKT	_electronic/e-tkt.kicad_pcb
+peej/lumberjack-keyboard	lumberjack.kicad_pcb
+biomurph/Mouse	Hardware/KiCad/Mouse/Mouse.kicad_pcb
+SimonMerrett/SOICbite	adaptors/SOICbite_SWD/SOICbite_SWD.kicad_pcb
+midilab/aciduino	v1/hardware/ijnekenamay-PCB/Kicad_file/aciduino_pcb.kicad_pcb
+vascofazza/8bit-cpu	MK1_CPU/8bit-computer/8bit-computer.kicad_pcb
+vascofazza/8bit-cpu	helix_display_interface/display_interface/display_interface.kicad_pcb
+vascofazza/8bit-cpu	eeprom_programmer/arduino_eeprom_programmer/arduino_eeprom_programmer.kicad_pcb
+vascofazza/8bit-cpu	start9_programming_interface/programming_interface/programming_interface.kicad_pcb
+jes/scamp-cpu	kicad/instruction/instruction.kicad_pcb
+jes/scamp-cpu	kicad/alu/alu.kicad_pcb
+jes/scamp-cpu	kicad/memory/memory.kicad_pcb
+jes/scamp-cpu	kicad/serial/serial.kicad_pcb
+jpconstantineau/ErgoTravel	PCB_Choc_RGB/ErgoTravel.kicad_pcb
+jpconstantineau/ErgoTravel	PCB_Choc_LED/ErgoTravel.kicad_pcb
+jpconstantineau/ErgoTravel	PCB/ErgoTravel.kicad_pcb
+jpconstantineau/ErgoTravel	PCB_Choc/ErgoTravel.kicad_pcb
+GuitarML/FunBox	hardware/funbox_v3_midi_exp/funbox_v3.kicad_pcb
+GuitarML/FunBox	hardware/funbox_v2_midi/funbox_v2.kicad_pcb
+GuitarML/FunBox	hardware/funbox_v1/funbox.kicad_pcb
+justbuchanan/oasis	pcb/main/pcb.kicad_pcb
+justbuchanan/oasis	pcb/fabricated-boards/mainboard-v0.3/kicad/pcb.kicad_pcb
+justbuchanan/oasis	pcb/fabricated-boards/v0.2/kicad/pcb.kicad_pcb
+justbuchanan/oasis	pcb/ledboard/ledboard.kicad_pcb
+newdigate/teensy-eurorack	hardware/boards/teensy-eurorack.kicad_pcb
+newdigate/teensy-eurorack	hardware/boards/teensy-eurorack-breakout.kicad_pcb
+misprit7/real-time-chess	ecad/board/kfchess.kicad_pcb
+UzixLS/zx-sizif-512	pcb/rev.E/sizif512.kicad_pcb
+UzixLS/zx-sizif-512	pcb/rev.E1/sizif512.kicad_pcb
+UzixLS/zx-sizif-512	pcb/rev.D/sizif512.kicad_pcb
+UzixLS/zx-sizif-512	pcb/rev.D1/sizif512.kicad_pcb
+duckyb/eternal-keypad	pcb-kicad/eternal-keypad.kicad_pcb
+EanNewton/Awesome-Keebs	pcb files/torn-master/torn_left/torn_left.kicad_pcb
+EanNewton/Awesome-Keebs	pcb files/torn-master/torn_right/torn_right.kicad_pcb
+dbuchwald/6502	Schematics/65C02_Computer/65C02_Computer.kicad_pcb
+dbuchwald/6502	Schematics/Clock_module/Clock_module.kicad_pcb
+zachmorr/esper	hardware/product/usb-programmable/EsperDNS.kicad_pcb
+zachmorr/esper	hardware/programmer/programmer.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Abakus/Electronics/Main/Abakus Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Rectifier/Electronics/Main/Rectifier Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Clock Divider/Electronics/Main/Slimline Clock Divider SMD Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/Sync LFO/Electronics/Main/HAGIWO Sync LFO Main.kicad_pcb
+Schluggi/AIOsense	kicad/AIOsense/AIOsense.kicad_pcb
+strayer/taira-keyboard	pcb/tairakb.kicad_pcb
+hackclub/hackpad	extras/orpheuspad/pcb/orpheuspad_pcb.kicad_pcb
+lab11/polypoint	pcb/pinpoint/pinpoint_timebase/pinpoint_timebase.kicad_pcb
+lab11/polypoint	pcb/tripoint/v2p0/protopoint.kicad_pcb
+lab11/polypoint	pcb/tripoint/v1p1/protopoint.kicad_pcb
+lab11/polypoint	pcb/tripoint/v1p0/protopoint.kicad_pcb
+dnlbauer/corax-keyboard	corax56/pcbs/pcbs/keyboard.kicad_pcb
+dnlbauer/corax-keyboard	corax54/pcbs/pcbs/keyboard.kicad_pcb
+mattvenn/basic-ecp5-pcb	hardware/basic-ecp5-pcb.kicad_pcb
+Jana-Marie/EF-S-Adapter	hardware/v1.1/lensmount-v1.1.kicad_pcb
+Jana-Marie/EF-S-Adapter	hardware/v1/lensmount-v1.kicad_pcb
+camrbuss/pinci	pcb/pinci.kicad_pcb
+atopile/spin-servo-drive	elec/layout/default/servo-drive.kicad_pcb
+siderakb/pmw3610-pcb	pmw3610_pcb.kicad_pcb
+goat-hill/bitclock	bitclock-pcb/rev3a/kicad/canary.kicad_pcb
+greatscottgadgets/cynthion-hardware	cynthion.kicad_pcb
+peej/for-science-keyboard	for-science.kicad_pcb
+TheusHen/EEGFrontier	PCB/EEGFrontier.kicad_pcb
+fraktalcyber/lfi-rig	PCB/lfi-driver/lfi-driver.kicad_pcb
+greatfet-hardware/azalea	azalea.kicad_pcb
+lab11/signpost	modules/ambient/rev_c/ambient.kicad_pcb
+lab11/signpost	modules/ambient/rev_d/ambient.kicad_pcb
+lab11/signpost	modules/ambient/rev_b/ambient.kicad_pcb
+lab11/signpost	modules/ambient/rev_a/ambient.kicad_pcb
+chili-chips-ba/openPCIE	1.pcb/openpci2-backplane/openpci2-backplane.kicad_pcb
+crmaykish/mackerel-68k	hardware/mackerel-30-proto/mackerel-30-proto.kicad_pcb
+crmaykish/mackerel-68k	hardware/mackerel-10-v1/mackerel-10-v1.kicad_pcb
+crmaykish/mackerel-68k	hardware/mackerel-08-v1/mackerel-08-v1.kicad_pcb
+crmaykish/mackerel-68k	hardware/mack-10-proto/mackerel-10-v1/mackerel-10-v1.kicad_pcb
+Nicell/epaper-102	epaper-102.kicad_pcb
+plusvic/simplebus2-intercom	remote_unit_v2/pcb/remote_unit_v2.kicad_pcb
+plusvic/simplebus2-intercom	repeater_v2/pcb/repeater_v2.kicad_pcb
+plusvic/simplebus2-intercom	buzzer/pcb/buzzer_b.kicad_pcb
+plusvic/simplebus2-intercom	buzzer/pcb/buzzer.kicad_pcb
+m1geo/Pi5_PCIe	Pi5_PCIe.kicad_pcb
+m1geo/Pi5_PCIe	Pi5_M2_Hat.kicad_pcb
+keyzog/kapl	pcb/Kapl.kicad_pcb
+klein0r/pcb-ws2812-wifi-controller	WS2812Controller.kicad_pcb
+codetiger/GameTiger	PCB/GameTiger/GameTiger.kicad_pcb
+SRA-VJTI/sra-board-hardware-design	sra_dev_board_2026/sra_dev_board_2026.kicad_pcb
+SRA-VJTI/sra-board-hardware-design	LSA_board/lsa.kicad_pcb
+embeddedalpha/PCB-Design	6_Axis_Robot_Controller/RoProp.kicad_pcb
+afiskon/hbr-mk2	pcbs/rxtx/hbr-mk2-rxtx.kicad_pcb
+afiskon/hbr-mk2	pcbs/bpfs/hbr-mk2-bpfs.kicad_pcb
+afiskon/hbr-mk2	pcbs/lpfs/hbr-mk2-lpfs.kicad_pcb
+afiskon/hbr-mk2	pcbs/digital/hbr-mk2-digital.kicad_pcb
+anthony-bernaert/ftdi-jtag-programmer	JTAGProgrammer/JTAGProgrammer.kicad_pcb
+leomanangka/esp32-4-channel-relays	esp32-4-channel-relays.kicad_pcb
+b-karl/KBIC65	kicad/pcb/kbic65.kicad_pcb
+ravinrabbid/DonCon2040	pcb/DonConIO/DonConIO.kicad_pcb
+ravinrabbid/DonCon2040	pcb/DonConIOmini/DonConIOmini.kicad_pcb
+ravinrabbid/DonCon2040	pcb/DonConPad/DonConPad.kicad_pcb
+rschenk/re-gret	pcb/regret.kicad_pcb
+Goga64/ULK	KiCad/ULK_sl_PG1316s/ULK_sl_PG1316s/ULK_sl_PG1316s.kicad_pcb
+Goga64/ULK	KiCad/ULK_ulp_Original_Silkscreen/ULK.kicad_pcb
+Goga64/ULK	KiCad/ULK_pg1316s_Original_Silkscreen/ULK.kicad_pcb
+Goga64/ULK	KiCad/ULK_ulp_Stealth_Silkscreen/ULK.kicad_pcb
+0xjmux/ESP-PROG-Adapter	PCB/ESPPROG-Adapter.kicad_pcb
+Ladniy/jiran-ble-lite	pcb/jiran-ble-lite/jiran-ble-lite.kicad_pcb
+Durburz/interphase	interphase.kicad_pcb
+openeew/openeew-sensor	pcb/pcb.kicad_pcb
+dilshan/12v-automatic-ups	design/ups-12v.kicad_pcb
+galopago/misistemita	c-breakouts/c12/C12.kicad_pcb
+galopago/misistemita	c-breakouts/c07/C07.kicad_pcb
+galopago/misistemita	c-breakouts/c11/C11.kicad_pcb
+galopago/misistemita	c-breakouts/c08/C08.kicad_pcb
+tmarhguy/alu	schematics/kicad/modules/gates/gate_xnor/gate_xnor_2in/gate_xnor_2in.kicad_pcb
+martinribelotta/h730duino	h730duino.kicad_pcb
+Ladniy/TK44	pcb/TK44/TK44.kicad_pcb
+Pakequis/Bad-Thing-of-the-Edge-keyboard	Hardware/Main-board/Bad Thing of the Edge Keyboard.kicad_pcb
+greatscottgadgets/amalthea	hardware/rev0/amalthea_rev0.kicad_pcb
+stas2k/galspanic	galspanic.kicad_pcb
+UzixLS/mist1010-board	pcb/rev.A2/mist1010.kicad_pcb
+UzixLS/mist1010-board	pcb/rev.A1/mist1010.kicad_pcb
+UzixLS/mist1010-board	pcb/rev.C1/mist1010.kicad_pcb
+UzixLS/mist1010-board	pcb/rev.B/mist1010.kicad_pcb
+joeyparrish/kinetoscope	hardware/sram-bank.kicad_pcb
+joeyparrish/kinetoscope	hardware/microcontroller.kicad_pcb
+joeyparrish/kinetoscope	hardware/cart.kicad_pcb
+joeyparrish/kinetoscope	hardware/ethernet.kicad_pcb
+teapotlaboratories/feather-rak3172	hardware/kicad/feather_rak3172.kicad_pcb
+Open-Authenticator/hardware-design	kicad_project/open_authenticator.kicad_pcb
+greatscottgadgets/hackrf	hardware/hackrf-one/hackrf-one.kicad_pcb
+skot/bitaxe	bitaxeUltra.kicad_pcb
+GEIGEIGEIST/KLOR	PCB/klor1_3/klor1_3.kicad_pcb
+tzarc/keyboards	Ghoul/v1.0/ghoul.kicad_pcb
+tzarc/keyboards	Djinn/Rev1/Djinn.kicad_pcb
+tzarc/keyboards	Djinn/Rev2a/Djinn.kicad_pcb
+beekeeb/piantor	pcb/right/keyboard_pcb.kicad_pcb
+beekeeb/piantor	pcb/left/keyboard_pcb.kicad_pcb
+gcormier/megadesk	pcb/megadesk.kicad_pcb
+pcbreflux/espressif	esp32/kicad/ESP32-epaper-adapter/ESP32-epaper-adapter-pan.kicad_pcb
+pcbreflux/espressif	esp32/kicad/ESP32-wroover-adapter/ESP32-wroover-adapter-pan.kicad_pcb
+pcbreflux/espressif	esp32/kicad/ESP32-li-ion-cell-monitor Ref1.3/ESP32-li-ion-cell-monitor_pan.kicad_pcb
+pcbreflux/espressif	esp32/kicad/ESP32-adapter/ESP32-adapter-pan-esp3212.kicad_pcb
+Chrismettal/EleLab_v2	PCB_CAD/EleLab_v2_PowerFeed/EleLab_v2_PowerFeed.kicad_pcb
+LNH-team/Lost-NDS-TV	pcb/kicad/NDS_TV_OUT_V1I2.kicad_pcb
+thpoll83/PolyKybd	poly_kybd/variations/poly_corne/poly_corne_split42_right.kicad_pcb
+thpoll83/PolyKybd	poly_kybd/poly_kybd_split72_right.kicad_pcb
+thpoll83/PolyKybd	poly_kybd/poly_kybd_split72_left.kicad_pcb
+thpoll83/PolyKybd	poly_kybd/variations/poly_corne/poly_corne_split42_left.kicad_pcb
+bbogush/nand_programmer	kicad/nand_programmator.kicad_pcb
+bbogush/nand_programmer	kicad/adapter_tsop48/adapter_tsop48.kicad_pcb
+KCORES/OCP2PCIe	OCP2PCIe-H-F-4/OCP2PCIe-H-F-4-V2.0Beta/V1.kicad_pcb
+KCORES/OCP2PCIe	OCP2PCIe-H-F-4/OCP2PCIe-H-F-4-V2.0Beta/V1-cut10x10.kicad_pcb
+KCORES/OCP2PCIe	OCP2PCIe-H-F-4/OCP2PCIe-H-F-4-V1.1Beta/V1.kicad_pcb
+KCORES/OCP2PCIe	OCP2PCIe-H-F-4/OCP2PCIe-H-F-4-V1.1Beta/v1-cut10x10.kicad_pcb
+FPGAwars/icezum	src-kicad/icezum.kicad_pcb
+ChrisChrisLoLo/beyblock20	pcb/mongus48/mongus48.kicad_pcb
+ChrisChrisLoLo/beyblock20	pcb/beyblock20/beyblock20.kicad_pcb
+ChrisChrisLoLo/beyblock20	pcb/knoblin3/knoblin3.kicad_pcb
+Domesday86/DomesdayDuplicator	hardware/pcb/Domesday Duplicator.kicad_pcb
+engmung/Patternflow	hardware/pcb/kicad/patternflow.kicad_pcb
+moduloindustries/thinkeys	thinkeys.kicad_pcb
+KCORES/KCORES-FlexibleLOM-Adapter	Electricals/KCORES-FlexibleLOM-Adapter/KCORES-FlexibleLOM-Adapter.kicad_pcb
+greatscottgadgets/yardstick	yardstickone/yardstickone.kicad_pcb
+GEIGEIGEIST/KLOTZ	PCB/Klotz.kicad_pcb
+doudar/SmartSpin2k	Hardware/V3 - Integrated PCB/PCB/SS2K_KiCad_Files/SmartSpin2k.kicad_pcb
+fabiansteiner/OpenValve	hardware/pcb/PG_attiny404.kicad_pcb
+Envious-Data/Env-KB	KiCad Files/MainPCB_RGB-HS/ENV_KB_RGB.kicad_pcb
+Envious-Data/Env-KB	KiCad Files/MainPCB_HS/EnvKB_HS.kicad_pcb
+Envious-Data/Env-KB	KiCad Files/MainPCB/ENV_KB.kicad_pcb
+CRImier/MyKiCad	Reverse-engineering/sony_vaio_p_re/vaio_re.kicad_pcb
+CRImier/MyKiCad	Laptop mods/framework_mobo_lefthalf/framework_mobo_lefthalf.kicad_pcb
+CRImier/MyKiCad	ESP8266/protoesp/protoesp.kicad_pcb
+CRImier/MyKiCad	Raspberry Pi stuff/zpn_devboard/zpn_devboard.kicad_pcb
+mecparts/RetroWiFiModem	kicad/RetroWiFiModem.kicad_pcb
+Open-Smartwatch/open-smartwatch-light	osw-light.kicad_pcb
+Open-Smartwatch/open-smartwatch-gps	osw.kicad_pcb
+AzonInc/Doorman	pcb/doorman.kicad_pcb
+AzonInc/Doorman	pcb_slot/doorman_slot.kicad_pcb
+AzonInc/Doorman	pcb_slot_programmer/doorman_slot_programmer.kicad_pcb
+tjko/fanpico	boards/fanpico-0804/kicad/fanpico.kicad_pcb
+tjko/fanpico	boards/fanpico-0804D/kicad/fanpico.kicad_pcb
+tjko/fanpico	boards/fanpico-0401D/kicad/fanpico.kicad_pcb
+tjko/fanpico	boards/fanpico-0200/kicad/fanpico.kicad_pcb
+HovKlan-DH/Classic-Repair-Toolbox	Assets/Data/Commodore/C64/250469/KiCad data/C64-250469-KiCad.kicad_pcb
+HovKlan-DH/Classic-Repair-Toolbox	Assets/Data/Commodore/C64/KU-14194HB/KiCad data/KU-14194HB-REV-B-KiCad.kicad_pcb
+HovKlan-DH/Classic-Repair-Toolbox	Assets/Data/Commodore/C128/310378/KiCad data/Open128.kicad_pcb
+HovKlan-DH/Classic-Repair-Toolbox	Assets/Data/Commodore/C64/250407/KiCad data/250407_.kicad_pcb
+Jana-Marie/ligra	ligra_back/ligra_back.kicad_pcb
+ChrisChrisLoLo/keezyboost40	pcb/keezyboost40/keezyboost40.kicad_pcb
+ChrisChrisLoLo/keezyboost40	temp/keezyboost40.kicad_pcb
+jasonsbeer/Amiga-2000-EATX	2000EATX-KiCAD-R31/2000ATX.kicad_pcb
+jasonsbeer/Amiga-2000-EATX	TICK/TICK-Dual-0805/TICK.kicad_pcb
+jasonsbeer/Amiga-2000-EATX	TICK/TICK_OSC_KiCAD/TICK.kicad_pcb
+ojg/thatmicpre	desktop/thatmicpre_v1.kicad_pcb
+ojg/thatmicpre	rack/thatmicpre_v2.kicad_pcb
+tebl/RC6502-Apple-1-Replica	Abandoned/RC6502 General Video Adapter/RC6502 General Video Adapter.kicad_pcb
+tebl/RC6502-Apple-1-Replica	RC6502 Apple 1 SBC/RC6502 Apple 1 SBC.kicad_pcb
+tebl/RC6502-Apple-1-Replica	RC6502 VDU/RC6502 VDU.kicad_pcb
+tebl/RC6502-Apple-1-Replica	RC6502 Terminal/RC6502 Terminal.kicad_pcb
+ZSWatch/Watch-DevKit-HW	devkit/ZSWatch-Watch-DevKit.kicad_pcb
+jkramarz/TheTick	hardware/Tick.kicad_pcb
+Hydra-Designs/project-hydra-meshtastic-pcb	Hydra Base/Hydra Base.kicad_pcb
+Hydra-Designs/project-hydra-meshtastic-pcb	meshtastic-diy.kicad_pcb
+a-little-wifi/Tinyriser	TinyRiser.kicad_pcb
+a-little-wifi/Tinyriser	TinyRiser_frontled.kicad_pcb
+Envious-Data/EnvOpenPico	RP2040/EnvOpenPico2040/EnvOpenPico-RP2040.kicad_pcb
+Envious-Data/EnvOpenPico	RP2350/EnvOpenPico2350/EnvOpenPico2350.kicad_pcb
+Envious-Data/EnvOpenPico	RP2040/EliteMicro2040/EliteMicro2040.kicad_pcb
+Envious-Data/EnvOpenPico	RP2040/EnvPicoLiPo/EnvPicoLiPo.kicad_pcb
+IvDm/Z-probe-on-smd-resistors-2512	kicad_hx711_tyny85/kicad_hx711_tyny85.kicad_pcb
+ElectronicCats/NFC-Copy-Cat	hardware/nfc_copy_cat.kicad_pcb
+Spaceboards/SpaceboardsHardware	Keyboards/Waffle/kicad/Pancake_v8.kicad_pcb
+Spaceboards/SpaceboardsHardware	Keyboards/Pancake/V2/kicad/dropin.kicad_pcb
+Spaceboards/SpaceboardsHardware	Keyboards/XLant/kicad/WideZlant.kicad_pcb
+Spaceboards/SpaceboardsHardware	Keyboards/LongBoi/kicad/keyboard.kicad_pcb
+fxkuehl/mantis	pcb/mantis.kicad_pcb
+fxkuehl/mantis	pcb/mantis_raised_leds.kicad_pcb
+fxkuehl/mantis	pcb/mantis_reversible_split_leds.kicad_pcb
+wonkleio/wonkle	pcb/src/board/mk1/pro/Wonkle.kicad_pcb
+espway/espway	schematic/espway.kicad_pcb
+MotorDynamicsLab/Leviathan	KiCad/V1.2/Leviathan.kicad_pcb
+MotorDynamicsLab/Leviathan	KiCad/V1.3/Leviathan_V1.3.kicad_pcb
+mikemountain/nfl-led-scoreboard	matrix/adapter/active-3/active3-rpi-hub75-adapter.kicad_pcb
+mikemountain/nfl-led-scoreboard	matrix/adapter/passive-3/passive3-rpi-hub75-adapter.kicad_pcb
+mikemountain/nfl-led-scoreboard	matrix/adapter/passive-rpi1/passive-rpi-hub75-adapter.kicad_pcb
+ChrisChrisLoLo/bancouver40	minipeg48/pcb/dogema48_cfx/dogema48_cfx.kicad_pcb
+ChrisChrisLoLo/bancouver40	pcb/bancouver40_cfx/bancouver40_cfx.kicad_pcb
+ChrisChrisLoLo/bancouver40	kowgary16/pcb/kowgary16_cfx/kowgary16_cfx.kicad_pcb
+ChrisChrisLoLo/banime40	pcb/banime40/banime40.kicad_pcb
+hackup/Pi1541io	Pi1541io.kicad_pcb
+UzixLS/pc-kharon-386	pcb_main/rev.A/kharon386_main.kicad_pcb
+UzixLS/pc-kharon-386	pcb_top/rev.A/kharon386_top.kicad_pcb
+UzixLS/pc-kharon-386	pcb_main/rev.A1/kharon386_main.kicad_pcb
+UzixLS/pc-kharon-386	pcb_top/rev.A1/kharon386_top.kicad_pcb
+zli117/Pico-Keyboard	PCB/pico_keyboard_v1.kicad_pcb
+zli117/CyberKeeb2040	PCB/MainBoard/MainBoard.kicad_pcb
+New-England-Weather-Balloon-Society/Tiny4FSK	PCB + Schematic/Tiny4FSK.kicad_pcb
+ashpil/Model-M-Type-C	controller.kicad_pcb
+uCAN-LIN/LinUSBConverter	pcb/LIN_USB_CONVERTER.kicad_pcb
+ZoidTechnology/PCIce	hardware/pcice.kicad_pcb
+drfailov/DRM_Watch_v3	Board/KiCad Project/_DRM_Watch_v3/DRM_Watch_V3.kicad_pcb
+KOEGlike/meko	hardware/pcb_touchpad/touchpad.kicad_pcb
+pscrespo/Morpheus-STM32	Morpheus-kicad.kicad_pcb
+jago85/UltraPIF_Hardware	pif_fpga/pif_fpga.kicad_pcb
+jago85/UltraPIF_Hardware	led/led.kicad_pcb
+jago85/UltraPIF_Hardware	pif_adapter/pif_adapter.kicad_pcb
+jackw01/pi-tin	pcb_main_r2/mintypcb.kicad_pcb
+jackw01/pi-tin	pcb_display_r2a/displaypcb.kicad_pcb
+Pakequis/ProtoConn	Hardware/ProtoConn.kicad_pcb
+neggles/cfxsx	cfxsx/cfxsx-2280.kicad_pcb
+neggles/cfxsx	cfxsx/cfxsx.kicad_pcb
+transistorfet/computie	hardware/k30-SBC/k30-SBC.kicad_pcb
+transistorfet/computie	hardware/68k-SMT/68k-SMT.kicad_pcb
+transistorfet/computie	hardware/68k-SBC/68kBoard.kicad_pcb
+transistorfet/computie	hardware/Z80-NQC/Z80Proto/Z80Proto.kicad_pcb
+jago85/Brutzelkarte_PCB	brutzelkarte.kicad_pcb
+brucemack/WARS-Birdhouse	kicad/WARS-Birdhouse-2/WARS-Birdhouse-2.kicad_pcb
+Allegra42/ZEReader-KiCad	ZEReader-Pico.kicad_pcb
+Musab-Hassan/aurora_keyboard	pcb/aurora_r.kicad_pcb
+Musab-Hassan/aurora_keyboard	pcb/aurora_l.kicad_pcb
+stonedDiscord/nonSNES	SNSP-CPU-01/SNSP-CPU-01.kicad_pcb
+stonedDiscord/nonSNES	SNSP-CPU-1CHIP/SNSP-CPU-1CHIP.kicad_pcb
+horvathgergo/esp8266-for-uppatvind	Hardware/Air-Purifier-Uppatvind.kicad_pcb
+I-M-Robotics-Lab/STM32-Quadcopter	1.Electronics/Hardware.kicad_pcb
+DuPAL-PAL-DUmper/DuPAL_Board	board/DuPal_V3/DuPal_V3.kicad_pcb
+DuPAL-PAL-DUmper/DuPAL_Board	board/DuPal_DIP/DuPal_DIP.kicad_pcb
+DuPAL-PAL-DUmper/DuPAL_Board	board/dupico_pods/pod_1702A_2708/pod_1702A_2708.kicad_pcb
+DuPAL-PAL-DUmper/DuPAL_Board	board/dupico_pods/pod_eprom_01/eprom_01.kicad_pcb
+YC-Lam/IP5328P-powerbank_design	usbpd_powerbank.kicad_pcb
+TweetyDaBird/Little-Big-Scroll	Little Big Scroll 6/v1.1.1/PCB/Little Big Scroll 6 - PCB.kicad_pcb
+TweetyDaBird/Little-Big-Scroll	Little Big Scroll 6/V1.01/PCB/Little Big Scroll 6.kicad_pcb
+TweetyDaBird/Little-Big-Scroll	Little Big Scroll 4/v1.00/PCB/Little_Big_Scroll_4.kicad_pcb
+TweetyDaBird/Little-Big-Scroll	Little Big Scroll 4/v2.00/PCB/Little_Big_Scroll_4.kicad_pcb
+sporkus/le_chiffre_keyboard_stm32	kicad/pcb_36key/stm32_chiffre_36keys.kicad_pcb
+sporkus/le_chiffre_keyboard_stm32	kicad/pcb/stm32_hotswap_chiffre.kicad_pcb
+MangoIV/le_chiff_ble	kicad/le_chiff_ble_hotswap/le_chiff_ble_hotswap.kicad_pcb
+MangoIV/le_chiff_ble	kicad/le_chiff_ble/le_chiff_ble.kicad_pcb
+somepin/qalble	pcb/QALBLE.kicad_pcb
+ProbablyNotArtyom/Blitz	Hardware/Rev.L/C68.kicad_pcb
+ProbablyNotArtyom/Blitz	Hardware/Rev.K/C68.kicad_pcb
+ProbablyNotArtyom/Blitz	Hardware/Rev.K/copy.kicad_pcb
+ProbablyNotArtyom/Blitz	Hardware/Rev.K/.C68.kicad_pcb
+pinguz97/Zynq-SoM	Zynq_SoM.kicad_pcb
+sebastienroy/shutter_speed_tester	design/Kicad_shutter_speed_tester/shutter_speed_tester.kicad_pcb
+mbtaylor1982/ReSDMAC	KiCad/ReSDMAC.kicad_pcb
+cester-ino/OTTO-hardware	OTTO-main/OTTO-main.kicad_pcb
+cester-ino/OTTO-hardware	OTTO-power/OTTO-power.kicad_pcb
+cester-ino/OTTO-hardware	OTTO-dac/OTTOdac.kicad_pcb
+ChrisChrisLoLo/pusheenz40	pcb/sadcatz40/sadcatz40.kicad_pcb
+RainbowLabsDE/USB2Speakon	USB2Speakon_PCB/USB2Speakon_PCB.kicad_pcb
+FutureSharks/preamp-two	PCBs/input-selector/input-selector.kicad_pcb
+FutureSharks/preamp-two	PCBs/mcu-board/mcu-board.kicad_pcb
+FutureSharks/preamp-two	PCBs/mdac-attenuator/mdac-attenuator.kicad_pcb
+dmadison/Sim-Racing-Shields	pcbs/Logitech_Shifter_Shield_Pro_Micro/Logitech_Shifter_Shield_Pro_Micro.kicad_pcb
+dmadison/Sim-Racing-Shields	pcbs/Logitech_Pedal_Shield_Pro_Micro/Logitech_Pedal_Shield_Pro_Micro.kicad_pcb
+miliar/saiboard	electronics/kicad_files/11x3/11x3.kicad_pcb
+miliar/saiboard	electronics/kicad_files/8x8/8x8.kicad_pcb
+miliar/saiboard	electronics/kicad_files/8x3/8x3.kicad_pcb
+miliar/saiboard	electronics/kicad_files/3x8/3x8.kicad_pcb
+sssata/fluxpad	ECAD/FluxpadKicad/Fluxpad.kicad_pcb
+thawney/PedalPiV2	PCB_Files/Through Hole/Kikad_Files/pedal-pi-Robin.kicad_pcb
+RandomDelta6/USB-Mouse	Mouse.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/CGS/Analog Switch Matrix/Electronics/Control/CGS Analog Switch Matrix Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/CGS/Analog Switch Matrix/Electronics/Main/CGS Analog Switch Matrix Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/4Ch Sample Player/Electronics/Main/HAGIWO 4Ch Sampler.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/6Ch Trigger Sequencer/Electronics/Main/HAGIWO 6Ch Gate Sequencer Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/Arduino VCO/Electronics/Main/Arduino VCO Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/Display/Electronics/Main/HAGIWO Display Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/Multiout/Electronics/Control/HAGIWO MultiOut Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/Multiout/Electronics/Main/HAGIWO MultiOut Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/Ringfolder/Electronics/Main/HAGIWO Ring Modulator Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/HAGIWO/VCF Diode Ladder Filter/Electronics/Main/VCF Diode Ladder Filter.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Haraldswerk/NGF-E LFO/Electronics/Main/Haraldswerk NGF-E LFO Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/MFOS/Dual VCA #2/Electronics/Control/Dual VCA #2 Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/MFOS/Dual VCA #2/Electronics/Main/Dual VCA #2 Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/MFOS/Eight Stage Phase Shifter/Electronics/Control/MFOS Eight Stage Phase Shifter - Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/MFOS/Eight Stage Phase Shifter/Electronics/Main/MFOS Eight Stage Phase Shifter - Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/MFOS/Noise Cornucopia/Electronics/Control/MFOS Noise Cornucopia Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/MFOS/Noise Cornucopia/Electronics/Main 1/MFOS Noise Cornucopia Main 1.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/MFOS/Noise Cornucopia/Electronics/Main 2/MFOS Noise Cornucopia Main 2.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Buffered Multiple SMD/Electronics/Main/Buffered Multiple SMD Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Buffered Multiple/Electronics/Main/Buffered Multiple Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Precision Adder/Electronics/Main/Slim Precision Adder Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Rectifier SMD/Electronics/Main/Rectifier Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Sample&Hold SMD/Electronics/Main/Sample_and_Hold SMD Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Sample&Hold/Electronics/Main/S&H Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Single Attenuator/Electronics/Main/Single Attenuator.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/VCA/Electronics/Main/Slimline VCA Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Slim Line/Voltage Controlled Switch/Electronics/Main/Slimline Voltage Controlled Switch - Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/4Ch Mixer/Electronics/Main/4CH Mixer.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Abakus/Electronics/Control/Abakus Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Atari Punk Console/Electronics/Main/APC Eurorack Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Baby8 Sequencer/Electronics/Main/Baby 8.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Classic ADSR/Electronics/Main/Classic ADSR Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Clock Divider/Electronics/Control/Clock Divider Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Clock Divider/Electronics/Main/Clock Divider Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Envelope Follower/Electronics/Main/Envelope Follower Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/LFO/Electronics/Main/LFO Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Manual Gate/Electronics/Control/Manual Gate Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Manual Gate/Electronics/Main/Manual Gate Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Power Module/Electronics/Main/Power Modul Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/Standard Line/Vactrol VCF/Electronics/Main/Vactrol VCF - Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/YuSynth/Balanced Modulator/Electronics/Main/YuSynth Dual Balanced Modulator Main.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/YuSynth/Improved Steiner VCF/Electronics/Control/YuSynth Improved Steiner VCF Control.kicad_pcb
+mzuelch/CATs-Eurosynth	Modules/YuSynth/Improved Steiner VCF/Electronics/Main/YuSynth Improved Steiner VCF Main.kicad_pcb

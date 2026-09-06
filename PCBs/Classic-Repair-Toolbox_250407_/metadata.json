@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/HovKlan-DH",
+  "source": "https://github.com/HovKlan-DH/Classic-Repair-Toolbox",
+  "author": "HovKlan-DH",
+  "retrieved at": "2026-09-06 13:58:00.041594",
+  "raw": "../../PCBs/Classic-Repair-Toolbox_250407_/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Classic-Repair-Toolbox_250407_/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.txt",
+    "source_commit": "4acc1a670fddae77389bbfa572f4909b7bbe6ea5",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20260206",
+  "kicad_version": "10.0",
+  "source_path": "Assets/Data/Commodore/C64/250407/KiCad data/250407_.kicad_pcb",
+  "source_commit": "1084179d4ce8fc114e20125259a9de6bafe336d5"
+}

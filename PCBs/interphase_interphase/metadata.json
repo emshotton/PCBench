@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Durburz",
+  "source": "https://github.com/Durburz/interphase",
+  "author": "Durburz",
+  "retrieved at": "2026-09-06 13:56:02.827709",
+  "raw": "../../PCBs/interphase_interphase/raw.kicad_pcb",
+  "cleaned": "../../PCBs/interphase_interphase/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "112a1c44b9a8e5c5d298e1f39321c2272380ad86",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 4",
+  "kicad_version": "4",
+  "source_path": "interphase.kicad_pcb",
+  "source_commit": "112a1c44b9a8e5c5d298e1f39321c2272380ad86"
+}

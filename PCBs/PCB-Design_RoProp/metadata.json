@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/embeddedalpha",
+  "source": "https://github.com/embeddedalpha/PCB-Design",
+  "author": "embeddedalpha",
+  "retrieved at": "2026-09-06 13:55:40.319862",
+  "raw": "../../PCBs/PCB-Design_RoProp/raw.kicad_pcb",
+  "cleaned": "../../PCBs/PCB-Design_RoProp/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "a6170a87b2f39b09be0f116fe120563eab830cb1",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "6_Axis_Robot_Controller/RoProp.kicad_pcb",
+  "source_commit": "a6170a87b2f39b09be0f116fe120563eab830cb1"
+}

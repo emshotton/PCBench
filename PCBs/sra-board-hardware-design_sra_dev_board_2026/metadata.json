@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/SRA-VJTI",
+  "source": "https://github.com/SRA-VJTI/sra-board-hardware-design",
+  "author": "SRA-VJTI",
+  "retrieved at": "2026-09-06 13:55:37.887046",
+  "raw": "../../PCBs/sra-board-hardware-design_sra_dev_board_2026/raw.kicad_pcb",
+  "cleaned": "../../PCBs/sra-board-hardware-design_sra_dev_board_2026/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/sra-board-hardware-design_sra_dev_board_2026/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "b1e04ee42f4269b9d898f6ebc6078bb7e53bd2a3",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "sra_dev_board_2026/sra_dev_board_2026.kicad_pcb",
+  "source_commit": "b1e04ee42f4269b9d898f6ebc6078bb7e53bd2a3"
+}

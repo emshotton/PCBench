@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/tzarc",
+  "source": "https://github.com/tzarc/keyboards",
+  "author": "tzarc",
+  "retrieved at": "2026-09-06 13:56:36.597739",
+  "raw": "../../PCBs/keyboards_ghoul/raw.kicad_pcb",
+  "cleaned": "../../PCBs/keyboards_ghoul/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/keyboards_ghoul/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "21dd586153f70b0247c3c38f8a8070891e49041d",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "Ghoul/v1.0/ghoul.kicad_pcb",
+  "source_commit": "21dd586153f70b0247c3c38f8a8070891e49041d"
+}

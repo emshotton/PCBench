@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Hydra-Designs",
+  "source": "https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb",
+  "author": "Hydra-Designs",
+  "retrieved at": "2026-09-06 13:58:22.576439",
+  "raw": "../../PCBs/project-hydra-meshtastic-pcb_meshtastic-diy/raw.kicad_pcb",
+  "cleaned": "../../PCBs/project-hydra-meshtastic-pcb_meshtastic-diy/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "3ff34b532b74792a773c70989041756519516835",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "meshtastic-diy.kicad_pcb",
+  "source_commit": "3ff34b532b74792a773c70989041756519516835"
+}

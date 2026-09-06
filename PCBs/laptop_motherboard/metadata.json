@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/byrantech",
+  "source": "https://github.com/byrantech/laptop",
+  "author": "byrantech",
+  "retrieved at": "2026-09-06 13:52:33.976274",
+  "raw": "../../PCBs/laptop_motherboard/raw.kicad_pcb",
+  "cleaned": "../../PCBs/laptop_motherboard/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/laptop_motherboard/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "007e853d2f83b203596a4d7961429e91b77840d3",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 6,
+  "CAD version": "KiCad 20241007",
+  "kicad_version": "8.99",
+  "source_path": "motherboard/motherboard.kicad_pcb",
+  "source_commit": "007e853d2f83b203596a4d7961429e91b77840d3"
+}

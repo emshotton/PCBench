@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/leomanangka",
+  "source": "https://github.com/leomanangka/esp32-4-channel-relays",
+  "author": "leomanangka",
+  "retrieved at": "2026-09-06 13:55:46.940362",
+  "raw": "../../PCBs/esp32-4-channel-relays_esp32-4-channel-relays/raw.kicad_pcb",
+  "cleaned": "../../PCBs/esp32-4-channel-relays_esp32-4-channel-relays/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/esp32-4-channel-relays_esp32-4-channel-relays/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "3c7d3b1eb80e781737f5ec5bed8cc10faca1ca0c",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "esp32-4-channel-relays.kicad_pcb",
+  "source_commit": "3c7d3b1eb80e781737f5ec5bed8cc10faca1ca0c"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ChrisChrisLoLo",
+  "source": "https://github.com/ChrisChrisLoLo/beyblock20",
+  "author": "ChrisChrisLoLo",
+  "retrieved at": "2026-09-06 13:57:09.375435",
+  "raw": "../../PCBs/beyblock20_mongus48/raw.kicad_pcb",
+  "cleaned": "../../PCBs/beyblock20_mongus48/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/beyblock20_mongus48/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "35ec340c98c467d73c1c24d0e067f0043cbcc20d",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/mongus48/mongus48.kicad_pcb",
+  "source_commit": "35ec340c98c467d73c1c24d0e067f0043cbcc20d"
+}

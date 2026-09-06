@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/CRImier",
+  "source": "https://github.com/CRImier/MyKiCad",
+  "author": "CRImier",
+  "retrieved at": "2026-09-06 13:57:35.936301",
+  "raw": "../../PCBs/MyKiCad_protoesp/raw.kicad_pcb",
+  "cleaned": "../../PCBs/MyKiCad_protoesp/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/MyKiCad_protoesp/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "4f01eaa6b3b0a269570c711e58ba4bf0f8446d11",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "ESP8266/protoesp/protoesp.kicad_pcb",
+  "source_commit": "4f01eaa6b3b0a269570c711e58ba4bf0f8446d11"
+}

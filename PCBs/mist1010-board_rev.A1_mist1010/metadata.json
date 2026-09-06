@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/UzixLS",
+  "source": "https://github.com/UzixLS/mist1010-board",
+  "author": "UzixLS",
+  "retrieved at": "2026-09-06 13:56:16.786487",
+  "raw": "../../PCBs/mist1010-board_rev.A1_mist1010/raw.kicad_pcb",
+  "cleaned": "../../PCBs/mist1010-board_rev.A1_mist1010/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/mist1010-board_rev.A1_mist1010/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "803038f2f173a9b4bd2cf95c222a2d7754514df9",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "pcb/rev.A1/mist1010.kicad_pcb",
+  "source_commit": "803038f2f173a9b4bd2cf95c222a2d7754514df9"
+}

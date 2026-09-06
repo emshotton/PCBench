@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/YC-Lam",
+  "source": "https://github.com/YC-Lam/IP5328P-powerbank_design",
+  "author": "YC-Lam",
+  "retrieved at": "2026-09-06 13:59:43.358314",
+  "raw": "../../PCBs/IP5328P-powerbank_design_usbpd_powerbank/raw.kicad_pcb",
+  "cleaned": "../../PCBs/IP5328P-powerbank_design_usbpd_powerbank/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/IP5328P-powerbank_design_usbpd_powerbank/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "5ee7f8beab0850d2a474630bbdaf65c30a711808",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20210424",
+  "kicad_version": "6",
+  "source_path": "usbpd_powerbank.kicad_pcb",
+  "source_commit": "5ee7f8beab0850d2a474630bbdaf65c30a711808"
+}

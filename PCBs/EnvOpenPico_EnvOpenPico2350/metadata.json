@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Envious-Data",
+  "source": "https://github.com/Envious-Data/EnvOpenPico",
+  "author": "Envious-Data",
+  "retrieved at": "2026-09-06 13:58:27.189536",
+  "raw": "../../PCBs/EnvOpenPico_EnvOpenPico2350/raw.kicad_pcb",
+  "cleaned": "../../PCBs/EnvOpenPico_EnvOpenPico2350/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/EnvOpenPico_EnvOpenPico2350/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "a88e551b400957efdab86bd4c97ebabbf63c78fd",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "RP2350/EnvOpenPico2350/EnvOpenPico2350.kicad_pcb",
+  "source_commit": "a88e551b400957efdab86bd4c97ebabbf63c78fd"
+}

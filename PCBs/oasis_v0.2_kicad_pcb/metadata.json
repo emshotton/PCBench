@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/justbuchanan",
+  "source": "https://github.com/justbuchanan/oasis",
+  "author": "justbuchanan",
+  "retrieved at": "2026-09-06 13:54:23.032650",
+  "raw": "../../PCBs/oasis_v0.2_kicad_pcb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/oasis_v0.2_kicad_pcb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/oasis_v0.2_kicad_pcb/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "3462f162f80e11c78705218441af37639d87bfdc",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "pcb/fabricated-boards/v0.2/kicad/pcb.kicad_pcb",
+  "source_commit": "3462f162f80e11c78705218441af37639d87bfdc"
+}

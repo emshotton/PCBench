@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/jago85",
+  "source": "https://github.com/jago85/Brutzelkarte_PCB",
+  "author": "jago85",
+  "retrieved at": "2026-09-06 13:59:30.991024",
+  "raw": "../../PCBs/Brutzelkarte_PCB_brutzelkarte/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Brutzelkarte_PCB_brutzelkarte/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "8092f61fddf7d663bd0b9afa4e51b442c957d41e",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "brutzelkarte.kicad_pcb",
+  "source_commit": "8092f61fddf7d663bd0b9afa4e51b442c957d41e"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/jpconstantineau",
+  "source": "https://github.com/jpconstantineau/ErgoTravel",
+  "author": "jpconstantineau",
+  "retrieved at": "2026-09-06 13:53:09.510434",
+  "raw": "../../PCBs/ErgoTravel_PCB_Choc_ErgoTravel/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ErgoTravel_PCB_Choc_ErgoTravel/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "e9be40f69359cc593c21303f7be7bc1916a83468",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "PCB_Choc/ErgoTravel.kicad_pcb",
+  "source_commit": "e9be40f69359cc593c21303f7be7bc1916a83468"
+}

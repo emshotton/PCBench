@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/klein0r",
+  "source": "https://github.com/klein0r/pcb-ws2812-wifi-controller",
+  "author": "klein0r",
+  "retrieved at": "2026-09-06 13:55:33.044117",
+  "raw": "../../PCBs/pcb-ws2812-wifi-controller_WS2812Controller/raw.kicad_pcb",
+  "cleaned": "../../PCBs/pcb-ws2812-wifi-controller_WS2812Controller/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/pcb-ws2812-wifi-controller_WS2812Controller/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "becf48ba00bd2d265ff2fd53a1c020a8aa84677a",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "WS2812Controller.kicad_pcb",
+  "source_commit": "becf48ba00bd2d265ff2fd53a1c020a8aa84677a"
+}

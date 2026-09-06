@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/UzixLS",
+  "source": "https://github.com/UzixLS/zx-sizif-512",
+  "author": "UzixLS",
+  "retrieved at": "2026-09-06 13:54:31.619258",
+  "raw": "../../PCBs/zx-sizif-512_rev.D_sizif512/raw.kicad_pcb",
+  "cleaned": "../../PCBs/zx-sizif-512_rev.D_sizif512/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d9b1f4d7138359cc4a0e54e57f7025f2e0c5747c",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "pcb/rev.D/sizif512.kicad_pcb",
+  "source_commit": "d9b1f4d7138359cc4a0e54e57f7025f2e0c5747c"
+}

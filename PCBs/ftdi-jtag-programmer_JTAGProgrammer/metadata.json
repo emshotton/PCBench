@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/anthony-bernaert",
+  "source": "https://github.com/anthony-bernaert/ftdi-jtag-programmer",
+  "author": "anthony-bernaert",
+  "retrieved at": "2026-09-06 13:55:45.856788",
+  "raw": "../../PCBs/ftdi-jtag-programmer_JTAGProgrammer/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ftdi-jtag-programmer_JTAGProgrammer/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/ftdi-jtag-programmer_JTAGProgrammer/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "c33005ef528526c137ba8fd1e9cf4e8ceab63a1f",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "JTAGProgrammer/JTAGProgrammer.kicad_pcb",
+  "source_commit": "c33005ef528526c137ba8fd1e9cf4e8ceab63a1f"
+}

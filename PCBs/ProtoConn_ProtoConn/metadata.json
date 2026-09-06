@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Pakequis",
+  "source": "https://github.com/Pakequis/ProtoConn",
+  "author": "Pakequis",
+  "retrieved at": "2026-09-06 13:59:23.838303",
+  "raw": "../../PCBs/ProtoConn_ProtoConn/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ProtoConn_ProtoConn/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/ProtoConn_ProtoConn/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "ffd7c437a89f6b5c9abed5efc0b30509473ba5fd",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "Hardware/ProtoConn.kicad_pcb",
+  "source_commit": "ffd7c437a89f6b5c9abed5efc0b30509473ba5fd"
+}

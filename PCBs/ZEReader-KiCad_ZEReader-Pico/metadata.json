@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Allegra42",
+  "source": "https://github.com/Allegra42/ZEReader-KiCad",
+  "author": "Allegra42",
+  "retrieved at": "2026-09-06 13:59:32.704213",
+  "raw": "../../PCBs/ZEReader-KiCad_ZEReader-Pico/raw.kicad_pcb",
+  "cleaned": "../../PCBs/ZEReader-KiCad_ZEReader-Pico/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/ZEReader-KiCad_ZEReader-Pico/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CERN-OHL-S-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "08c0682c11b4d0c3c5c2b0c4e7cad1d863d2261f",
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "ZEReader-Pico.kicad_pcb",
+  "source_commit": "08c0682c11b4d0c3c5c2b0c4e7cad1d863d2261f"
+}

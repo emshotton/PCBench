@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/hackclub",
+  "source": "https://github.com/hackclub/hackpad",
+  "author": "hackclub",
+  "retrieved at": "2026-09-06 13:54:47.529140",
+  "raw": "../../PCBs/hackpad_orpheuspad_pcb/raw.kicad_pcb",
+  "cleaned": "../../PCBs/hackpad_orpheuspad_pcb/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/hackpad_orpheuspad_pcb/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "005fe8df4b2f1c85364a4bd74b307b6c10c9685b",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "extras/orpheuspad/pcb/orpheuspad_pcb.kicad_pcb",
+  "source_commit": "005fe8df4b2f1c85364a4bd74b307b6c10c9685b"
+}

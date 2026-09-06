@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/Pakequis",
+  "source": "https://github.com/Pakequis/Bad-Thing-of-the-Edge-keyboard",
+  "author": "Pakequis",
+  "retrieved at": "2026-09-06 13:56:12.302738",
+  "raw": "../../PCBs/Bad-Thing-of-the-Edge-keyboard_Bad_Thing_of_the_Edge_Keyboard/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Bad-Thing-of-the-Edge-keyboard_Bad_Thing_of_the_Edge_Keyboard/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Bad-Thing-of-the-Edge-keyboard_Bad_Thing_of_the_Edge_Keyboard/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "f7e73685d0bc05957b2d3bedc635b2414c79a013",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "Hardware/Main-board/Bad Thing of the Edge Keyboard.kicad_pcb",
+  "source_commit": "f7e73685d0bc05957b2d3bedc635b2414c79a013"
+}

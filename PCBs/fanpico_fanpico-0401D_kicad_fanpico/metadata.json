@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/tjko",
+  "source": "https://github.com/tjko/fanpico",
+  "author": "tjko",
+  "retrieved at": "2026-09-06 13:57:48.055450",
+  "raw": "../../PCBs/fanpico_fanpico-0401D_kicad_fanpico/raw.kicad_pcb",
+  "cleaned": "../../PCBs/fanpico_fanpico-0401D_kicad_fanpico/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/fanpico_fanpico-0401D_kicad_fanpico/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "bb0f0482e954df9ceb096c75ed1fb84231d5096a",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20240108",
+  "kicad_version": "8.0",
+  "source_path": "boards/fanpico-0401D/kicad/fanpico.kicad_pcb",
+  "source_commit": "bb0f0482e954df9ceb096c75ed1fb84231d5096a"
+}

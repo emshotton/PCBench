@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ZSWatch",
+  "source": "https://github.com/ZSWatch/Watch-DevKit-HW",
+  "author": "ZSWatch",
+  "retrieved at": "2026-09-06 13:58:17.313998",
+  "raw": "../../PCBs/Watch-DevKit-HW_ZSWatch-Watch-DevKit/raw.kicad_pcb",
+  "cleaned": "../../PCBs/Watch-DevKit-HW_ZSWatch-Watch-DevKit/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/Watch-DevKit-HW_ZSWatch-Watch-DevKit/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "e3102a3bb5b75f46a0e20edbc5e3a159150383d2",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20241229",
+  "kicad_version": "9.0",
+  "source_path": "devkit/ZSWatch-Watch-DevKit.kicad_pcb",
+  "source_commit": "e3102a3bb5b75f46a0e20edbc5e3a159150383d2"
+}

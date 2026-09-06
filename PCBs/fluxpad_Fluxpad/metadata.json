@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/sssata",
+  "source": "https://github.com/sssata/fluxpad",
+  "author": "sssata",
+  "retrieved at": "2026-09-06 14:01:14.664216",
+  "raw": "../../PCBs/fluxpad_Fluxpad/raw.kicad_pcb",
+  "cleaned": "../../PCBs/fluxpad_Fluxpad/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/fluxpad_Fluxpad/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "GPL-3.0",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "8b2e752136033a81b9da01566e2e36ccafb966d6",
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 4,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "ECAD/FluxpadKicad/Fluxpad.kicad_pcb",
+  "source_commit": "8b2e752136033a81b9da01566e2e36ccafb966d6"
+}

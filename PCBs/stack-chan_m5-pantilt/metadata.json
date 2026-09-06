@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/stack-chan",
+  "source": "https://github.com/stack-chan/stack-chan",
+  "author": "stack-chan",
+  "retrieved at": "2026-09-06 13:52:40.058570",
+  "raw": "../../PCBs/stack-chan_m5-pantilt/raw.kicad_pcb",
+  "cleaned": "../../PCBs/stack-chan_m5-pantilt/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/stack-chan_m5-pantilt/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "5d9cc20d37420b47f7a3e2e4a34bb7c0018ae91b",
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "schematics/m5-pantilt/m5-pantilt.kicad_pcb",
+  "source_commit": "5d9cc20d37420b47f7a3e2e4a34bb7c0018ae91b"
+}

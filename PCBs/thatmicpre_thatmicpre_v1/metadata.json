@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/ojg",
+  "source": "https://github.com/ojg/thatmicpre",
+  "author": "ojg",
+  "retrieved at": "2026-09-06 13:58:11.233349",
+  "raw": "../../PCBs/thatmicpre_thatmicpre_v1/raw.kicad_pcb",
+  "cleaned": "../../PCBs/thatmicpre_thatmicpre_v1/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/thatmicpre_thatmicpre_v1/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "c9735275db939b22bd7b8fc5899793add46f3683",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20211014",
+  "kicad_version": "6",
+  "source_path": "desktop/thatmicpre_v1.kicad_pcb",
+  "source_commit": "c9735275db939b22bd7b8fc5899793add46f3683"
+}

@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/peej",
+  "source": "https://github.com/peej/lumberjack-keyboard",
+  "author": "peej",
+  "retrieved at": "2026-09-06 13:52:56.640159",
+  "raw": "../../PCBs/lumberjack-keyboard_lumberjack/raw.kicad_pcb",
+  "cleaned": "../../PCBs/lumberjack-keyboard_lumberjack/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "../../PCBs/lumberjack-keyboard_lumberjack/raw.kicad_pro",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "53bfb50b64dd8c938bdb6a964360709c7e6573e0",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20221018",
+  "kicad_version": "7",
+  "source_path": "lumberjack.kicad_pcb",
+  "source_commit": "53bfb50b64dd8c938bdb6a964360709c7e6573e0"
+}

@@ -12,6 +12,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "0xjmux/ESP-PROG-Adapter": {
+    "boards": [
+      "ESP-PROG-Adapter_ESPPROG-Adapter"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "4a74ef898489da83ddcd2ad42852188cf0471b6c",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "1Bitsy/1bitsy-hardware": {
     "boards": [
       "1Bitsy_1bitsy"
@@ -272,6 +287,36 @@
     "spdx_id": "GPL-2.0",
     "status": "licensed"
   },
+  "Allegra42/ZEReader-KiCad": {
+    "boards": [
+      "ZEReader-KiCad_ZEReader-Pico"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "08c0682c11b4d0c3c5c2b0c4e7cad1d863d2261f",
+    "spdx_id": "CERN-OHL-S-2.0",
+    "status": "licensed"
+  },
+  "Allen-Synthesis/EuroPi": {
+    "boards": [
+      "EuroPi_europi-surface-mount"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC0-1.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "path": "LICENSE",
+    "source_commit": "2df37f026d711c4eb57f85e6b9990cbda9955f9b",
+    "spdx_id": "CC0-1.0",
+    "status": "licensed"
+  },
   "AntonioMR/ATMEGA328-Motor-Board": {
     "boards": [
       "ATMEGA328-Motor-Board_ATMEGA328_Motor_Board"
@@ -352,6 +397,23 @@
     "source_commit": "2d1d5c2dba2e135729ce5cc566e55da737c02052",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "AzonInc/Doorman": {
+    "boards": [
+      "Doorman_doorman",
+      "Doorman_doorman_slot",
+      "Doorman_doorman_slot_programmer"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "fdec5c030e77bb8e0219d745cc0282139c96836c",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "BASLQC/xwhatits-capsense-controller": {
     "boards": [
@@ -570,11 +632,11 @@
       "CC-BY-SA-3.0"
     ],
     "file": "LICENSE",
-    "name": null,
+    "name": "TAPR Open Hardware License v1.0",
     "path": "LICENSE",
     "source_commit": "deeaad857fa22a96935c679633f2695029e5d013",
-    "spdx_id": null,
-    "status": "licensed-unclassified"
+    "spdx_id": "TAPR-OHL-1.0",
+    "status": "licensed"
   },
   "CIDARLAB/Neptune-Hardware": {
     "boards": [
@@ -588,6 +650,24 @@
     "source_commit": "e9e0f3c1a0f1b3fa4fa30385295c1bd84ec86f6c",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "CRImier/MyKiCad": {
+    "boards": [
+      "MyKiCad_framework_mobo_lefthalf",
+      "MyKiCad_protoesp",
+      "MyKiCad_vaio_re",
+      "MyKiCad_zpn_devboard"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "4f01eaa6b3b0a269570c711e58ba4bf0f8446d11",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "CalmDownKarm/BML-Badges": {
     "boards": [
@@ -615,6 +695,101 @@
     "source_commit": "90dd2d9a2c5c04955202701fe2ebe6838d3e2794",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "ChrisChrisLoLo/bancouver40": {
+    "boards": [
+      "bancouver40_bancouver40_cfx",
+      "bancouver40_dogema48_cfx",
+      "bancouver40_kowgary16_cfx"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ff316e6f3eb91371fda0ae5a82a827710402f296",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "ChrisChrisLoLo/banime40": {
+    "boards": [
+      "banime40_banime40"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "f447898e94577a8444246a8539a5e17d64ea6388",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
+  },
+  "ChrisChrisLoLo/beyblock20": {
+    "boards": [
+      "beyblock20_beyblock20",
+      "beyblock20_knoblin3",
+      "beyblock20_mongus48"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "35ec340c98c467d73c1c24d0e067f0043cbcc20d",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "ChrisChrisLoLo/keezyboost40": {
+    "boards": [
+      "keezyboost40_keezyboost40",
+      "keezyboost40_temp_keezyboost40"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "b49c7f98142f642783c6d620a3df6eaf625107f3",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
+  },
+  "ChrisChrisLoLo/pusheenz40": {
+    "boards": [
+      "pusheenz40_sadcatz40"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "da693c6834d700beb093a96330b840f39565b9c9",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "Chrismettal/EleLab_v2": {
+    "boards": [
+      "EleLab_v2_EleLab_v2_PowerFeed"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "9306cddca1e8b6b14c4f6a4f572579d2eedd44df",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "ChristopheBraud/recalbox-gpio-board": {
     "boards": [
@@ -812,6 +987,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "Domesday86/DomesdayDuplicator": {
+    "boards": [
+      "DomesdayDuplicator_Domesday_Duplicator"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "bb2e11aa17b751d2180bed38e574233ce137b84d",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "Drc3p0/Prototyping_Workshop": {
     "boards": [
       "Prototyping_Workshop_Prototyping_PCB"
@@ -825,6 +1015,24 @@
     "path": "LICENSE",
     "source_commit": "fdc8506c4ded2ff097cae93be277aef5ab328ba7",
     "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "DuPAL-PAL-DUmper/DuPAL_Board": {
+    "boards": [
+      "DuPAL_Board_DuPal_DIP",
+      "DuPAL_Board_DuPal_V3",
+      "DuPAL_Board_eprom_01",
+      "DuPAL_Board_pod_1702A_2708"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "a8e19a8700ddf113d743d13a2920727c53209b01",
+    "spdx_id": "CC-BY-SA-4.0",
     "status": "licensed"
   },
   "Duckle29/Hypfer-RGB-W-LED-Controller": {
@@ -856,6 +1064,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "Durburz/interphase": {
+    "boards": [
+      "interphase_interphase"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "112a1c44b9a8e5c5d298e1f39321c2272380ad86",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "EGG-electric-unicycle/EUC-VESC_electronics": {
     "boards": [
       "EUC-VESC_electronics_BJT",
@@ -869,6 +1092,22 @@
     "source_commit": "306895c2d19b752f1eeb24ef9b1f1d6fb2c967c9",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "EanNewton/Awesome-Keebs": {
+    "boards": [
+      "Awesome-Keebs_torn_left",
+      "Awesome-Keebs_torn_right"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9ee1d1a5d093338de18b5e5ca830db0264aa6bb5",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "ElectronicCats/LoRaCatKitty": {
     "boards": [
@@ -900,6 +1139,21 @@
     "spdx_id": "AGPL-3.0",
     "status": "licensed"
   },
+  "ElectronicCats/NFC-Copy-Cat": {
+    "boards": [
+      "NFC-Copy-Cat_nfc_copy_cat"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "78972552df13c470753d921072d58441aa090e3b",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "EmbeddedDesign/BGM111-External-Programmer": {
     "boards": [
       "BGM111-External-Programmer_BGM111_Programmer"
@@ -927,6 +1181,41 @@
     "source_commit": "8a68ab27c7dbb34aaabf8fc8d9151dcb476a194a",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "Envious-Data/Env-KB": {
+    "boards": [
+      "Env-KB_ENV_KB",
+      "Env-KB_ENV_KB_RGB",
+      "Env-KB_EnvKB_HS"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "1e0873a8409cca1332537cb4934c04b54ce33a7a",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "Envious-Data/EnvOpenPico": {
+    "boards": [
+      "EnvOpenPico_EliteMicro2040",
+      "EnvOpenPico_EnvOpenPico-RP2040",
+      "EnvOpenPico_EnvOpenPico2350",
+      "EnvOpenPico_EnvPicoLiPo"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "a88e551b400957efdab86bd4c97ebabbf63c78fd",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "ExplodingLemur/ezusb-logicanalyzer": {
     "boards": [
@@ -1023,6 +1312,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "FPGAwars/icezum": {
+    "boards": [
+      "icezum_icezum"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "dbad423670419b82018bf6e33c418fc35558c1be",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "FaradayRF/FaradayRF-Hardware": {
     "boards": [
       "FaradayRF-Hardware_Faraday"
@@ -1118,6 +1422,23 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "FutureSharks/preamp-two": {
+    "boards": [
+      "preamp-two_input-selector",
+      "preamp-two_mcu-board",
+      "preamp-two_mdac-attenuator"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "6001f142f6b35608b6ad879fad4a7894daf67b02",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "FyberLabs/perfplusplus": {
     "boards": [
       "perfplusplus_Ard-perf++"
@@ -1130,6 +1451,36 @@
     "source_commit": "8994bbdb4442e705bdf96c1c0403b913c81c00a3",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "GEIGEIGEIST/KLOR": {
+    "boards": [
+      "KLOR_klor1_3"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "e2f9c2cde5200189e57c4f89eeff90686cc359fe",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "GEIGEIGEIST/KLOTZ": {
+    "boards": [
+      "KLOTZ_Klotz"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "b431d4ea56123881287fb714b6876fbde540256f",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "Gacathon/LeeChee": {
     "boards": [
@@ -1244,6 +1595,41 @@
     "spdx_id": "0BSD",
     "status": "licensed"
   },
+  "Goga64/ULK": {
+    "boards": [
+      "ULK_ULK",
+      "ULK_ULK_pg1316s_Original_Silkscreen_ULK",
+      "ULK_ULK_sl_PG1316s",
+      "ULK_ULK_ulp_Stealth_Silkscreen_ULK"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "32fccf4621cc56d1907aa7889cb8d95d5e8625b5",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "GuitarML/FunBox": {
+    "boards": [
+      "FunBox_funbox",
+      "FunBox_funbox_v2",
+      "FunBox_funbox_v3"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE.txt",
+    "source_commit": "c0409dde8e381027688f3cc212951c605247a18f",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "HYknight/HY-AI7688H-RevA": {
     "boards": [
       "HY-AI7688H-RevA_HY-AI7688H"
@@ -1332,6 +1718,24 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "HovKlan-DH/Classic-Repair-Toolbox": {
+    "boards": [
+      "Classic-Repair-Toolbox_250407_",
+      "Classic-Repair-Toolbox_C64-250469-KiCad",
+      "Classic-Repair-Toolbox_KU-14194HB-REV-B-KiCad",
+      "Classic-Repair-Toolbox_Open128"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.txt",
+    "source_commit": "4acc1a670fddae77389bbfa572f4909b7bbe6ea5",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "HubertD/mdbwerk": {
     "boards": [
       "mdbwerk_mdbwerk"
@@ -1345,6 +1749,22 @@
     "path": "LICENSE.txt",
     "source_commit": "2212e861a34341c6f687bf26fe499b99aafa7ac3",
     "spdx_id": "CERN-OHL-1.2",
+    "status": "licensed"
+  },
+  "Hydra-Designs/project-hydra-meshtastic-pcb": {
+    "boards": [
+      "project-hydra-meshtastic-pcb_Hydra_Base",
+      "project-hydra-meshtastic-pcb_meshtastic-diy"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "3ff34b532b74792a773c70989041756519516835",
+    "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
   "HydroPWNics/SunLeaf": {
@@ -1373,6 +1793,21 @@
     "path": "firmware/usbdrv/License.txt",
     "source_commit": "1b2793ebcc37f72ef0f755994143358bcbfdaaad",
     "spdx_id": "GPL-2.0",
+    "status": "licensed"
+  },
+  "I-M-Robotics-Lab/STM32-Quadcopter": {
+    "boards": [
+      "STM32-Quadcopter_Hardware"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "53a1ec15ecc6eadba40c16c8c6e2752a0bb6d37e",
+    "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
   "IGBC/SMDBreakouts": {
@@ -1572,6 +2007,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "IvDm/Z-probe-on-smd-resistors-2512": {
+    "boards": [
+      "Z-probe-on-smd-resistors-2512_kicad_hx711_tyny85"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "9a722ca79c7fa9b4263483c0a0b896bbc3eb169d",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "JDRobotter/esp8266_network_speaker": {
     "boards": [
       "esp8266_network_speaker_esp_network_speaker"
@@ -1611,6 +2061,22 @@
     "path": "LICENSE",
     "source_commit": "e638b81daef68ff12d93f52ec12bd331fdb17832",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "Jana-Marie/EF-S-Adapter": {
+    "boards": [
+      "EF-S-Adapter_lensmount-v1",
+      "EF-S-Adapter_lensmount-v1.1"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "fea1dd99eeb21a772cd7713c1606622355f8a774",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "Jana-Marie/Otter-Iron": {
@@ -1691,6 +2157,21 @@
     "path": "LICENSE",
     "source_commit": "413e4c963f38c12b7948b0283cdcdc56078716aa",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "Jana-Marie/ligra": {
+    "boards": [
+      "ligra_ligra_back"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "8a98f3938c20fe3ed07bfb34e7d43f243e21f519",
+    "spdx_id": "CERN-OHL-S-2.0",
     "status": "licensed"
   },
   "JavierIH/miniKame": {
@@ -1835,6 +2316,54 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "KCORES/KCORES-FlexibleLOM-Adapter": {
+    "boards": [
+      "KCORES-FlexibleLOM-Adapter_KCORES-FlexibleLOM-Adapter"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "2401923550d467905b3312f506ad84a59c6e1417",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "KCORES/OCP2PCIe": {
+    "boards": [
+      "OCP2PCIe_OCP2PCIe-H-F-4-V1.1Beta_V1",
+      "OCP2PCIe_OCP2PCIe-H-F-4-V1.1Beta_v1-cut10x10",
+      "OCP2PCIe_V1",
+      "OCP2PCIe_V1-cut10x10"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "4d2b9eb8e4dc02ff2dccc568d7ee06ad82f97e78",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "KOEGlike/meko": {
+    "boards": [
+      "meko_touchpad"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ba4dae696c81a16ff8d3246e7fc15855abfb85de",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "KaeptnBalu/Arduino_Lipo_Storage_Discharger": {
     "boards": [
       "Arduino_Lipo_Storage_Discharger_Lipo_Storage_Discharger"
@@ -1874,6 +2403,51 @@
     "source_commit": "2e4625b691496087fc7f03da109ed415673666e2",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "LNH-team/Lost-NDS-TV": {
+    "boards": [
+      "Lost-NDS-TV_NDS_TV_OUT_V1I2"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "66d63c649346b6a393fa9e81254ea87aa392693d",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "Ladniy/TK44": {
+    "boards": [
+      "TK44_TK44"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "b4f470cccce0f2e080851dd49cce4b4010973f2a",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
+  "Ladniy/jiran-ble-lite": {
+    "boards": [
+      "jiran-ble-lite_jiran-ble-lite"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "c2a5ef422c265f0d4e3d38f81c557ca802eab125",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
   },
   "LasDesu/Aleste-520EX": {
     "boards": [
@@ -2194,6 +2768,22 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "MangoIV/le_chiff_ble": {
+    "boards": [
+      "le_chiff_ble_le_chiff_ble",
+      "le_chiff_ble_le_chiff_ble_hotswap"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ccb3746353adb5eeb89163c58424c75aca6e1990",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "ManiacalLabs/LongPixel": {
     "boards": [
       "LongPixel_AnalogDriverMini"
@@ -2453,6 +3043,38 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "MotorDynamicsLab/Leviathan": {
+    "boards": [
+      "Leviathan_Leviathan",
+      "Leviathan_Leviathan_V1.3"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "878c3c4893ea353552c957f574509f9890e1e37a",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "Musab-Hassan/aurora_keyboard": {
+    "boards": [
+      "aurora_keyboard_aurora_l",
+      "aurora_keyboard_aurora_r"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "8c0d0fea01fd20bc9c4769cf0fff24cfab21dfcc",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "Neotron-Compute/Neotron-32-Hardware": {
     "boards": [
       "kitspace_neotron-32"
@@ -2479,6 +3101,36 @@
     "source_commit": "517fe5ffcf578f2fc5b9dc4051a62d54b8c94b92",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "New-England-Weather-Balloon-Society/Tiny4FSK": {
+    "boards": [
+      "Tiny4FSK_Tiny4FSK"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENSE-HARDWARE",
+    "source_commit": "b8f3be4fe2bba1b6bbffd978298f54173c6b5890",
+    "spdx_id": "CERN-OHL-W-2.0",
+    "status": "licensed"
+  },
+  "Nicell/epaper-102": {
+    "boards": [
+      "epaper-102_epaper-102"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "8334541648bbd4debf4f04a253b8b47aa7b2c64d",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "NorbotNorway/TeensyProtoboard": {
     "boards": [
@@ -2624,6 +3276,51 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "Open-Authenticator/hardware-design": {
+    "boards": [
+      "hardware-design_open_authenticator"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "792f274383caa4e85a81012677b7e58904024db6",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "Open-Smartwatch/open-smartwatch-gps": {
+    "boards": [
+      "open-smartwatch-gps_osw"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "744b1f4074e90fff00ded519dc4430f6050fd8d2",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "Open-Smartwatch/open-smartwatch-light": {
+    "boards": [
+      "open-smartwatch-light_osw-light"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "55ce0ec0e0254e03b575917788cb001507b01619",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "OpenElectronicsLab/OpenHardwareExG_ActiveElectrode": {
     "boards": [
       "OpenHardwareExG_ActiveElectrode_OpenHardwareExG_ActiveElectrode"
@@ -2766,6 +3463,36 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "Pakequis/Bad-Thing-of-the-Edge-keyboard": {
+    "boards": [
+      "Bad-Thing-of-the-Edge-keyboard_Bad_Thing_of_the_Edge_Keyboard"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "f7e73685d0bc05957b2d3bedc635b2414c79a013",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "Pakequis/ProtoConn": {
+    "boards": [
+      "ProtoConn_ProtoConn"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "ffd7c437a89f6b5c9abed5efc0b30509473ba5fd",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
+  },
   "PhuongNguyenNMP/fingerprint-with-esp32": {
     "boards": [
       "fingerprint-with-esp32_quet van tay"
@@ -2829,6 +3556,24 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "ProbablyNotArtyom/Blitz": {
+    "boards": [
+      "Blitz_.C68",
+      "Blitz_C68",
+      "Blitz_Rev.K_C68",
+      "Blitz_copy"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "0f6b477a3eb6c6d5381d5f9cdc2158616726fb09",
+    "spdx_id": "GPL-2.0",
+    "status": "licensed"
+  },
   "Project-Aurora/RainbowFox": {
     "boards": [
       "RainbowFox_RainbowFox"
@@ -2872,6 +3617,21 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "RainbowLabsDE/USB2Speakon": {
+    "boards": [
+      "USB2Speakon_USB2Speakon_PCB"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENSE.txt",
+    "source_commit": "69c398a24398514b7fbed54ed7135db6eff4d0b0",
+    "spdx_id": "CERN-OHL-W-2.0",
+    "status": "licensed"
+  },
   "Ralim/OpenMPPT": {
     "boards": [
       "OpenMPPT_OpenMPPT"
@@ -2913,6 +3673,21 @@
     "source_commit": "47e51ee18e5fe9e276e9c7846df868327af3f860",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "RandomDelta6/USB-Mouse": {
+    "boards": [
+      "USB-Mouse_Mouse"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "403dc37bdf09aad633af2cb44b4aff8dad6c8bdb",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
   },
   "Ratfink/sonic3_feram_adapter": {
     "boards": [
@@ -2991,6 +3766,22 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "SRA-VJTI/sra-board-hardware-design": {
+    "boards": [
+      "sra-board-hardware-design_lsa",
+      "sra-board-hardware-design_sra_dev_board_2026"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "b1e04ee42f4269b9d898f6ebc6078bb7e53bd2a3",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "Sakura-IT/akuhei": {
     "boards": [
       "akuhei_akuhei"
@@ -3016,6 +3807,21 @@
     "source_commit": "6349a9f55b45bbfa55c0f21134cea7274f4daa0b",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "Schluggi/AIOsense": {
+    "boards": [
+      "AIOsense_AIOsense"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE.txt",
+    "source_commit": "86409aeb2286a8cf45cedc35edd2ba84d7e83ac7",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "Scottapotamas/typec-charger": {
     "boards": [
@@ -3087,6 +3893,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "SimonMerrett/SOICbite": {
+    "boards": [
+      "SOICbite_SOICbite_SWD"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-2-Clause"
+    ],
+    "file": "LICENSE",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "path": "LICENSE",
+    "source_commit": "ef1ad26febff8ace92e256f7026b4203fd2161e5",
+    "spdx_id": "BSD-2-Clause",
+    "status": "licensed"
+  },
   "SindormirNet/S4A-Mini-board": {
     "boards": [
       "S4A-Mini-board_s4a-mini-board"
@@ -3114,6 +3935,24 @@
     "source_commit": "48fbeadfd8c3c94ae15c6391fdb8d3f1228b615c",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "Spaceboards/SpaceboardsHardware": {
+    "boards": [
+      "SpaceboardsHardware_Pancake_v8",
+      "SpaceboardsHardware_WideZlant",
+      "SpaceboardsHardware_dropin",
+      "SpaceboardsHardware_keyboard"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "dd4fe15e030dee4aa9de2783cbc442bf9e349df2",
+    "spdx_id": "CERN-OHL-W-2.0",
+    "status": "licensed"
   },
   "SteelLiras/OvenController": {
     "boards": [
@@ -3260,6 +4099,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "TheusHen/EEGFrontier": {
+    "boards": [
+      "EEGFrontier_EEGFrontier"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "1426b6fd3627ee5fc5a5a80d99b86f6d6ab9565a",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "TobiasKaiser/8088_sbc2_pcb": {
     "boards": [
       "8088_sbc2_pcb_8088_sbc2"
@@ -3285,6 +4139,24 @@
     "source_commit": "fa7866f4de23114dff9760242b7308e9841d3243",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "TweetyDaBird/Little-Big-Scroll": {
+    "boards": [
+      "Little-Big-Scroll_Little_Big_Scroll_4",
+      "Little-Big-Scroll_Little_Big_Scroll_6",
+      "Little-Big-Scroll_Little_Big_Scroll_6_-_PCB",
+      "Little-Big-Scroll_PCB_Little_Big_Scroll_4"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "97dc5f4876bb283ea938eaba5a553b861abf4b4e",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
   },
   "Tyler-Ward/stacklight-hardware": {
     "boards": [
@@ -3385,6 +4257,24 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "UzixLS/mist1010-board": {
+    "boards": [
+      "mist1010-board_mist1010",
+      "mist1010-board_rev.A1_mist1010",
+      "mist1010-board_rev.B_mist1010",
+      "mist1010-board_rev.C1_mist1010"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "803038f2f173a9b4bd2cf95c222a2d7754514df9",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "UzixLS/nanoSwinSidC": {
     "boards": [
       "nanoSwinSidC_nanoSwinSidC"
@@ -3398,6 +4288,24 @@
     "path": "LICENSE",
     "source_commit": "65206a3140eaa9705a9d7db69496fc16ad712863",
     "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "UzixLS/pc-kharon-386": {
+    "boards": [
+      "pc-kharon-386_kharon386_main",
+      "pc-kharon-386_kharon386_top",
+      "pc-kharon-386_rev.A1_kharon386_main",
+      "pc-kharon-386_rev.A1_kharon386_top"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "83f08c6beea183fbf4421722469d7efb46206c52",
+    "spdx_id": "CC-BY-SA-4.0",
     "status": "licensed"
   },
   "UzixLS/rgb2ypbpr": {
@@ -3427,6 +4335,24 @@
     "name": "MIT License",
     "path": "LICENSE",
     "source_commit": "c78328a6793faa3b8a65ac85a5f5585e2217aeca",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "UzixLS/zx-sizif-512": {
+    "boards": [
+      "zx-sizif-512_rev.D1_sizif512",
+      "zx-sizif-512_rev.D_sizif512",
+      "zx-sizif-512_rev.E1_sizif512",
+      "zx-sizif-512_sizif512"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d9b1f4d7138359cc4a0e54e57f7025f2e0c5747c",
     "spdx_id": "MIT",
     "status": "licensed"
   },
@@ -3636,6 +4562,36 @@
     "spdx_id": "BSD-3-Clause",
     "status": "licensed"
   },
+  "YC-Lam/IP5328P-powerbank_design": {
+    "boards": [
+      "IP5328P-powerbank_design_usbpd_powerbank"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "5ee7f8beab0850d2a474630bbdaf65c30a711808",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "ZSWatch/Watch-DevKit-HW": {
+    "boards": [
+      "Watch-DevKit-HW_ZSWatch-Watch-DevKit"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "e3102a3bb5b75f46a0e20edbc5e3a159150383d2",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "Zidit/Usb_dac": {
     "boards": [
       "Usb_dac_dac"
@@ -3648,6 +4604,37 @@
     "source_commit": "8d7026615d965f6d890508933daf53fd6bb62cf8",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "ZoidTechnology/PCIce": {
+    "boards": [
+      "PCIce_pcice"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "license.md",
+    "source_commit": "d605e736a5d2fd73294d43cc33adf127921dd9a8",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "a-little-wifi/Tinyriser": {
+    "boards": [
+      "Tinyriser_TinyRiser",
+      "Tinyriser_TinyRiser_frontled"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "c8090e004b4f58810e51e6224c92a57748990bc0",
+    "spdx_id": "CERN-OHL-S-2.0",
+    "status": "licensed"
   },
   "a-wai/nanoTracer": {
     "boards": [
@@ -3821,6 +4808,24 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "afiskon/hbr-mk2": {
+    "boards": [
+      "hbr-mk2_hbr-mk2-bpfs",
+      "hbr-mk2_hbr-mk2-digital",
+      "hbr-mk2_hbr-mk2-lpfs",
+      "hbr-mk2_hbr-mk2-rxtx"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "ddc0cab1eaaeae24eac058d85608a6b3cb4265a2",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "agrede/xmasOrn": {
     "boards": [
       "xmasOrn_xmasOrn"
@@ -3967,6 +4972,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "andreisperid/E-TKT": {
+    "boards": [
+      "E-TKT_e-tkt"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d63a636e16f25aaf3568ad580cc7558c940871c9",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "andrew-bolin/mosavr": {
     "boards": [
       "mosavr_pcie1x_backplane",
@@ -4088,6 +5108,21 @@
     "spdx_id": "SHL-2.1",
     "status": "licensed"
   },
+  "anthony-bernaert/ftdi-jtag-programmer": {
+    "boards": [
+      "ftdi-jtag-programmer_JTAGProgrammer"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "c33005ef528526c137ba8fd1e9cf4e8ceab63a1f",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "anthonyagarza/Apple-M0110-BT": {
     "boards": [
       "Apple-M0110-BT_Apple M0110"
@@ -4101,6 +5136,21 @@
     "path": "LICENSE",
     "source_commit": "1fb080858d6655d7b2bf12809a26eebb9f3a4f53",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "antmicro/jetson-nano-baseboard": {
+    "boards": [
+      "jetson-nano-baseboard_jetson-nano-baseboard"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "d8d0b2d71ab4cc4bcdb204a09f78be40d4c8cda3",
+    "spdx_id": "Apache-2.0",
     "status": "licensed"
   },
   "apparentlymart/wordclock": {
@@ -4170,6 +5220,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "ashpil/Model-M-Type-C": {
+    "boards": [
+      "Model-M-Type-C_controller"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "c19f9f01808181bb1ac8940741cea57409bee81c",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "asukiaaa/esp32stack": {
     "boards": [
       "esp32stack_esp32stack"
@@ -4182,6 +5247,21 @@
     "source_commit": "a29c037a609503f1c381e05b932e96790165f8da",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "atopile/spin-servo-drive": {
+    "boards": [
+      "spin-servo-drive_servo-drive"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "b8823c244b9eaba1f4af593a242060d41d691c21",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "automote/thingBot-LoRa": {
     "boards": [
@@ -4227,6 +5307,21 @@
     "path": "LICENSE",
     "source_commit": "185fad84a97c599c8bf43eb77c9d8c3c7784609f",
     "spdx_id": "BSD-3-Clause",
+    "status": "licensed"
+  },
+  "b-karl/KBIC65": {
+    "boards": [
+      "KBIC65_kbic65"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d024555ba0272be7171bddea51452245b6200383",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "baldengineer/Raspberry-Pi-Soft-Power-Controller": {
@@ -4396,6 +5491,22 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "bbogush/nand_programmer": {
+    "boards": [
+      "nand_programmer_adapter_tsop48",
+      "nand_programmer_nand_programmator"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.txt",
+    "source_commit": "4d840b7afff7c1a1c02eacce3a72761cd0f58c93",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "bbtinkerer/PsuFanController": {
     "boards": [
       "PsuFanController_FanController"
@@ -4424,6 +5535,22 @@
     "path": "LICENSE.TXT",
     "source_commit": "07af0b5ed41b1d3256f98be155d1c6f9e38655e4",
     "spdx_id": "CC-BY-4.0",
+    "status": "licensed"
+  },
+  "beekeeb/piantor": {
+    "boards": [
+      "piantor_keyboard_pcb",
+      "piantor_left_keyboard_pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "cd847afb4f9a86e8c1c8e36f243140644013afb2",
+    "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
   "berryelectronics/Omega2-Berrydock": {
@@ -4470,6 +5597,21 @@
     "path": "LICENSE",
     "source_commit": "1c642fe2b00fbf83324e2228826ad341f687ce45",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "biomurph/Mouse": {
+    "boards": [
+      "Mouse_Mouse"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "4f418225c022f810699c22afb629939f062e38d2",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "biosafetylvl5/mEncoder": {
@@ -4682,6 +5824,39 @@
     "spdx_id": "GPL-2.0",
     "status": "licensed"
   },
+  "brucemack/WARS-Birdhouse": {
+    "boards": [
+      "WARS-Birdhouse_WARS-Birdhouse-2"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ddcb0b0ed3072cf53628752fc189a9a8da3f14b2",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "byrantech/laptop": {
+    "boards": [
+      "laptop_audio",
+      "laptop_keyboard",
+      "laptop_motherboard",
+      "laptop_power"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "007e853d2f83b203596a4d7961429e91b77840d3",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "c-/marlin-neopixel-bridge": {
     "boards": [
       "marlin-neopixel-bridge_ATtiny85_Marneo"
@@ -4695,6 +5870,21 @@
     "path": "LICENSE",
     "source_commit": "f4edb665cac9aa3dcd30154780a4014bbc5f7318",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "camrbuss/pinci": {
+    "boards": [
+      "pinci_pinci"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "4956f50cf3902504b41de4bbb62cca7649930eb4",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "carlossless/mac-pro-conversion": {
@@ -4741,6 +5931,23 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "cester-ino/OTTO-hardware": {
+    "boards": [
+      "OTTO-hardware_OTTO-main",
+      "OTTO-hardware_OTTO-power",
+      "OTTO-hardware_OTTOdac"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "0381fe6cdd12a34116f1508a3e4bf068d7713391",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "cherault/16x12-bits-I2C": {
     "boards": [
       "16x12-bits-I2C_I2C_Servo"
@@ -4782,6 +5989,21 @@
     "path": "apps/LICENSE",
     "source_commit": "9156b36226a3adf92bc7e62562795ec622693bfb",
     "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "chili-chips-ba/openPCIE": {
+    "boards": [
+      "openPCIE_openpci2-backplane"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "file": "LICENSE",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "LICENSE",
+    "source_commit": "582f3121939c4993f2cad6807f16def73c3612e0",
+    "spdx_id": "BSD-3-Clause",
     "status": "licensed"
   },
   "chrisgillis/nextbusclock": {
@@ -5051,6 +6273,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "codetiger/GameTiger": {
+    "boards": [
+      "GameTiger_GameTiger"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "a91717307f2dc7cfff2d0075bddcbd80a0b22a29",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "cody82/LiPoSensor": {
     "boards": [
       "LiPoSensor_lipo_sensor"
@@ -5078,11 +6315,11 @@
       "MIT"
     ],
     "file": "LICENSE",
-    "name": null,
+    "name": "TAPR Open Hardware License v1.0",
     "path": "LICENSE.md",
     "source_commit": "c190bd2a1a87e0dffb57c853fdb6b780aea9d983",
-    "spdx_id": null,
-    "status": "licensed-unclassified"
+    "spdx_id": "TAPR-OHL-1.0",
+    "status": "licensed"
   },
   "cosmoproject/bypass_crossmix": {
     "boards": [
@@ -5096,6 +6333,24 @@
     "source_commit": "b33aea9df9c316e7ed871f68ce34bba60fe44e1f",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "crmaykish/mackerel-68k": {
+    "boards": [
+      "mackerel-68k_mackerel-08-v1",
+      "mackerel-68k_mackerel-10-v1",
+      "mackerel-68k_mackerel-10-v1_mackerel-10-v1",
+      "mackerel-68k_mackerel-30-proto"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "50786ed64897e037c57989c3322f02ea375584b7",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "cryptovillage/badge2015": {
     "boards": [
@@ -5253,6 +6508,22 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "dbuchwald/6502": {
+    "boards": [
+      "6502_65C02_Computer",
+      "6502_Clock_module"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d1194eb0162b50493e9f32f2d46c190da779da66",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "deefstes/NiMH-Charger": {
     "boards": [
       "NiMH-Charger_NiMH Charger"
@@ -5408,6 +6679,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "dilshan/12v-automatic-ups": {
+    "boards": [
+      "12v-automatic-ups_ups-12v"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "54fbb47b807d09cc0663b313c108919bbdafeb8c",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "dima-ch/esp-serial-terminal": {
     "boards": [
       "esp-serial-terminal_esp-com"
@@ -5453,6 +6739,38 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "dmadison/Sim-Racing-Shields": {
+    "boards": [
+      "Sim-Racing-Shields_Logitech_Pedal_Shield_Pro_Micro",
+      "Sim-Racing-Shields_Logitech_Shifter_Shield_Pro_Micro"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "cbabdc42ba81eac03a932a90503faf831df9df1e",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "dnlbauer/corax-keyboard": {
+    "boards": [
+      "corax-keyboard_keyboard",
+      "corax-keyboard_pcbs_keyboard"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "7e01724621f12f1c1099f78c978bcb6aca19b795",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "dobrMAN/ESP_nRF_Relay": {
     "boards": [
       "ESP_nRF_Relay_Relay_WiFi_nRF24"
@@ -5494,6 +6812,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "doudar/SmartSpin2k": {
+    "boards": [
+      "SmartSpin2k_SmartSpin2k"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v2.0",
+    "path": "LICENSE",
+    "source_commit": "a3ff5d3e495e2f733eb093a0eb3cae127f4d488e",
+    "spdx_id": "GPL-2.0",
+    "status": "licensed"
+  },
   "dqmcdonald/SynthDrumTrigger": {
     "boards": [
       "SynthDrumTrigger_Synth Drum Trigger"
@@ -5506,6 +6839,21 @@
     "source_commit": "8b04e059f46283a4db6998660fd43a4813012a25",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "drfailov/DRM_Watch_v3": {
+    "boards": [
+      "DRM_Watch_v3_DRM_Watch_V3"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "287ae45200c96f390c3330f1d79df75f8146109e",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "drspangle/infidel-sensor": {
     "boards": [
@@ -5520,6 +6868,36 @@
     "path": "LICENSE",
     "source_commit": "7717a6b1fd698c42070c5623b51f9c4f136f5664",
     "spdx_id": "CC0-1.0",
+    "status": "licensed"
+  },
+  "duckyb/eternal-keypad": {
+    "boards": [
+      "eternal-keypad_eternal-keypad"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "bf11c1d50ead127c25401d262d73834e8438f3ca",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "duckyb/urchin": {
+    "boards": [
+      "urchin_main"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "aef241da7870dbae322416a00fbb269f1a24d8b1",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "dusjagr/ESPTINY86_Stompbox": {
@@ -5704,6 +7082,21 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "embeddedalpha/PCB-Design": {
+    "boards": [
+      "PCB-Design_RoProp"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "a6170a87b2f39b09be0f116fe120563eab830cb1",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "emc2cube/MySRaspiGW": {
     "boards": [
       "MySRaspiGW_MySRaspiGW",
@@ -5748,6 +7141,21 @@
     "path": "LICENSE",
     "source_commit": "aa23c4336aa010d0988eff22ad020eb06de56765",
     "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "engmung/Patternflow": {
+    "boards": [
+      "Patternflow_patternflow"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE-CC-BY-SA",
+    "source_commit": "87700bdb5a60eedaa5b6c08b3a918094804551b2",
+    "spdx_id": "CC-BY-SA-4.0",
     "status": "licensed"
   },
   "ep092/TX5823": {
@@ -5817,6 +7225,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "espway/espway": {
+    "boards": [
+      "espway_espway"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "LGPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU Lesser General Public License v3.0",
+    "path": "COPYING",
+    "source_commit": "6629d2fb8782719740de33bf8e7ba1ca1159645f",
+    "spdx_id": "LGPL-3.0",
+    "status": "licensed"
+  },
   "estalldecker/arduino": {
     "boards": [
       "arduino_arduino leds"
@@ -5859,6 +7282,21 @@
     "source_commit": "0d1b315ca720f7f9c22332c6d3201202ebae939c",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "fabiansteiner/OpenValve": {
+    "boards": [
+      "OpenValve_PG_attiny404"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENCE",
+    "source_commit": "68c05cee74276ad01682fd4d760647811df4929b",
+    "spdx_id": "CERN-OHL-S-2.0",
+    "status": "licensed"
   },
   "fabkominka/uedaino": {
     "boards": [
@@ -6061,6 +7499,21 @@
     "spdx_id": "Apache-2.0",
     "status": "licensed"
   },
+  "fraktalcyber/lfi-rig": {
+    "boards": [
+      "lfi-rig_lfi-driver"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9d16d03229803461191226743b95b48cf133b5db",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "freeDSP/freeDSP-CLASSIC-SMD-BALANCED": {
     "boards": [
       "freeDSP-CLASSIC-SMD-BALANCED_FreeDSP_BAL"
@@ -6113,6 +7566,41 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "fxkuehl/mantis": {
+    "boards": [
+      "mantis_mantis",
+      "mantis_mantis_raised_leds",
+      "mantis_mantis_reversible_split_leds"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "c89ad02468c95bb6960cbd860d6abbe0f809cd01",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "galopago/misistemita": {
+    "boards": [
+      "misistemita_C07",
+      "misistemita_C08",
+      "misistemita_C11",
+      "misistemita_C12"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "4ff8ffb8ad80d6836cf9cbfcf74dfce9c9a24ba3",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "gatechipdl/BirdAttractor": {
     "boards": [
       "BirdAttractor_BirdAttractor_RevA",
@@ -6126,6 +7614,21 @@
     "source_commit": "35a6759930102a062330296ddb215e49c609367c",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "gcormier/megadesk": {
+    "boards": [
+      "megadesk_megadesk"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "2d1bf8d30337841dc9f5c1ef0724701185f99c39",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "genuine-engineering/wifi-iot-core-hw": {
     "boards": [
@@ -6185,6 +7688,21 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "goat-hill/bitclock": {
+    "boards": [
+      "bitclock_canary"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "c06e1b5c1ea5e7673b5b4e85a27384f967de3ef7",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "google/makerspace-emonth": {
     "boards": [
       "makerspace-emonth_load_box",
@@ -6226,6 +7744,81 @@
     "source_commit": "a0bfb31218d4d4fba86d2c2213105d9b9eb7bef3",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "greatfet-hardware/azalea": {
+    "boards": [
+      "azalea_azalea"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "file": "LICENSE",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "LICENSE",
+    "source_commit": "0712ed4bd38b2ee44333d752aebff4a3c3d737eb",
+    "spdx_id": "BSD-3-Clause",
+    "status": "licensed"
+  },
+  "greatscottgadgets/amalthea": {
+    "boards": [
+      "amalthea_amalthea_rev0"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "BSD-3-Clause"
+    ],
+    "file": "LICENSE",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "path": "LICENSE",
+    "source_commit": "2d43c7706e2fc2aa581dd58e6348c42cdaf8f230",
+    "spdx_id": "BSD-3-Clause",
+    "status": "licensed"
+  },
+  "greatscottgadgets/cynthion-hardware": {
+    "boards": [
+      "cynthion-hardware_cynthion"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "13aa71c2fb0be3837cd2ec580ee5d2c25fc1c678",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
+  "greatscottgadgets/hackrf": {
+    "boards": [
+      "hackrf_hackrf-one"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v2.0",
+    "path": "COPYING",
+    "source_commit": "393dc91be7e0cd17af61600d7ce31d8a54a2f404",
+    "spdx_id": "GPL-2.0",
+    "status": "licensed"
+  },
+  "greatscottgadgets/yardstick": {
+    "boards": [
+      "yardstick_yardstickone"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v2.0",
+    "path": "COPYING",
+    "source_commit": "2e6516c3309011f8b93c3175fa2f7d96722f1ee7",
+    "spdx_id": "GPL-2.0",
+    "status": "licensed"
   },
   "gregdavill/d20-hardware": {
     "boards": [
@@ -6295,6 +7888,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "hackclub/hackpad": {
+    "boards": [
+      "hackpad_orpheuspad_pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "005fe8df4b2f1c85364a4bd74b307b6c10c9685b",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "hacklabmikkeli/mini_ice40": {
     "boards": [
       "mini_ice40_mini_ice40"
@@ -6308,6 +7916,21 @@
     "path": "LICENSE",
     "source_commit": "21920d8b941f07bf28713866522028fee9a3e969",
     "spdx_id": "LGPL-3.0",
+    "status": "licensed"
+  },
+  "hackup/Pi1541io": {
+    "boards": [
+      "Pi1541io_Pi1541io"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "8b1f812c6000bd99cd8c51c478cf3033a18ac5b6",
+    "spdx_id": "CC-BY-SA-4.0",
     "status": "licensed"
   },
   "hak8or/WeatherSpot": {
@@ -6512,6 +8135,21 @@
     "source_commit": "f5d886d1b6fa12185100a366afeabefcc795927d",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "horvathgergo/esp8266-for-uppatvind": {
+    "boards": [
+      "esp8266-for-uppatvind_Air-Purifier-Uppatvind"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "c52bed4af51d0bdd5eb4b477d7ba275183aeabd3",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "hosier/free-of-charge": {
     "boards": [
@@ -6892,6 +8530,22 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "jackw01/pi-tin": {
+    "boards": [
+      "pi-tin_displaypcb",
+      "pi-tin_mintypcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "3c433e58ce99d202a0605d67e0e0df8a3e012e38",
+    "spdx_id": "CERN-OHL-W-2.0",
+    "status": "licensed"
+  },
   "jacobrosenthal/nrf51-kicad": {
     "boards": [
       "nrf51-kicad_nrf51x22_qfax_dcdc"
@@ -6932,6 +8586,38 @@
     "path": "LICENSE.txt",
     "source_commit": "363543572bff0cd89358603a17618c475582ad26",
     "spdx_id": "CERN-OHL-1.2",
+    "status": "licensed"
+  },
+  "jago85/Brutzelkarte_PCB": {
+    "boards": [
+      "Brutzelkarte_PCB_brutzelkarte"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "8092f61fddf7d663bd0b9afa4e51b442c957d41e",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "jago85/UltraPIF_Hardware": {
+    "boards": [
+      "UltraPIF_Hardware_led",
+      "UltraPIF_Hardware_pif_adapter",
+      "UltraPIF_Hardware_pif_fpga"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "36978bc9ee9cd4313d5bb5ad45c0e83469e7268a",
+    "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
   "jalouke/CubeSAT-Reaction-Wheel": {
@@ -7030,6 +8716,23 @@
     "source_commit": "ab7da7cfa9d332391cc7fa58ce7ebac3263f2276",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "jasonsbeer/Amiga-2000-EATX": {
+    "boards": [
+      "Amiga-2000-EATX_2000ATX",
+      "Amiga-2000-EATX_TICK",
+      "Amiga-2000-EATX_TICK_OSC_KiCAD_TICK"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "dfde4574396919e9cc51f5079ef054e4de3b9a07",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "jatf2/kicad-guitar-preamp": {
     "boards": [
@@ -7202,6 +8905,24 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "jes/scamp-cpu": {
+    "boards": [
+      "scamp-cpu_alu",
+      "scamp-cpu_instruction",
+      "scamp-cpu_memory",
+      "scamp-cpu_serial"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Unlicense"
+    ],
+    "file": "LICENSE",
+    "name": "The Unlicense",
+    "path": "UNLICENSE",
+    "source_commit": "11710ad5fe76fee11a6d3748f511093d5cf4f551",
+    "spdx_id": "Unlicense",
+    "status": "licensed"
+  },
   "jgillick/DiscoDanceFloorV1": {
     "boards": [
       "DiscoDanceFloorV1_BusTerminator",
@@ -7302,6 +9023,21 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "jkramarz/TheTick": {
+    "boards": [
+      "TheTick_Tick"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "74d8d6b81eab4fd260727502a72f293ef94791cf",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "jnduli/led_array_atmega8": {
     "boards": [
       "led_array_atmega8_led_array"
@@ -7341,6 +9077,24 @@
     "path": "LICENSE.md",
     "source_commit": "bc75ceed9107d42273d60bd842cda7f49a1d3c41",
     "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
+  },
+  "joeyparrish/kinetoscope": {
+    "boards": [
+      "kinetoscope_cart",
+      "kinetoscope_ethernet",
+      "kinetoscope_microcontroller",
+      "kinetoscope_sram-bank"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE.txt",
+    "source_commit": "d16046bc49e546b990b5a47726791dd27c7ede28",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "johaa1993/KiCad-LTC6802-2": {
@@ -7449,6 +9203,24 @@
     "source_commit": "960ceaf6237459de5433fd9291d65290bac05a2f",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "jpconstantineau/ErgoTravel": {
+    "boards": [
+      "ErgoTravel_ErgoTravel",
+      "ErgoTravel_PCB_Choc_ErgoTravel",
+      "ErgoTravel_PCB_Choc_LED_ErgoTravel",
+      "ErgoTravel_PCB_ErgoTravel"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "e9be40f69359cc593c21303f7be7bc1916a83468",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "jpmeijers/RN2483shield": {
     "boards": [
@@ -7562,6 +9334,24 @@
     "source_commit": "04786edfed8a476e99ea4ba5b2eede991fd08607",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "justbuchanan/oasis": {
+    "boards": [
+      "oasis_kicad_pcb",
+      "oasis_ledboard",
+      "oasis_pcb",
+      "oasis_v0.2_kicad_pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "3462f162f80e11c78705218441af37639d87bfdc",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
   },
   "k0swe/mountaineer": {
     "boards": [
@@ -7732,6 +9522,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "keyzog/kapl": {
+    "boards": [
+      "kapl_Kapl"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3635c4fcb3f1a1865659c9e87bb95f8a7c3f55bb",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "kitspace-forks/BQ25570_Harvester": {
     "boards": [
       "kitspace_BQ25570_Harvester"
@@ -7772,6 +9577,21 @@
     "source_commit": "0f9b99c2eb6427df38925d6b1475442d47d27e24",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "klein0r/pcb-ws2812-wifi-controller": {
+    "boards": [
+      "pcb-ws2812-wifi-controller_WS2812Controller"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "becf48ba00bd2d265ff2fd53a1c020a8aa84677a",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "knielsen/ice40_stm32_fsmc_test": {
     "boards": [
@@ -7871,6 +9691,42 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "lab11/polypoint": {
+    "boards": [
+      "polypoint_pinpoint_timebase",
+      "polypoint_protopoint",
+      "polypoint_v1p0_protopoint",
+      "polypoint_v1p1_protopoint"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "0a21b19db7d00c0b0d9b523a54a6b243a5e64bac",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
+  "lab11/signpost": {
+    "boards": [
+      "signpost_ambient",
+      "signpost_rev_a_ambient",
+      "signpost_rev_b_ambient",
+      "signpost_rev_d_ambient"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE-APACHE",
+    "source_commit": "f8f9efe01185763a943f949eddcd1a2ed87dd32c",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
   "ledalert/motor-3xdrv8833-hw": {
     "boards": [
       "motor-3xdrv8833-hw_ver1"
@@ -7922,6 +9778,21 @@
     "source_commit": "0ce6fe4d3202835c4b4a44cca37b39abbe83a43a",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "leomanangka/esp32-4-channel-relays": {
+    "boards": [
+      "esp32-4-channel-relays_esp32-4-channel-relays"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "3c7d3b1eb80e781737f5ec5bed8cc10faca1ca0c",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
   },
   "less-smog/hardware": {
     "boards": [
@@ -8148,6 +10019,22 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "m1geo/Pi5_PCIe": {
+    "boards": [
+      "Pi5_PCIe_Pi5_M2_Hat",
+      "Pi5_PCIe_Pi5_PCIe"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3047c9f160eec119d914ec9dab18eb099b6ed4f7",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "m3h7/hm-mod-rpi-rtc": {
     "boards": [
       "hm-mod-rpi-rtc_hm-mod-rpi-rtc"
@@ -8365,6 +10252,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "martinribelotta/h730duino": {
+    "boards": [
+      "h730duino_h730duino"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENCE.txt",
+    "source_commit": "d8f03b62cdc8adddc411dcd4d9bba60abc2dcfea",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "martinribelotta/poncho_fpga": {
     "boards": [
       "poncho_fpga_fpga-dongle"
@@ -8423,6 +10325,36 @@
     "path": "LICENSE",
     "source_commit": "c57c4faecf1c7ec076c9ab52bdb8c505b577ea77",
     "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "mattdibi/redox-keyboard": {
+    "boards": [
+      "redox-keyboard_redox_rev1"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "55979e1f78d61375171b2c716a6c1ceb64a486ea",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "mattvenn/basic-ecp5-pcb": {
+    "boards": [
+      "basic-ecp5-pcb_basic-ecp5-pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC0-1.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "path": "CC0_license",
+    "source_commit": "f5ee05d1fba1e30c2f734951bcccd744ad7db93e",
+    "spdx_id": "CC0-1.0",
     "status": "licensed"
   },
   "mattvenn/esp8266-breakout": {
@@ -8494,6 +10426,36 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "mbtaylor1982/ReSDMAC": {
+    "boards": [
+      "ReSDMAC_ReSDMAC"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "License.txt",
+    "source_commit": "2e0842f1f4ff41a006efdc871bafe73db80d95bf",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
+  },
+  "mecparts/RetroWiFiModem": {
+    "boards": [
+      "RetroWiFiModem_RetroWiFiModem"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.txt",
+    "source_commit": "93ae395d948b36fcf846eda8158dcae77d6c4593",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "meerstern/STM32F303_LQFP48": {
     "boards": [
       "STM32F303_LQFP48_STM32_LQFP48"
@@ -8534,6 +10496,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "midilab/aciduino": {
+    "boards": [
+      "aciduino_aciduino_pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "9f5f972529ee3ea69038b421a2a653397776828e",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "mik4el/gadget-speed-radar": {
     "boards": [
       "gadget-speed-radar_gadget_speed_radar_rev2"
@@ -8567,6 +10544,41 @@
     "path": "LICENSE",
     "source_commit": "4b4f8d41ee2fd6713775db15ea5a9d9b5cb0d397",
     "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
+  "mikemountain/nfl-led-scoreboard": {
+    "boards": [
+      "nfl-led-scoreboard_active3-rpi-hub75-adapter",
+      "nfl-led-scoreboard_passive-rpi-hub75-adapter",
+      "nfl-led-scoreboard_passive3-rpi-hub75-adapter"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "0aa9f2519187c5fe831b804265b7decc1b5e5782",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "miliar/saiboard": {
+    "boards": [
+      "saiboard_11x3",
+      "saiboard_3x8",
+      "saiboard_8x3",
+      "saiboard_8x8"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "541b72eb3ddea7e42299794517e2c65716c10123",
+    "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
   "mimeindustries/MeArm-Wireless-PCB": {
@@ -8622,6 +10634,21 @@
     "source_commit": "eb17760e560998f44dffeaf80a32ddf2951dfa7f",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "misprit7/real-time-chess": {
+    "boards": [
+      "real-time-chess_kfchess"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "2f62f9f60c3de4f5148becde97f750d97597c056",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "mithro/edid-injector": {
     "boards": [
@@ -8740,6 +10767,21 @@
     "path": "arduino/gps_clock/license.txt",
     "source_commit": "be9406fff8bbc6a6a71985bdf04ca25d9db11ac6",
     "spdx_id": "BSD-3-Clause",
+    "status": "licensed"
+  },
+  "moduloindustries/thinkeys": {
+    "boards": [
+      "thinkeys_thinkeys"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "06bccbcb571c2efc3ba0dfe458cd0720a1e241b6",
+    "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
   "mogenson/firefly-jar": {
@@ -9075,6 +11117,66 @@
     "spdx_id": "Apache-2.0",
     "status": "licensed"
   },
+  "mzuelch/CATs-Eurosynth": {
+    "boards": [
+      "CATs-Eurosynth_4CH_Mixer",
+      "CATs-Eurosynth_APC_Eurorack_Main",
+      "CATs-Eurosynth_Abakus_Control",
+      "CATs-Eurosynth_Abakus_Main",
+      "CATs-Eurosynth_Arduino_VCO_Main",
+      "CATs-Eurosynth_Baby_8",
+      "CATs-Eurosynth_Buffered_Multiple_Main",
+      "CATs-Eurosynth_Buffered_Multiple_SMD_Main",
+      "CATs-Eurosynth_CGS_Analog_Switch_Matrix_Control",
+      "CATs-Eurosynth_CGS_Analog_Switch_Matrix_Main",
+      "CATs-Eurosynth_Classic_ADSR_Main",
+      "CATs-Eurosynth_Clock_Divider_Control",
+      "CATs-Eurosynth_Clock_Divider_Main",
+      "CATs-Eurosynth_Dual_VCA_2_Control",
+      "CATs-Eurosynth_Dual_VCA_2_Main",
+      "CATs-Eurosynth_Envelope_Follower_Main",
+      "CATs-Eurosynth_HAGIWO_4Ch_Sampler",
+      "CATs-Eurosynth_HAGIWO_6Ch_Gate_Sequencer_Main",
+      "CATs-Eurosynth_HAGIWO_Display_Main",
+      "CATs-Eurosynth_HAGIWO_MultiOut_Control",
+      "CATs-Eurosynth_HAGIWO_MultiOut_Main",
+      "CATs-Eurosynth_HAGIWO_Ring_Modulator_Main",
+      "CATs-Eurosynth_HAGIWO_Sync_LFO_Main",
+      "CATs-Eurosynth_Haraldswerk_NGF-E_LFO_Main",
+      "CATs-Eurosynth_LFO_Main",
+      "CATs-Eurosynth_MFOS_Eight_Stage_Phase_Shifter_-_Control",
+      "CATs-Eurosynth_MFOS_Eight_Stage_Phase_Shifter_-_Main",
+      "CATs-Eurosynth_MFOS_Noise_Cornucopia_Control",
+      "CATs-Eurosynth_MFOS_Noise_Cornucopia_Main_1",
+      "CATs-Eurosynth_MFOS_Noise_Cornucopia_Main_2",
+      "CATs-Eurosynth_Main_Rectifier_Main",
+      "CATs-Eurosynth_Manual_Gate_Control",
+      "CATs-Eurosynth_Manual_Gate_Main",
+      "CATs-Eurosynth_Power_Modul_Main",
+      "CATs-Eurosynth_Rectifier_Main",
+      "CATs-Eurosynth_S_H_Main",
+      "CATs-Eurosynth_Sample_and_Hold_SMD_Main",
+      "CATs-Eurosynth_Single_Attenuator",
+      "CATs-Eurosynth_Slim_Precision_Adder_Main",
+      "CATs-Eurosynth_Slimline_Clock_Divider_SMD_Main",
+      "CATs-Eurosynth_Slimline_VCA_Main",
+      "CATs-Eurosynth_Slimline_Voltage_Controlled_Switch_-_Main",
+      "CATs-Eurosynth_Vactrol_VCF_-_Main",
+      "CATs-Eurosynth_YuSynth_Dual_Balanced_Modulator_Main",
+      "CATs-Eurosynth_YuSynth_Improved_Steiner_VCF_Control",
+      "CATs-Eurosynth_YuSynth_Improved_Steiner_VCF_Main"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "ee70506817f1fb5fa16a87c3e2a54a6ded8ee441",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "nalamat/supply-ldo-adj-single": {
     "boards": [
       "supply-ldo-adj-single_supply-ldo-adj-single"
@@ -9117,6 +11219,22 @@
     "path": "LICENSE.txt",
     "source_commit": "4ac76eb41bdfa471c01f771b978166a68257709b",
     "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
+  "neggles/cfxsx": {
+    "boards": [
+      "cfxsx_cfxsx",
+      "cfxsx_cfxsx-2280"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.md",
+    "source_commit": "4a3f01c83f23216ed0fae90ac7fff194f62540df",
+    "spdx_id": "CC-BY-SA-4.0",
     "status": "licensed"
   },
   "neggles/esp32-cantroller": {
@@ -9194,6 +11312,22 @@
     "path": "LICENSE",
     "source_commit": "6576f39cadfb4310126717c736a46d42afd34244",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "newdigate/teensy-eurorack": {
+    "boards": [
+      "teensy-eurorack_teensy-eurorack",
+      "teensy-eurorack_teensy-eurorack-breakout"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "237c0e698e3afaa43a0606a6f96fa6ea0d4e08a0",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "nickcengel/Solar_Project": {
@@ -9436,6 +11570,22 @@
     "spdx_id": "TAPR-OHL-1.0",
     "status": "licensed"
   },
+  "ojg/thatmicpre": {
+    "boards": [
+      "thatmicpre_thatmicpre_v1",
+      "thatmicpre_thatmicpre_v2"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "c9735275db939b22bd7b8fc5899793add46f3683",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
+  },
   "ojousima/RaspberryPi-PoE": {
     "boards": [
       "RaspberryPi-PoE_PoELLi_PI"
@@ -9508,6 +11658,21 @@
     "path": "LICENSE",
     "source_commit": "8609545c381a26ea10cfb451772550f4f709f0cd",
     "spdx_id": "Unlicense",
+    "status": "licensed"
+  },
+  "openeew/openeew-sensor": {
+    "boards": [
+      "openeew-sensor_pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "b1fae4e89ca090c37aefb8ce166741464834da3f",
+    "spdx_id": "Apache-2.0",
     "status": "licensed"
   },
   "orionrobots/jdy-08-board": {
@@ -9643,6 +11808,24 @@
     "spdx_id": "CC-BY-SA-4.0",
     "status": "licensed"
   },
+  "pcbreflux/espressif": {
+    "boards": [
+      "espressif_ESP32-adapter-pan-esp3212",
+      "espressif_ESP32-epaper-adapter-pan",
+      "espressif_ESP32-li-ion-cell-monitor_pan",
+      "espressif_ESP32-wroover-adapter-pan"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "fb147ec49807592c2ac480791f7006dd69263fea",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "pdp7/memory-display": {
     "boards": [
       "memory-display_memory-display"
@@ -9729,6 +11912,36 @@
     "path": "LICENSE",
     "source_commit": "e2f5a48e6f2a703abdbf9f5dbf642d47df8d99d3",
     "spdx_id": "CERN-OHL-1.2",
+    "status": "licensed"
+  },
+  "peej/for-science-keyboard": {
+    "boards": [
+      "for-science-keyboard_for-science"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "f30ab1072f86780eb4f4e537e78107cea54455a7",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "peej/lumberjack-keyboard": {
+    "boards": [
+      "lumberjack-keyboard_lumberjack"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "53bfb50b64dd8c938bdb6a964360709c7e6573e0",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "peekpt/mightyduino": {
@@ -9937,6 +12150,21 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "pinguz97/Zynq-SoM": {
+    "boards": [
+      "Zynq-SoM_Zynq_SoM"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "ad96951a225fbf9f263b555ef070a536b09ff710",
+    "spdx_id": "CERN-OHL-S-2.0",
+    "status": "licensed"
+  },
   "piotr-wiszowaty/srambo_1": {
     "boards": [
       "srambo_1_srambo_1"
@@ -9980,6 +12208,24 @@
     "path": "License.md",
     "source_commit": "4e389e4526ecf8d0e08d15c7454607646ab78c11",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "plusvic/simplebus2-intercom": {
+    "boards": [
+      "simplebus2-intercom_buzzer",
+      "simplebus2-intercom_buzzer_b",
+      "simplebus2-intercom_remote_unit_v2",
+      "simplebus2-intercom_repeater_v2"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC0-1.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "path": "LICENSE.md",
+    "source_commit": "d3a0fd15acb94dc279f4a11ddfe211b590f1c61a",
+    "spdx_id": "CC0-1.0",
     "status": "licensed"
   },
   "pmtoy/pmtoy-hardware-pcb": {
@@ -10069,6 +12315,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "pscrespo/Morpheus-STM32": {
+    "boards": [
+      "Morpheus-STM32_Morpheus-kicad"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "d99f5e15f1eaced48bce63b4084d70f21dd5c2fd",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "q61org/divergence_meter": {
     "boards": [
       "divergence_meter_dm_control",
@@ -10126,6 +12387,21 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "raeedcho/temper": {
+    "boards": [
+      "temper_temper"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "08b23b021fcec6c2ae355cade7e0e473530afb85",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "randomdot/ErgodoneWithHole": {
     "boards": [
       "ErgodoneWithHole_ErgoDone"
@@ -10139,6 +12415,23 @@
     "path": "LICENSE",
     "source_commit": "0e051e6cb3fa0388e0b581e7fb2a2185eaa7dea1",
     "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "ravinrabbid/DonCon2040": {
+    "boards": [
+      "DonCon2040_DonConIO",
+      "DonCon2040_DonConIOmini",
+      "DonCon2040_DonConPad"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "fe7494961dfcbb94f4b3ca0f841e0784418b430b",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "rbaron/b-parasite": {
@@ -10499,6 +12792,21 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "rschenk/re-gret": {
+    "boards": [
+      "re-gret_regret"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE.md",
+    "source_commit": "7bc7908e7579d462b8eebd255a90dd71fe2e64b8",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "russellmcc/eurorack_headphones": {
     "boards": [
       "eurorack_headphones_eurorack_headphones"
@@ -10701,6 +13009,21 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "sebastienroy/shutter_speed_tester": {
+    "boards": [
+      "shutter_speed_tester_shutter_speed_tester"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "ad143684c8c91a640fd3bbec05ae9ec45f74c4d8",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "sektioneins/ipod-serial-adapter": {
     "boards": [
       "ipod-serial-adapter_s1_ipod_serial"
@@ -10834,6 +13157,21 @@
     "spdx_id": "CERN-OHL-P-2.0",
     "status": "licensed"
   },
+  "siderakb/pmw3610-pcb": {
+    "boards": [
+      "pmw3610-pcb_pmw3610_pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-P-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "path": "LICENSE",
+    "source_commit": "02658835a74cb683d0237ab21a1538de79452a9e",
+    "spdx_id": "CERN-OHL-P-2.0",
+    "status": "licensed"
+  },
   "siderakb/rp-micro": {
     "boards": [
       "rp-micro_rp-micro"
@@ -10906,6 +13244,21 @@
     "path": "LICENSE",
     "source_commit": "70f5cbf8e2d14cb98c3b4f1401e088d169dcd385",
     "spdx_id": "BSD-2-Clause",
+    "status": "licensed"
+  },
+  "skot/bitaxe": {
+    "boards": [
+      "bitaxe_bitaxeUltra"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "942bbd97aab09b12d826c6e82c64f3fb91246c4c",
+    "spdx_id": "CERN-OHL-S-2.0",
     "status": "licensed"
   },
   "slightlynybbled/fan_controller": {
@@ -11032,6 +13385,21 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "somepin/qalble": {
+    "boards": [
+      "qalble_QALBLE"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "26fe358f6630e5bc6a6f10869bf87301c3086e77",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "spadgenske/kicad-projects": {
     "boards": [
       "kicad-projects_BatCharge",
@@ -11075,6 +13443,52 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "sporkus/le_chiffre_keyboard_stm32": {
+    "boards": [
+      "le_chiffre_keyboard_stm32_stm32_chiffre_36keys",
+      "le_chiffre_keyboard_stm32_stm32_hotswap_chiffre"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "COPYING",
+    "source_commit": "57f64495c4b6dca1566b8ddbd464849c4023a56f",
+    "spdx_id": "CERN-OHL-W-2.0",
+    "status": "licensed"
+  },
+  "sssata/fluxpad": {
+    "boards": [
+      "fluxpad_Fluxpad"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "8b2e752136033a81b9da01566e2e36ccafb966d6",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "stack-chan/stack-chan": {
+    "boards": [
+      "stack-chan_m5-pantilt"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "Apache-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "Apache License 2.0",
+    "path": "LICENSE",
+    "source_commit": "5d9cc20d37420b47f7a3e2e4a34bb7c0018ae91b",
+    "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
   "stackmagic/atmel-programmer": {
     "boards": [
       "atmel-programmer_atmel_programmer"
@@ -11088,6 +13502,21 @@
     "path": "LICENSE",
     "source_commit": "ecc3977697c3ff2e5a33b2559831eb781e611998",
     "spdx_id": "Apache-2.0",
+    "status": "licensed"
+  },
+  "stas2k/galspanic": {
+    "boards": [
+      "galspanic_galspanic"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "b90ae3bb29a3ca4bceba48cc3b01dd7f7ca8adb1",
+    "spdx_id": "MIT",
     "status": "licensed"
   },
   "staticboards/sb-serial-usb": {
@@ -11115,6 +13544,54 @@
     "name": "MIT License",
     "path": "LICENSE",
     "source_commit": "79dc3a5683797543baf842aab692768fad872ba4",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "stonedDiscord/nonSNES": {
+    "boards": [
+      "nonSNES_SNSP-CPU-01",
+      "nonSNES_SNSP-CPU-1CHIP"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "cf2e70b35b141b551b1683b0fac1c4b29f9ed0d6",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "strangeparts/niubi-headphones": {
+    "boards": [
+      "niubi-headphones_headphones_flex_pcb",
+      "niubi-headphones_headphones_flex_pcb-rigid",
+      "niubi-headphones_headphones_prototype_pcb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d8f4b49683f791032072101c1a101beb0e74e940",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
+  "strayer/taira-keyboard": {
+    "boards": [
+      "taira-keyboard_tairakb"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3ed4d2978658386cf189df129f36f1a53dfa545d",
     "spdx_id": "MIT",
     "status": "licensed"
   },
@@ -11203,6 +13680,22 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "tardate/LittleArduinoProjects": {
+    "boards": [
+      "LittleArduinoProjects_LEDx16_board",
+      "LittleArduinoProjects_sevensegment_led_display_module"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "1e66c63985c778e8e04de07a27cad3cfafd5cfea",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "taylorconor/threeboard": {
     "boards": [
       "kitspace_threeboard"
@@ -11279,6 +13772,21 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "teapotlaboratories/feather-rak3172": {
+    "boards": [
+      "feather-rak3172_feather_rak3172"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "3d07959fe17d5e80ef144d2306df94c57608312a",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "tebl/RC2014": {
     "boards": [
       "RC2014_RC2014 IDE",
@@ -11296,6 +13804,24 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "tebl/RC6502-Apple-1-Replica": {
+    "boards": [
+      "RC6502-Apple-1-Replica_RC6502_Apple_1_SBC",
+      "RC6502-Apple-1-Replica_RC6502_General_Video_Adapter",
+      "RC6502-Apple-1-Replica_RC6502_Terminal",
+      "RC6502-Apple-1-Replica_RC6502_VDU"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE.md",
+    "source_commit": "a13002e0397823f2b020dad08ad8a417129f75d0",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "tessel/reach-nrf51822-hardware": {
     "boards": [
       "reach-nrf51822-hardware_reach-target-hw"
@@ -11308,6 +13834,21 @@
     "source_commit": "b775636238eebf662b0431e242ab5b10c08846e5",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "thawney/PedalPiV2": {
+    "boards": [
+      "PedalPiV2_pedal-pi-Robin"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "47509cb6af53d776d463f3f1e1a43977308df143",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "the-vty/bmw-ibus-bluetooth": {
     "boards": [
@@ -11440,6 +13981,24 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "thpoll83/PolyKybd": {
+    "boards": [
+      "PolyKybd_poly_corne_split42_left",
+      "PolyKybd_poly_corne_split42_right",
+      "PolyKybd_poly_kybd_split72_left",
+      "PolyKybd_poly_kybd_split72_right"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-W-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "fbea78d0628b91e4c70a8a4633607738158b8ed6",
+    "spdx_id": "CERN-OHL-W-2.0",
+    "status": "licensed"
+  },
   "tht/bpnode-bb": {
     "boards": [
       "bpnode-bb_BPnode-BB"
@@ -11507,6 +14066,39 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "tjko/fanpico": {
+    "boards": [
+      "fanpico_fanpico",
+      "fanpico_fanpico-0200_kicad_fanpico",
+      "fanpico_fanpico-0401D_kicad_fanpico",
+      "fanpico_kicad_fanpico"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "bb0f0482e954df9ceb096c75ed1fb84231d5096a",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
+  "tmarhguy/alu": {
+    "boards": [
+      "alu_gate_xnor_2in"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "5545c67f7027008068e7385954e8dc7d158062fc",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "tmk/HHKB_controller": {
     "boards": [
       "tmk_HHKB_controller"
@@ -11558,6 +14150,39 @@
     "source_commit": "abab76525bdcf2ff2177c4e4450d0f7e94bf356f",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "tompi/cheapino": {
+    "boards": [
+      "cheapino_cheapino"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "eea27c098f43c3f1497a7e5c57b57dbca57b8306",
+    "spdx_id": "CC-BY-4.0",
+    "status": "licensed"
+  },
+  "transistorfet/computie": {
+    "boards": [
+      "computie_68k-SMT",
+      "computie_68kBoard",
+      "computie_Z80Proto",
+      "computie_k30-SBC"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "760e1b8046cc8e6e2dc9e471a0c6300c68ef26fe",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
   },
   "trebb/iso50": {
     "boards": [
@@ -11685,6 +14310,38 @@
     "spdx_id": null,
     "status": "unlicensed"
   },
+  "tzarc/keyboards": {
+    "boards": [
+      "keyboards_Djinn",
+      "keyboards_Rev2a_Djinn",
+      "keyboards_ghoul"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE",
+    "source_commit": "21dd586153f70b0247c3c38f8a8070891e49041d",
+    "spdx_id": "CERN-OHL-S-2.0",
+    "status": "licensed"
+  },
+  "uCAN-LIN/LinUSBConverter": {
+    "boards": [
+      "LinUSBConverter_LIN_USB_CONVERTER"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "GPL-3.0"
+    ],
+    "file": "LICENSE",
+    "name": "GNU General Public License v3.0",
+    "path": "LICENSE",
+    "source_commit": "fc81c9a5903792989f2d5c7dfe86269156b0208f",
+    "spdx_id": "GPL-3.0",
+    "status": "licensed"
+  },
   "urjaman/spisolator": {
     "boards": [
       "spisolator_spisolator"
@@ -11800,6 +14457,24 @@
     "source_commit": "d4ac6ed9da33c4dd6d8713490433a3aa14fb8f8b",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "vascofazza/8bit-cpu": {
+    "boards": [
+      "8bit-cpu_8bit-computer",
+      "8bit-cpu_arduino_eeprom_programmer",
+      "8bit-cpu_display_interface",
+      "8bit-cpu_programming_interface"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "027a60365ede50967a28066cb3f8de64050dac08",
+    "spdx_id": "MIT",
+    "status": "licensed"
   },
   "vedderb/CapPCB": {
     "boards": [
@@ -12139,6 +14814,21 @@
     "spdx_id": "GPL-3.0",
     "status": "licensed"
   },
+  "wonkleio/wonkle": {
+    "boards": [
+      "wonkle_Wonkle"
+    ],
+    "detected_by": "text-match",
+    "detected_ids": [
+      "CERN-OHL-S-2.0"
+    ],
+    "file": "LICENSE",
+    "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+    "path": "LICENSE-CERN-OHL-S-2.0",
+    "source_commit": "a500f5573ac4a16d452eda755156dfd9ac88cacd",
+    "spdx_id": "CERN-OHL-S-2.0",
+    "status": "licensed"
+  },
   "wvat/Radar-System": {
     "boards": [
       "Radar-System_fmcw_radar"
@@ -12322,6 +15012,22 @@
     "spdx_id": "MIT",
     "status": "licensed"
   },
+  "zachmorr/esper": {
+    "boards": [
+      "esper_EsperDNS",
+      "esper_programmer"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "file": "LICENSE",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "5a75659c6963d1c51d92d1bbbd43b7827775aa06",
+    "spdx_id": "MIT",
+    "status": "licensed"
+  },
   "zakqwy/blinktronicator": {
     "boards": [
       "blinktronicator_.kicad_pcb"
@@ -12408,6 +15114,36 @@
     "source_commit": "102624fef69f79674e7c43f7d00529a8c9c8339b",
     "spdx_id": null,
     "status": "unlicensed"
+  },
+  "zli117/CyberKeeb2040": {
+    "boards": [
+      "CyberKeeb2040_MainBoard"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "519856dd8bc7d6d5aef5e1f756823d69aac54325",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
+  },
+  "zli117/Pico-Keyboard": {
+    "boards": [
+      "Pico-Keyboard_pico_keyboard_v1"
+    ],
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "file": "LICENSE",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE",
+    "source_commit": "66d9c1d73f4d51ef8788af3914dd74fe5595f95e",
+    "spdx_id": "CC-BY-SA-4.0",
+    "status": "licensed"
   },
   "zwb800/RASPMINI": {
     "boards": [

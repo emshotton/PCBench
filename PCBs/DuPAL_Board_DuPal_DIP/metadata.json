@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/DuPAL-PAL-DUmper",
+  "source": "https://github.com/DuPAL-PAL-DUmper/DuPAL_Board",
+  "author": "DuPAL-PAL-DUmper",
+  "retrieved at": "2026-09-06 13:59:41.017506",
+  "raw": "../../PCBs/DuPAL_Board_DuPal_DIP/raw.kicad_pcb",
+  "cleaned": "../../PCBs/DuPAL_Board_DuPal_DIP/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0 International",
+    "path": "LICENSE.txt",
+    "source_commit": "a8e19a8700ddf113d743d13a2920727c53209b01",
+    "detected_by": "github",
+    "detected_ids": [
+      "CC-BY-SA-4.0"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "board/DuPal_DIP/DuPal_DIP.kicad_pcb",
+  "source_commit": "a8e19a8700ddf113d743d13a2920727c53209b01"
+}

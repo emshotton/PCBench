@@ -1,0 +1,27 @@
+{
+  "org": "https://github.com/b-karl",
+  "source": "https://github.com/b-karl/KBIC65",
+  "author": "b-karl",
+  "retrieved at": "2026-09-06 13:55:48.003721",
+  "raw": "../../PCBs/KBIC65_kbic65/raw.kicad_pcb",
+  "cleaned": "../../PCBs/KBIC65_kbic65/processed.kicad_pcb",
+  "json": "",
+  "supplementary files": "",
+  "licenses": {
+    "spdx_id": "MIT",
+    "name": "MIT License",
+    "path": "LICENSE",
+    "source_commit": "d024555ba0272be7171bddea51452245b6200383",
+    "detected_by": "github",
+    "detected_ids": [
+      "MIT"
+    ],
+    "status": "licensed",
+    "file": "LICENSE"
+  },
+  "layers": 2,
+  "CAD version": "KiCad 20171130",
+  "kicad_version": "5",
+  "source_path": "kicad/pcb/kbic65.kicad_pcb",
+  "source_commit": "d024555ba0272be7171bddea51452245b6200383"
+}
